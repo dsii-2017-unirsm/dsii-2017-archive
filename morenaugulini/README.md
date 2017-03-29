@@ -39,6 +39,7 @@ I popoli sono costretti ad allontanarsi dai propri territori nativi perdendo qui
 
 * Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 * http://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/
+
 What is -> cosa è?
 Un sistema che permette attraverso fasci di luce la visualizzazione delle reti Wifi della città. 
 Creando una mappa e la visualizzazione di ciò che fino a poco prima non era visibile.
