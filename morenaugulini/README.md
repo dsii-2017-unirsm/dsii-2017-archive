@@ -40,6 +40,8 @@ Questo sistema potrebbe sensibilizzare gli scenari odierni sui livelli di immigr
 I popoli sono costretti ad allontanarsi dai propri territori nativi perdendo quindi le loro radici.
 
 
+
+
 * Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 * http://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/
 
@@ -64,6 +66,9 @@ What if -> cosa succederebbe se? (ipotizzare scenari)
 
 L’installazione forse cerca di avvicinare l’utente a capire che le cose che ci circondano sono più di quelle che possiamo vedere.
 Così facendo l’utente può aprire la nostra visione del mondo e ciò che realmente lo circonda. 
+
+
+
 
 
 * Monument, 2006, Caleb Larsen
