@@ -1,5 +1,4 @@
 
----------------------------------------------------------------------------------------------------------
 The flow towards Europe, 2015, Lucify
 
 What is?
@@ -13,7 +12,10 @@ Through space and time data of migratory flow guaranteed from United Nation
 
 What if?
 what happen if in the map the Nation that receives migrants become larger and the Nation that leaves citizens to go away become smaller?
-----------------------------------------------------------------------------------------------------------
+
+
+
+
 Immaterials: Light painting WiFi, 2012
 
 what is?
@@ -29,7 +31,8 @@ allows to have the light walls.
 What if?
 what happen if we can change the led color from green to red? And if instead of light we have a sound?
 
-----------------------------------------------------------------------------------------------------------
+
+
 
 Monument, 2006, Caleb Larsen
 
