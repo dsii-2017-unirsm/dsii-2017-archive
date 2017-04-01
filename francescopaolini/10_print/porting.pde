@@ -1,4 +1,7 @@
-//test 10 print su processing
+// Porting 10Print by francescopaolini
+// 2017 © francescopaolini, Daniele @Fupete and the course DSII2017 @UniRSM  
+// github.com/fupete — github.com/dsii-2017-unirsm
+// Educational purposes, MIT License, 2017, San Marino
 
 //paramtri iniziali
 int w = 16;     //valore intero "w" per larghezza
