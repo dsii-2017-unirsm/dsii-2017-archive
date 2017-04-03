@@ -1,3 +1,8 @@
+The flow towards Europe
+
+link [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50)
+
+
 what’s
 <br>
 —
