@@ -1,10 +1,9 @@
-# The flow towards Europe
-## Lucify, 2015
+# The flow towards Europe (Lucify, 2015)
 
-***what is***
+## *what is*
 
-***how it works***
+## *how it works*
 
-***what does it mean***
+## *what does it mean*
 
-***what if***
+## *what if*
