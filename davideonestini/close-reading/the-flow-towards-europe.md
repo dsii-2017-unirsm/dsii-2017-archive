@@ -11,7 +11,7 @@ Each point represents 25 asylym applicants.
 
 ***how it works***
 
-The project uses public data published monthly by the United Nations Refugee Agency (UNHCR) and the visualisation works by means of JavaScript, HTML and CSS. Specifically, an algorithm transforms the collected dataset (the daparture date, the arrival date, the coordinates of the country of origin and the coordinates of the arrival country) into a white pixel shown on a blue interactive map. The average pixels' speed was decided to be 5 km/h.
+The project uses public data published monthly by the United Nations Refugee Agency (UNHCR) and the visualisation works by means of JavaScript, HTML and CSS. Specifically, an algorithm transforms the collected dataset (the daparture date, the arrival date, the coordinates of the country of origin and the coordinates of the arrival country) into a white pixel shown on a blue interactive map. The average pixels' speed is set to be 5 km/h.
 
 The user can interact with the map in three different ways; by choosing the speed of the visualization (through a slider on top of the map), by selecting an exact date in the line chart or by hovering over a country.
 
@@ -19,8 +19,10 @@ The project offers a simplified mobile-device visualization as well (in this cas
 
 ***what does it mean***
 
-bla bla bla
+The impact of the European refugees crisis is far more widespread than what we can understand.
+Even if we stay still in our countries, thousands of people are moving around us and we pretend to be blind.
+It means that we don't know how lucky we are.
 
-***what if***
+***what if...***
 
-bla bla bla
+...we could see giant white bubbles containing 25 people each travelling in the sky above our heads?
