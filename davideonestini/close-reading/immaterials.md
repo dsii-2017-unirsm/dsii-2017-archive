@@ -3,11 +3,13 @@
 
 ***what is***
 
-bla bla bla
+Time-lapse photographies showing a light-painted graph with blue bars representing the WiFi network present in the exact spot where they are shown. 
+The pictures are the result of a light painting that took place in the Grünerløkka area of Oslo, 
+Norway.
 
 ***how it works***
 
-bla bla bla
+A 4-meter tall wood stick with 80 leds running the entire length has been carried by the authors of the project around the city of Oslo.
 
 ***what does it mean***
 
