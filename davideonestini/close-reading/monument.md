@@ -7,7 +7,7 @@ An art installation presented at the Peacock Visual Arts centre in Aberdeen, Sco
 
 ***how it works***
 
-A costum software regularly scans headlines from 4.5000 English newspapers and an algorithm detects when someone has been reported as "killed".
+A costum software regularly scans headlines from 4.500 English newspapers and an algorithm detects when someone has been reported as "killed".
 A mechanically-controlled clear acrylic box is fixed to the ceiling of one of the centre's rooms and contains thousand of small yellow plastic balls.
 The algorithm parses the data and for each death it finds, it makes the mechanism drop one ball to the floor.
 The balls therefore accumulate on the floor during the course of the exhibition.
