@@ -13,13 +13,15 @@ A 4-meter tall wood stick with 80 leds running the entire length has been carrie
 The stick was held vertically and the led lights turned on and pulsed according to the strength of the WiFi network in that place and at that moment.
 Thanks to a microcontroller fixed onto the stick, the stronger the WiFi signal was, the more lights lit up from the bottom to the top.
 
-The authors took long-exposure photographs and a video of the result.
-
+The authors needed darkness, so they had to set up the light painting during mid-winter in order to take long-exposure photographs and a video of the result.
 
 ***what does it mean***
 
-bla bla bla
+Pollution is not just physical and it is more invisible what we think. 
+We believe we walk in the "open air" only because our eyes are not made to see shorter wavelengths. 
+If they were, and we could see them as well as we see the visible light, we could not be so sure about breathing free and fresh air.
 
-***what if***
+***what if...***
 
-bla bla bla
+...the WiFi wavelength was longer and therefore visible to human eyes?
+Would we be as mobile-data- and internet-addicted as we are nowadays?
