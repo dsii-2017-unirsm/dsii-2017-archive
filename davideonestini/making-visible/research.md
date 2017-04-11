@@ -7,7 +7,7 @@ Since 2015 I have been volunteering for [CISV International](http://www.cisv.org
 
 ***definition***
 
-Human rights are a set of principles concerned with fairness and equality among people. They identify the most essential freedoms and entitlements we have as human beings. They describe the free and safe life that all people, everywhere, should be able to live. The core of human rights was set in 1948 on the [Universal Declaration of Human Rights (UDHR)](http://www.un.org/en/universal-declaration-human-rights/).
+Human rights are a set of principles concerned with fairness and equality among people. They identify the most essential freedoms and entitlements we have as human beings. They describe the free and safe life that all people, everywhere, should be able to live. The core of human rights was set in 1948 on the [Universal Declaration of Human Rights (UDHR)](http://www.un.org/en/universal-declaration-human-rights/), partly in response to the atrocities of World War II.
 
 ***(in)visible***
 
