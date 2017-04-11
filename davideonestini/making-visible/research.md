@@ -1,8 +1,14 @@
 
 # Human Rights
 
-preamble
+***preamble***
 
-definition
+bla bla bla
 
-(in)visible
+***definition***
+
+bla bla bla
+
+***(in)visible***
+
+bla bla bla
