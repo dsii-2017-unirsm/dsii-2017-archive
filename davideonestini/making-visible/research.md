@@ -11,4 +11,4 @@ bla bla bla
 
 ***(in)visible***
 
-bla bla bla
+Rights are invisible. You can neither see them, nor touch, nor hear. 
