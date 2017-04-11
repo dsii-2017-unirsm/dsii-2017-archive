@@ -7,10 +7,10 @@ Since 2015 I have been volunteering for [CISV International](http://www.cisv.org
 
 ***definition***
 
-Human rights are a set of principles concerned with fairness and equality among people. They identify the most essential freedoms and entitlements we have as human beings. They describe the free and safe life that all people, everywhere, should be able to live.
+Human rights are a set of principles concerned with fairness and equality among people. They identify the most essential freedoms and entitlements we have as human beings. They describe the free and safe life that all people, everywhere, should be able to live. The core of human rights was set in 1948 on the [Universal Declaration of Human Rights (UDHR)](http://www.un.org/en/universal-declaration-human-rights/).
 
 ***(in)visible***
 
-At the most basic level, rights are ideas. Therefore, they are invisible. You can neither see them, nor touch, nor hear. Actually, we rarely think about human rights because we (luckily) live in a country where they are generally respected. We more often talk about rights when they are missing and even in this case, we do not have a proper knowledge or a clear image regarding countries and communities where they are denied.
+At the most basic level, rights are ideas. Therefore, they are invisible. You can neither see them, nor touch, nor hear. Actually, we rarely even think about human rights because we (luckily) live in a country where they are generally respected. We more often talk about rights when they are missing and even in this case, we do not have a proper knowledge or a clear image regarding countries and communities where they are denied.
 
-A data visualization about human rights would be interesting and useful even for CISV's purposes. Indeed, making what we teach and communicate in CISV's programmes visible is a very important part of our "learning-by-doing" approach.  
+A data visualization about human rights would be interesting and useful for CISV's purposes, as well. Indeed, making what we teach and communicate in CISV's programmes visible is a very important part of our "learning-by-doing" approach.  
