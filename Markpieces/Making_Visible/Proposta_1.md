@@ -1,0 +1,7 @@
+<h2> Sensous Sinergy </h2> 
+<h5>L'inizio di una nuova identità</h5>
+
+Le tecnologie evolvono di anno in anno, e noi ci serviamo di queste per superare la “paura della morte”, paura data da ciò che non conosciamo, ciò che non riusciamo a percepire. Il modo in cui gli esseri umani percepiscono la realtà è limitato e in uen- zato da quello che è possibile apprendere attraverso gli organi sensoriali, ma allora, cosa c’entra il Post-umano con tutto questo?, come può il Post-umano intervenire e migliorarci per una percezione diversa del quotidiano?
+I sensi umani si sono evoluti allo scopo di consentire la sopravvivenza, la loro struttura e il loro funzionamento sono un prodotto dell’evoluzione. La percezione quindi non dipende esclusivamente dalle caratteristiche del mondo esterno, ma dal modo in cui le informazioni e gli stimoli che provengono dall’esterno vengono recepiti dagli or- gani sensoriali e interpretati dal cervello.
+
+Sensuous Synergy è un processo mentale che va a interagire con più percezioni per rivelare ed analizzare sensazioni “invisibili”. Per essere più precisi, il mio obbiettivo è creare una distorsione dei sensi percettivi attraverso la sinergia di due di essi, ovvero rendere visibile all’occhio umano i suoni dell’ambiente circostante. Questo processo sarà utile ad una più amplia stimolazione del cervello creando una sinestesia completa tra la vista e l’udito.
