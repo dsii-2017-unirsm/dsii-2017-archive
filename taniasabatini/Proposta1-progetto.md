@@ -1,0 +1,14 @@
+<h2> Post-verità </h2>
+<h5> Proposta 1 </h5>
+
+“Objective facts are less influential in shaping public opinion tan appeals to emotion and personal belief” - Oxford Dictionary
+
+Oggi viviamo un periodo storico in cui la plausibilità delle notizie prende il posto della pertinenza. In altri termini, l’attendibilità delle informazioni perde la fondamentale importanza attribuitale da sempre.
+Siamo entrati nell’epoca della post-verità, in cui un’argomentazione, basata su credenze diffuse e non su fatti accreditati, tende ad essere accettata come veritiera, influenzando l’opinione pubblica.
+Questo “meccanismo” determina e condiziona la diffusione delle informazioni su più livelli, dalla politica allo spettacolo, fino ad arrivare alla cultura.
+
+Attraverso i social network inoltre, la possibilità di diffusione di notizie “bufala” è aumentata esponenzialmente. In particolare la fruibilità delle informazioni è condizionata da Filter Bubble, create da social network e motori di ricerca come Facebook e Google, che influenzano la tipologia di informazioni visualizzate e ed il nostro modo di percepire le notizie, attraverso un algoritmo, calibrato sul nostro comportamento Online. Ciò che vediamo infatti, è il riflesso di ciò che siamo. Come scrive Matthew Ingram su Fortune – “Sorry Mark Zuckerberg, But Facebook Is Definitely a Media Company- “nell’attuale panorama, il controllo sulla distribuzione è diventato importante quasi quanto l’effettiva creazione di contenuti”. Dietro alla diffusione di notizie false, si celano quindi intenti di speculazione economica e politica di Tech Company che scavalcano ogni regolamentazione, noncuranti di un qualsiasi tipo di deontologia professionale e di attendibilità delle fonti, al fine di creare un una rete capillare di “seguaci” da rivendere a inserzionisti.
+
+Se da una parte quindi, le notizie false giocano un ruolo apertamente fondamentale in contesti quali la politica e la relativa propaganda, poiché utilizzate come strumento di diffamazione e calunnia, emerge un ulteriore aspetto preoccupante: nel momento storico in cui l’informazione è più accessibile e capillare che mai, la capacità intellettuale di comprendere e valutare un’informazione si è abbassata irrimediabilmente, soprattutto tra i teenager.
+
+A tal proposito, la volontà del progetto è quella di far emergere le potenzialità negative derivanti dalla diffusione di notizie false, mostrando l’effetto ottenuto sull’opinione pubblica. Prendendo in esame informazioni già esautorate, l’idea è quella di mettere in luce la quantità di condivisioni effettuate, le fonti da cui derivano tali notizie e possibilmente di riuscire ad evidenziare la superficialità nella ricerca e nella comprensione di informazioni da parte degli utenti, al fine di stimolare una riflessione più consapevole sul tema. I dati a cui fare riferimento potrebbero essere ricavati da Twitter.
