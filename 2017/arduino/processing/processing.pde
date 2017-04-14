@@ -33,6 +33,7 @@ void draw() {
       println(a[0]); //print Value1 (in cell 1 of Array - remember that arrays are zero-indexed)
       println(a[1]); //print Value2 value
       
+      // giocarci qui.... studiare reference map... nomi var che abbiano senso...
      // background(255);
      // float mappa= map(float(a[0]),0,1024,0,255);
      // fill(mappa,0,0);
