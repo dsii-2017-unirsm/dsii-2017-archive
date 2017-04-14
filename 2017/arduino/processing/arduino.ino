@@ -5,18 +5,19 @@ void setup() {
 
 void loop() {
    //New variables are declared to store the readings of the respective pins
-  int Value1 = analogRead(A0);
-  int Value2 = analogRead(A1);
-    int Value3 = digitalRead(A1);
+  int Value_0A = analogRead(A0);
+  int Value_1A = analogRead(A1);
+  int Value_1D = digitalRead(A1);
+ 
   /*The Serial.print() function does not execute a "return" or a space
       Also, the "," character is essential for parsing the values,
       The comma is not necessary after the last variable.*/
   
-  Serial.print(Value1, DEC); 
+  Serial.print(Value_0A, DEC); // < analogico piedino 0
   Serial.print(",");
-  Serial.print(Value2, DEC);
-    Serial.print(",");
-  Serial.print(Value3, DEC);
+  Serial.print(Value_1A, DEC); // < analogico piedino 1
+  Serial.print(",");
+  Serial.print(Value_1D, DEC); // < digitale piedino 1
   Serial.println();
-  delay(500); // For illustration purposes only. This will slow down your program if not removed 
+  delay(50); // For illustration purposes only. This will slow down your program if not removed 
 }
