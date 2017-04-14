@@ -3,7 +3,7 @@
 
 “Objective facts are less influential in shaping public opinion tan appeals to emotion and personal belief” - Oxford Dictionary
 
-Oggi viviamo un periodo storico in cui la plausibilità delle notizie prende il posto della pertinenza. In altri termini, l’attendibilità delle informazioni perde la fondamentale importanza attribuitale da sempre.
+Oggi viviamo un periodo storico in cui la plausibilità delle notizie prende il posto della pertinenza. In altri termini, l’attendibilità delle informazioni perde la fondamentale importanza.
 Siamo entrati nell’epoca della post-verità, in cui un’argomentazione, basata su credenze diffuse e non su fatti accreditati, tende ad essere accettata come veritiera, influenzando l’opinione pubblica.
 Questo “meccanismo” determina e condiziona la diffusione delle informazioni su più livelli, dalla politica allo spettacolo, fino ad arrivare alla cultura.
 
