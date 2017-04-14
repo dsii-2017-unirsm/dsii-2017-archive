@@ -12,10 +12,11 @@ articoli [+](http://caleblarsen.com/monument/)
 è un’installazione legata alla morte o meglio alle vittime di omicidi, commessi in quel momento. Ogni vittima è rappresentata da una pallina gialla che cade.
 
 #### what does it mean —
-ogni pallina che cade rappresenta la vita spezzata di una persona, in quell’istante.
+questo progetto realizzato nel 2006 da Caleb Larsen, 
+
 
 #### how it work —
-tramite l’utilizzo di un software, si calcolano diversi dati e notizie prese dalla rete e si definire il numero di persone uccise in un dato periodo.
+l'opera, attraverso l’utilizzo di un algoritmo interno, connessa alla rete ricerca tramite Google News i titoli di cronata nera legata ad omicini. Ogni volta che viene trovato un articolo, l'algoritmo determina il numero dei morti e invia un comando al meccamismo a soffitto di far cadere una pallina gialla (equivalente di una persona uccisa). L’installazione dura per circa 3/4 mesi, ogni mese viene riempito il contenitore delle palline che ne contiene 100 000. All'inizio dell'esposizione, i pallini, saranno scarsamente sparsi attorno allo spazio, e alla fine formeranno un tappeto denso e caotico, in alcuni casi che viaggiano in tutto l'edificio.
  
 #### what if —
 Installazione molto forte e profonda, non di immediata comprensione per un utente che entra all'interno dello spazio espositivo. Dovrebbe esser creata la possibilità per una maggiore informazione sul progetto e/o sulle singole palline che cadono a terra. Stiamo parlando di vite, persone, famiglie, bambini, giovani, adulti, anziani...forse dovremmo soffermarci maggiormente sul significato che l'installazione vuol trasmettere.
