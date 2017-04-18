@@ -1,4 +1,0 @@
-proposta
-<br>
-—
-<br>
