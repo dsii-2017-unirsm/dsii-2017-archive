@@ -1,4 +1,7 @@
-//test 10 print su processing
+// Variazione_01 10Print by francescopaolini
+// 2017 © francescopaolini, Daniele @Fupete and the course DSII2017 @UniRSM  
+// github.com/fupete — github.com/dsii-2017-unirsm
+// Educational purposes, MIT License, 2017, San Marino
 
 //paramtri iniziali
 int w = 10;     //valore intero "w" per larghezza
@@ -33,8 +36,8 @@ void draw() {
     set(0, 0, p);                       //rilascia l'immagine "p" alle cordinate 0-0
     index = 0;                          //
   }
-  if (mousePressed) {
-    colorMode(HSB, 360, 100, 100);
+  if (mousePressed) {                  //se premi il cursore del mouse cambia colore
+    colorMode(HSB, 360, 100, 100);     //parametri che gestiscono il cambiamento colore in realzione alla posizione del cursore 
     strokeWeight(1);
     stroke(mouseY, 100, mouseX);
   } else {
