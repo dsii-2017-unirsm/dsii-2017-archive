@@ -1,9 +1,8 @@
 ## The flow towards Europe
-anno — 2006 <br>
-mostra — Peacock Visual Arts di Aberdeen, Scozia<br>
-design — [Caleb Larsen](http://caleblarsen.com/) <br>
+anno — 2015 <br>
+design — [Lucify](https://www.lucify.com) <br>
 
-link [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50)
+articoli — [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50)
 
 #### what’s —
 piattaforma informativa sul tema della migrazione/migranti, in particolare delle richieste d’asilo per i paesi europei nel periodo 2012.2015
