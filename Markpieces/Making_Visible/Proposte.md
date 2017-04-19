@@ -14,8 +14,7 @@ Rendere visibile l’esperienza del processo cognitivo/mentale, che consiste nel
 Quando le strutture mentali preesistenti si manifestano come palesemente inadeguate alle nuove situazioni che si presentano, interviene il processo di adeguamento che consente alla coscienza e conoscenza di modificarsi per rendersi compatibile con il nuovo modello di realtà esterna.
 
 <h2>Swarm Theory</h2>
-<h5>Casualità organizzata<h5>
+<h5>Casualità organizzata</h5>
 
 Proprietà di un sistema in cui il comportamento collettivo di agenti (non sofisticati) che interagiscono localmente con l'ambiente produce l'emergere di pattern funzionali globali nel sistema.
-
 Rendere visibile la “casualità organizzata” di un sistema, o comportamento che in realtà può sembrare casuale, ma invece segue un percorso e una “mappa di comportamento” ben strutturata.
