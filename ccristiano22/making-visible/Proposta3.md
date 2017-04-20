@@ -27,11 +27,18 @@ gli umani dai mutanti.
 Uno studio condotto dalla Scuola di Medicina dell'Università di Yale ha identificato un gene nel cromosoma umano 6 la cui 
 alterazione sarebbe associata alla dislessia. 
 
- 
 ## Ipotesi 2 ##
 Sarebbe interessante mettere gli utenti non soggetti hai disturbi legati alla dislessia nelle condizioni di un dislessico. 
 Mettendoli in difficoltà, provocando lo sforzo mentale che un dislessico deve compiere durante azioni semplici come leggere, scrivere e fare calcoli.
-Un riferimento interessante è il lavoro del designer Daniel Britton, il quale ha provato attraverso la progettazione di un font chiamo Dyslexic Typeface di mettere le persone nelle stesse condizioni di difficoltà che un dislessico ha durante la lettura e la comprensione di un testo. 
+Un riferimento interessante è il lavoro del designer Daniel Britton, il quale ha provato attraverso la progettazione di un font chiamo Dyslexic Typeface di mettere le persone nelle stesse condizioni di difficoltà che un dislessico ha durante la lettura e la comprensione di un testo.
+### Visualizzazione ###
+![alt text](https://www.aiditalia.org/Media/Page/dislessia-difficoltà-di-lettura.png)
+### Dati ###
+Coordinate cartesiane mappate attraverso un lettore di movimenti oculari 
+(sarebbe interessante poterlo fare dalla webcam del proprio pc).
+### Come funziona ###
+Sfruttare un lettore di movimenti oculari che crea un glitch su un testo.
+
 
 ## Riferimenti ##
 https://www.aiditalia.org/it/la-dislessia
@@ -41,3 +48,4 @@ https://www.wired.it/lifestyle/design/2015/06/17/font-problemi-dislessia/
 http://dyslexicdesign.co.uk
 http://dyslexicdesign.co.uk/Tina-Crawford
 http://dyslexicdesign.co.uk/filter/Graphic-%26-digital-design/Tomas-Jefanovas
+http://www.dislessiavarese.it/i-movimenti-oculari-e-la-lettura.html
