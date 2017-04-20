@@ -1,5 +1,5 @@
 ## luogo
-#### parola chiave — memoria, tramandare, identià, comunità, persone, tempo, open source
+#### parola chiave — memoria, tramandare, identià, persone, tempo, suono, movimento, spazio
 
 Luògo [lŏcus]<br>
 In senso ampio, una parte dello spazio, idealmente o materialmente circoscritta, con limitazione simbolica;<br>
