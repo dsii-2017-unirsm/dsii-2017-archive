@@ -49,7 +49,7 @@ void draw() {
 
 void keyPressed() {  //premere un tasto sulla tastiera
   switch(key) {
-  case 'n':          //se premo 'n' fermo il loop e salvo l'immagine
+  case 's':          //se premo 's' fermo il loop e salvo l'immagine
     noLoop();        //ferma il loop
     saveFrame("variazione-######.png");     //salva il frame, "fai un screenshot della finestra"
     break;
