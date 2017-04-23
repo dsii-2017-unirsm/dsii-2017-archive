@@ -3,7 +3,7 @@
 // github.com/fupete — github.com/dsii-2017-unirsm
 // Educational purposes, MIT License, 2017, San Marino
 
-//paramtri iniziali
+//parametri iniziali
 int w = 10;     //valore intero "w" per larghezza
 int h = 10;     //valore intero "h" per l'altezza
 int index = 0;  //valore intero "index"
