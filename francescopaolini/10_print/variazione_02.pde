@@ -1,19 +1,20 @@
-// Variazione_01 10Print by francescopaolini
+// Variazione_02 10Print by francescopaolini
 // 2017 © francescopaolini, Daniele @Fupete and the course DSII2017 @UniRSM  
 // github.com/fupete — github.com/dsii-2017-unirsm
 // Educational purposes, MIT License, 2017, San Marino
 
 //parametri iniziali
-int w = 10;     //valore intero "w" per larghezza
-int h = 10;     //valore intero "h" per l'altezza
+int w = 16;     //valore intero "w" per larghezza
+int h = 16;     //valore intero "h" per l'altezza
 int index = 0;  //valore intero "index"
 
 //configurazione 
 void setup() {
-  size(640, 384);          //dimensione rettangolo
+  size(640, 384);          //dimensione della finestra
+  //fullScreen();             //finestra fullscreen
   background(#000000);     //colore sfondo
   strokeWeight(3);         //spessore linea
-  stroke(255);             //colore linea
+  stroke(0);             //colore linea
   smooth();                //usa l'anti-alias, processing lo utilizzada normalemente
 }
 
@@ -32,16 +33,28 @@ void draw() {
   index++;                 //incrementa di 1 la variabile index
   if (index == width/w) {  
     PImage p = get(0, h, width, h*23);  //cattura un immagine
-    background(#000000);                //cancella lo sfondo, coloro in giallo
+    background(#000000);                //cancella lo sfondo, 
     set(0, 0, p);                       //rilascia l'immagine "p" alle cordinate 0-0
     index = 0;                          //
   }
   if (mousePressed) {                  //se premi il cursore del mouse cambia colore
     colorMode(HSB, 360, 100, 100);     //parametri che gestiscono il cambiamento colore in realzione alla posizione del cursore 
-    strokeWeight(1);
+    strokeWeight(4);                  //spessore linea
     stroke(mouseY, 100, mouseX);
   } else {
-    strokeWeight(2);
+    strokeWeight(4);
     stroke(0);
+  }
+}
+
+void keyPressed() {  //premere un tasto sulla tastiera
+  switch(key) {
+  case 's':          //se premo 's' fermo il loop e salvo l'immagine
+    noLoop();        //ferma il loop
+    saveFrame("variazione-######.png");     //salva il frame, "fai un screenshot della finestra"
+    break;
+  case 'l':   //se premo 'l' riprendo il loop 
+    loop();
+    break;
   }
 }
