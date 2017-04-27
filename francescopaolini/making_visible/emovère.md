@@ -12,4 +12,8 @@ temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](h
 fuse lab — [amygdala](http://fuseworks.it/it/project/amygdala-it/)
 
 
-[Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/) 
+[Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/)  
+
+![Synesketch](http://i.imgur.com/JOcP0Gk.jpg)  
+_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
+_da sinistra a destra: crescendo d'intensità delle emozioni._
