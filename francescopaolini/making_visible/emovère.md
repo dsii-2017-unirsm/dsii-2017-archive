@@ -9,7 +9,8 @@ in un era digitale(o internet of things), dove siamo quotidianamente connessi al
 creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo?! Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale e divisa. 
 
 temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
-fuse lab — [amygdala](http://fuseworks.it/it/project/amygdala-it/)
+fuse lab — [amygdala](http://fuseworks.it/it/project/amygdala-it/)  
+jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning), [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
 
 
 [Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/)  
