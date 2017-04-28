@@ -1,7 +1,7 @@
 # CONCEPT FANTASIA
 
 Facoltà della mente umana di creare o rappresentare immagini o fatti, che traggono ispirazione dalla realtà anche discostandosene liberamente o di inventarne di irreali.
-“La fantasia, rispetto all’invenzione alla creatività e all’immaginazione, è la facoltà più libera, essa infatti può anche non tener conto della realizzabilità o del funzionamento di ciò che ha pensato. È libera di pensare qualunque cose, anche la più assurda, incredibile, impossibile.” Fantasia di Bruno Munari
+“La fantasia, rispetto all’invenzione alla creatività e all’immaginazione, è la facoltà più libera, essa infatti può anche non tener conto della realizzabilità o del funzionamento di ciò che ha pensato. È libera di pensare qualunque cose, anche la più assurda, incredibile, impossibile.” Fantasia di Bruno Munari.
 Attraverso il disegno è possibile esprimere al meglio la fantasia, riuscendo a raffigurare le immagine che la nostra mente produce.
 I bambini attraverso i loro disegni modificano la realtà attraverso la fantasia, Picasso diceva “A quattro anni dipingevo come Raffaello, poi ho impiegato una vita per imparare a dipingere come un bambino”.
 Il progetto consiste nel trasformare la realtà attraverso gli occhi fantasiosi dei bambini.
