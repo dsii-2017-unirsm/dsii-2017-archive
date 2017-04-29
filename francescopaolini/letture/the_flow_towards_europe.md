@@ -2,7 +2,9 @@
 anno — 2015 <br>
 design — [Lucify](https://www.lucify.com) <br>
 
-articoli — [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50) [+](https://github.com/lucified/lucify-refugees)
+articoli — [lucify](https://www.lucify.com/the-flow-towards-europe/), [lucify](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50), [github](https://github.com/lucified/lucify-refugees)  
+
+![The flow towards Europe](http://i.imgur.com/JLaCik1.jpg)
 
 #### what’s —
 piattaforma contenete un’infografica interattiva per informare l’utente sul tema della migrazione/migranti, in particolare delle richieste d’asilo per i paesi europei nel periodo 2012—2015.

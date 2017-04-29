@@ -1,3 +1,4 @@
+
 ## bisogni
 #### parole chiave — tangibile, intangibile, persona, relazione, reazione, necessità
 
