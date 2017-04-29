@@ -119,3 +119,4 @@ http://dyslexicdesign.co.uk
 http://dyslexicdesign.co.uk/Tina-Crawford
 http://dyslexicdesign.co.uk/filter/Graphic-%26-digital-design/Tomas-Jefanovas
 http://www.dislessiavarese.it/i-movimenti-oculari-e-la-lettura.html
+http://www.pickeditor.com
