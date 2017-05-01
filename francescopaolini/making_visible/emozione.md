@@ -26,12 +26,14 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning)  
 ![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
 
-jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
+jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)  
+![just-landed-processing-twitter-metacarta-hidden-data](http://i.imgur.com/b4U7Pm7.png)  
 
 [Go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/) è un'estensione del browser che offusca i tuoi sentimenti/reazione su Facebook. Ogni volta che si fa clic su “Mi piace”, Go Rando sceglie a caso uno dei sei “reazioni” per voi.  
 ![go rando](http://i.imgur.com/p06mgzh.jpg)
 
 
 ### ipotesi di dati  
-temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
+temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)
+Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
 
