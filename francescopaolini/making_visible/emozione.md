@@ -33,7 +33,7 @@ jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-proce
 
 
 ### ipotesi di dati  
-temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)
+temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
 Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
 
 ### domande per sviluppo ulteriore  
