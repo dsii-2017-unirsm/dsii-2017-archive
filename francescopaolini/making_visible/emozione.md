@@ -8,9 +8,8 @@ Portare fuori, smuovere, scuotere, agitare dal latino _emovère_ (_ex_ — fuori
 
 In un era digitale(o internet of things), dove siamo quotidianamente connessi alla reti e alle relative piattaforme di social network, sappiamo distinguere l'emozioni? Conosciamo, veramente, come sta la persona dall'altra parte della chat/post?. Ormai, contenuti all'interno di quel testo che postiamo, c'è tutta la nostra vita. I nostri bisogni, le nostre emozioni, le nostre esigenze primaria e non, quali sono? Come sono? Come sono mutate? C'è qualcuno che ascolta o legge i nostri bisogni?
 
-Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo? _"Ascoltare ed interpretare i contenuti condivisi in rete dagli utenti, per generare un'opera audiovisa"_. Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale e divisa. 
-
-Sul lato positivo, il Big Data può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi. Sul fronte dei ribassi, potrebbe anche essere sfruttata da aziende e istituzioni al fine di accumulare, spesso inconsapevolmente, una quantità   
+Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo? _"Ascoltare ed interpretare i contenuti condivisi in rete dagli utenti, per generare un'opera audiovisa"_. Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post/stato. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale.
+Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi.
 
 ### riferimenti progettuali  
 L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.  
@@ -36,4 +35,8 @@ jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-proce
 ### ipotesi di dati  
 temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)
 Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
+
+### domande per sviluppo ulteriore  
+Che suono ha l'emozione? Come si può comprendere, rendere tangibile? È possibile suonare/controllare l'emozione del mondo con un sintetizzatore o modulare, per creare suono/rumore?
+
 
