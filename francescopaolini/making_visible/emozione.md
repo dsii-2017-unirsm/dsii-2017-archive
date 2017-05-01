@@ -13,19 +13,24 @@ Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la re
 Sul lato positivo, il Big Data può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi. Sul fronte dei ribassi, potrebbe anche essere sfruttata da aziende e istituzioni al fine di accumulare, spesso inconsapevolmente, una quantità   
 
 ### riferimenti progettuali  
-L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.
-![amygdala](http://i.imgur.com/N2stVDD.jpg)
-![amygdala](http://i.imgur.com/0zdlkQf.jpg)
+L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.  
+![amygdala](http://i.imgur.com/N2stVDD.jpg)  
+![amygdala](http://i.imgur.com/0zdlkQf.jpg)  
 ![amygdala](http://i.imgur.com/jZ4nQUx.jpg)  
-
+  
 Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/) 
 ![Synesketch](http://i.imgur.com/JOcP0Gk.jpg)  
 —_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
 —_da sinistra a destra: crescendo d'intensità delle emozioni._
 
-jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning), [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
+jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning)  
+![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
 
-[go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/)
+jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
+
+[Go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/) è un'estensione del browser che offusca i tuoi sentimenti/reazione su Facebook. Ogni volta che si fa clic su “Mi piace”, Go Rando sceglie a caso uno dei sei “reazioni” per voi.  
+![go rando](http://i.imgur.com/p06mgzh.jpg)
+
 
 ### ipotesi di dati  
 temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
