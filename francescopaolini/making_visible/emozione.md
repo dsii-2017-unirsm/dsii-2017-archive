@@ -11,9 +11,11 @@ In un era digitale(o internet of things), dove siamo quotidianamente connessi al
 Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo? _"Ascoltare ed interpretare i contenuti condivisi in rete dagli utenti, per generare un'opera audiovisa"_. Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale e divisa. 
 
 ### riferimenti progettuali  
-fuse lab — [amygdala](http://fuseworks.it/it/project/amygdala-it/)  
-![](http://i.imgur.com/N2stVDD.jpg)
-![](http://i.imgur.com/0zdlkQf.jpg)
+L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. Sul lato positivo, il Big Data può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi. Sul fronte dei ribassi, potrebbe anche essere sfruttata da aziende e istituzioni al fine di accumulare, spesso inconsapevolmente, una quantità infinita di informazioni sulla nostra vita privata.
+
+[amygdala](http://fuseworks.it/it/project/amygdala-it/)  
+![amygdala](http://i.imgur.com/N2stVDD.jpg)
+![amygdala](http://i.imgur.com/0zdlkQf.jpg)
 ![amygdala](http://i.imgur.com/jZ4nQUx.jpg)
 
 jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning), [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)
@@ -21,6 +23,8 @@ jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning), [jus
 ![Synesketch](http://i.imgur.com/JOcP0Gk.jpg)  
 —_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
 —_da sinistra a destra: crescendo d'intensità delle emozioni._
+
+[go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/)
 
 ### ipotesi di dati  
 temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
