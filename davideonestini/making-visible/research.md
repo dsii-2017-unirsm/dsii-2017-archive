@@ -18,4 +18,5 @@ A data visualization about human rights would be interesting and useful for CISV
 ***inspiration***
 
 [Dencity](https://fathom.info/notebook/1981/) (Fathom Information Design, 2012)
+
 ![Dencity](https://fathom.info/uploads/2011/09/110923_worldL.png)
