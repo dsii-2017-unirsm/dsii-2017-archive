@@ -14,3 +14,8 @@ Human rights are a set of principles concerned with fairness and equality among 
 At the most basic level, rights are ideas. Therefore, they are invisible. You can neither see them, nor touch, nor hear. Actually, we rarely even think about human rights because we (luckily) live in a country where they are generally respected. We more often talk about rights when they are missing and even in that case, we do not have a proper knowledge or a clear image regarding countries and communities where they are denied.
 
 A data visualization about human rights would be interesting and useful for CISV's purposes, as well. Indeed, making what we teach and communicate in CISV's programmes visible is a very important part of our "learning-by-doing" approach.  
+
+***inspiration***
+
+[Dencity](https://fathom.info/notebook/1981/) (Fathom Information Design, 2012)
+![Dencity](https://fathom.info/uploads/2011/09/110923_worldL.png)
