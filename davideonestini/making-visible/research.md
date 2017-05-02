@@ -15,7 +15,7 @@ At the most basic level, rights are ideas. Therefore, they are invisible. You ca
 
 A data visualization about human rights would be interesting and useful for CISV's purposes, as well. Indeed, making what we teach and communicate in CISV's programmes visible is a very important part of our "learning-by-doing" approach.  
 
-***inspiration***
+***visual inspiration***
 
 [Dencity](https://fathom.info/notebook/1981/) (Fathom Information Design, 2012)
 
