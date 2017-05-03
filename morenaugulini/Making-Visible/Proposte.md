@@ -1,4 +1,4 @@
-**Concept idee temi**   
+**Idee temi**   
 
 - Quali sono i dati e quali potrebbero essere
 - Trasformazione dei dati raccolti
