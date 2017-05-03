@@ -30,17 +30,19 @@ Ad esempio creando delle texture attraverso dei segni che rappresentino la quant
 
 **Ispirazioni e progetti correlati** </br>
 
-[Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili i colori, attuando un parallelismo tra le tonalità di colore e le tipologie di materiali. </br>
+[Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
 
 ![Imgur](http://i.imgur.com/ofD1JDQ.png)
 </br>
 </br>
 [Touch RGB - Jingkai Lin](https://www.behance.net/gallery/34244699/Touch-RGB) </br>
+Le persone non-vedenti, come già affrontato in precedenza, hanno la capacità di cogliere la struttura e la forma di un oggetto tramite il tatto, ma la percezione delle variazioni cromatiche resta un aspetto sconosciuto. TOUCH RGB è composto da una serie di poster tattili, che tentano di avvicinare gli utenti non-vedenti al mondo dei colori tramite differenti texture e tagli sulla carta. 
 
 ![Imgur](http://i.imgur.com/Va3RKSr.jpg)</br>
 </br>
 </br>
 [Tactile pictures for blind people - Maria Nikerman](https://www.behance.net/gallery/46015991/Tactile-pictures-for-blind-people) </br>
+Il progetto attua una sintesi fondamentale delle forme di un'opera d'arte
 
 ![Imgur](http://i.imgur.com/VjP6e3O.jpg)
 </br>
