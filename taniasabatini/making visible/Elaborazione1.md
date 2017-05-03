@@ -28,7 +28,8 @@ Ad esempio creando delle texture attraverso dei segni che rappresentino la quant
 
 2. Oppure si potrebbe concentrare l’attenzione sull’utilizzo di materiali diversi, che rappresentino un colore caldo o un colore freddo?
 
-**Ispirazioni e progetti correlati**
+**Ispirazioni e progetti correlati** </br>
+[Graphic for blinds: multisensory experiences](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)
 
 
 
