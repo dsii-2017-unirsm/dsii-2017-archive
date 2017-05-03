@@ -17,7 +17,13 @@ A data visualization about human rights would be interesting and useful for CISV
 
 ***statement of purpose***
 
-When we take human rights for granted, as we generally do, they become invisible to us. What I aim to do by means of this project is making people reflect on the subject. Specifically, I want them to be able to actually see human rights and all the relatives issues again. One way to reach this goal would be to simulate a situation where one or more specific rights are denied. Simulation games, indeed, are what we usually do in CISV programmes to make kids understand difficult topics, like this one. 
+When we take human rights for granted, as we generally do, they become invisible to us. What I aim to do by means of this project is making people reflect on the subject. Specifically, I want them to be able to actually see human rights and all the relatives issues again. 
+
+One way to reach this goal would be to simulate a situation where one or more specific rights are denied. Simulation games, indeed, are what we usually do in CISV programmes to make kids understand difficult topics, like this one. Of course, denying a human right, through this project, would be hard and too complicated. What I can do, instead, is to make users think about what they have and other people have not; to make users realize that if they were born in another country, they would not have the same rights; and that what we take for granted is a rare privilege elsewhere. 
+
+***statement of purpose***
+
+blablabla
 
 ***visual inspiration***
 
