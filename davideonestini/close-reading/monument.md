@@ -1,7 +1,7 @@
 # Monument
 (Caleb Larsen, 2008)
 
-[Monument](http://i.imgur.com/wV2MAEq.jpg)
+![Monument](http://i.imgur.com/wV2MAEq.jpg)
 
 ***what is***
 
