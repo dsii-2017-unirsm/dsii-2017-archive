@@ -14,5 +14,13 @@ Attraverso la vista è possibile cogliere le differenze anche minime che interco
 
 Il dottor Grassini, importante membro dell’Unione Italiana Ciechi, utilizza la “metafora della perla” per illustrare il funzionamento della percezione di un cieco “come dal granello di sabbia nasce e si sviluppa la perla, così dalla percezione tattile si crea un’immagine sensoriale”. Inoltre egli aggiunge “toccare è osservare con le mani, è un’esperienza complessa che richiede al non vedente attenzione, concentrazione, memoria, coordinamento nei movimenti; bisogna toccare con le mani aperte per percepire le dimensioni, con tutta la mano per conoscere le superfici, con le dita per conoscere i contorni della figura, con i polpastrelli dell’indice e pollice conoscere gli spessori”. Si può quindi affermare che le due tipologie di utenti utilizzino dati diversi, ma che entrambi attingano ad informazioni provenienti dalla realtà. Grassini offre un’ulteriore delucidazione sul tema, riportando un esempio semplice ma lampante sul funzionamento della percezione. Se prendessimo in esame un tavolo e chiedessimo ad un cieco ed un vedente di descriverlo, le risposte che otterremmo sarebbero sostanzialmente diverse. Nel primo caso, il tavolo sarebbe rappresentato da una qualità legata al materiale, ad esempio “ruvido”, mentre il vedente si concentrerebbe sulle qualità visive, come “bianco”. Entrambi descriverebbero il tavolo con caratteristiche reali, ma istintivamente diverse. Inoltre a differenziare ulteriormente la percezione tramite vista e tatto, vi è l’aspetto della “dimensione”. Mentre l’occhio è in grado di distinguere senza problemi oggetti posti a distanze minime, le dita hanno minore abilità in questo senso e rischiano di confondere e associare due elementi alla stessa superficie. Nella percezione di un non-vedente quindi, entrano in gioco numerose variabili: ad influenzarne l’accuratezza vi sono caratteristiche quali la larghezza e lo spessore, la forma, il tipo di rilievo e di linea (tratteggiata, puntinata ecc..).
 
+**Quesiti/Ipotesi**
+
+1. Si potrebbe creare un dizionario tattile dei colori?
+Ad esempio creando delle texture attraverso dei segni che rappresentino la quantità di giallo e di rosso in un colore? 
+
+2. Oppure si potrebbe concentrare l’attenzione sull’utilizzo di materiali diversi, che rappresentino un colore caldo o un colore freddo?
+
+
 
 
