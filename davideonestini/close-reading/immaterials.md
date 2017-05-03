@@ -1,6 +1,8 @@
 # Immaterials: Light painting WiFi 
 (Timo Arnall, Jørn Knutsen, Einar Sneve Martinussen, 2012)
 
+![Immaterials: Light painting WiFi](https://s-media-cache-ak0.pinimg.com/originals/74/3e/91/743e91b82580238fc322577b77df97cb.jpg)
+
 ***what is***
 
 Time-lapse photographies showing a light-painted graph with blue bars representing the WiFi network present in the exact spot where they are shown. 
@@ -25,3 +27,6 @@ If they were, and we could see them as well as we see the visible light, we coul
 
 ...the WiFi wavelength was longer and therefore visible to human eyes?
 Would we be as mobile-data- and internet-addicted as we are nowadays?
+
+[Timo Arnall](http://www.elasticspace.com)
+[Jørn Knutsen & Einar Sneve Martinussen](http://voyoslo.com)
