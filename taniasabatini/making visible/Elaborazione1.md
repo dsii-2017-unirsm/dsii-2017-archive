@@ -8,6 +8,7 @@ Mentre una statua, può essere “vista” e compresa tramite il tatto, un dipin
 ![Imgur](http://i.imgur.com/WHT633i.jpg)
 
 **I diversi modi di percepire**
+> La percezione tattile come sistema aptico. La "sensibilità dell'individuo verso il mondo adiacente al suo corpo".
 
 Attualmente, circa l’80% degli stimoli esterni a cui siamo soggetti ogni giorno, deriva dalla vista. Rispetto al passato infatti, la comunicazione visiva ha assunto oggi, un ruolo predominante, grazie anche ai nuovi sistemi digitali. Ciò comporta l’esclusione dei non-vedenti da alcune tipologie di sollecitazioni. In generale, un vedente è solito fare affidamento sulla vista durante tutta la sua attività quotidiana. Il non vedente invece basa la propria esperienza sulla commistione dei sensi di cui dispone, in modo molto più consapevole. Poniamo l’attenzione sui diversi tipi di percezione del mondo “esterno”. 
 Attraverso la vista è possibile cogliere le differenze anche minime che intercorrono tra gli oggetti, le sfumature di colore, le variazioni più esigue della realtà. La vista coglie la forma, ma lavora principalmente sulle bidimensionalità, sarà il cervello in un secondo momento ad unire le immagini percepite e a costruire un modello tridimensionale nella nostra mente, attribuendone la profondità. Attraverso il tatto invece, a predominare è la percezione della terza dimensione. Un’ulteriore differenza tra i sensi sopracitati sta nelle modalità di percepire “l’insieme”: la vista offre una percezione inizialmente globale, in seguito, l’occhio è in grado di scomporre e analizzare nel dettaglio ciò che stiamo vedendo, giungendo al particolare; per il non-vedente avviene l’operazione opposta; attraverso il tatto, coglie il particolare e passa poi a percepire la totalità. In altri termini, il processo che s’innesca si avvale dell’astrazione, della memoria e delle esperienze pregresse e riunisce i dati ottenuti tramite l’esplorazione tattile in “un insieme”.  
@@ -26,6 +27,8 @@ Dunque, anche il colore è inserito in quella rete di significati che costituisc
 Ad esempio creando delle texture attraverso dei segni che rappresentino la quantità di giallo e di rosso in un colore? 
 
 2. Oppure si potrebbe concentrare l’attenzione sull’utilizzo di materiali diversi, che rappresentino un colore caldo o un colore freddo?
+
+**Ispirazioni e progetti correlati**
 
 
 
