@@ -42,12 +42,13 @@ Le persone non-vedenti, come già affrontato in precedenza, hanno la capacità d
 </br>
 </br>
 [Tactile pictures for blind people - Maria Nikerman](https://www.behance.net/gallery/46015991/Tactile-pictures-for-blind-people) </br>
-Il progetto attua una sintesi fondamentale delle forme di un'opera d'arte
+Attraverso un'analisi accurata del dipinto, la progettista risolve il problema della fruizione dell'opera, ragionando sulla forma e sulla profondità. Il dipinto viene quindi sintetizzato, estrapolandone le linee compositive; attraverso quest'ultime è stato realizzato un modello tridimensionale dell'opera. 
 
 ![Imgur](http://i.imgur.com/VjP6e3O.jpg)
 </br>
 </br>
 [Touching Paintings - Dmitry Kornienko](https://www.behance.net/gallery/52098159/Touching-Paintings-REJECTED) </br>
+La volontà del progettista è quella di creare un'esperienza inedita per il pubblico di riferimento. Anche in questo caso si è ragionato sulla tridimensionalità, rendendo toccabili le opere d'arte. 
 
 ![Imgur](http://i.imgur.com/KpbTxSv.png)
 
