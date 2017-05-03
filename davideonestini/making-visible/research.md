@@ -21,9 +21,9 @@ When we take human rights for granted, as we generally do, they become invisible
 
 One way to reach this goal would be to simulate a situation where one or more specific rights are denied. Simulation games, indeed, are what we usually do in CISV programmes to make kids understand difficult topics, like this one. Of course, denying a human right, through this project, would be hard and too complicated. What I can do, instead, is to make users think about what they have and other people have not; to make users realize that if they were born in another country, they would not have the same rights; and that what we take for granted is a rare privilege elsewhere. 
 
-***statement of purpose***
+***first things first***
 
-blablabla
+The first phase of my research was about looking for reliable data regarding missing or denied human rights all over the world. 
 
 ***visual inspiration***
 
