@@ -200,7 +200,7 @@ indicazioni sulla lingua utilizzata per Content e così via).
 repliche e menzioni, e sono meno retwittati degli umani“. I dati sono elaborati in tempo reale, 
 e restituiscono un risultato percentuale che rappresenta la probabilità che il profilo studiato appartenga a un bot o a un umano. 
 
-Uomo o computer: chi ha scritto questo testo?[+](http://tg24.sky.it/tecnologia/mappe/uomo-computer-scrittura-testi.html?cq_ck=1479667043731)<br>
+Uomo o computer: chi ha scritto questo testo? [+](http://tg24.sky.it/tecnologia/mappe/uomo-computer-scrittura-testi.html?cq_ck=1479667043731)<br>
 
 ### *Interagire con un fantasma*
 Secondo le teorie dell’occulto diverse sono le tecniche di comunicazione con un fantasma “tradizionale”: 
