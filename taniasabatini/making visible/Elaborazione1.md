@@ -30,9 +30,25 @@ Ad esempio creando delle texture attraverso dei segni che rappresentino la quant
 
 **Ispirazioni e progetti correlati** </br>
 
-[Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences) </br>
+[Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili i colori, attuando un parallelismo tra le tonalità di colore e le tipologie di materiali. </br>
 
 ![Imgur](http://i.imgur.com/ofD1JDQ.png)
+</br>
+</br>
+[Touch RGB - Jingkai Lin](https://www.behance.net/gallery/34244699/Touch-RGB) </br>
+
+![Imgur](http://i.imgur.com/Va3RKSr.jpg)</br>
+</br>
+</br>
+[Tactile pictures for blind people - Maria Nikerman](https://www.behance.net/gallery/46015991/Tactile-pictures-for-blind-people) </br>
+
+![Imgur](http://i.imgur.com/VjP6e3O.jpg)
+</br>
+</br>
+[Touching Paintings - Dmitry Kornienko](https://www.behance.net/gallery/52098159/Touching-Paintings-REJECTED) </br>
+
+![Imgur](http://i.imgur.com/KpbTxSv.png)
+
 
 
 
