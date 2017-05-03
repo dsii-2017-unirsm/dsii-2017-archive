@@ -116,7 +116,9 @@ Disturbo che riguarda l'attività motoria come il coordinazione e il movimento.
 Questo disturbo essendo legato al movimento può comportare difficolta linguistiche.
 
 ## Sketch ##
-![alt text]
+![alt text]http://i.imgur.com/i3UY7xh.jpg
+![alt text]http://i.imgur.com/YXGZUR2.jpg
+
 
 
 
