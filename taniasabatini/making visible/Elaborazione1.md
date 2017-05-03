@@ -40,7 +40,7 @@ Le persone non-vedenti, come già affrontato in precedenza, hanno la capacità d
 
 ![Imgur](http://i.imgur.com/Va3RKSr.jpg)</br>
 </br>
-</br>
+
 [Tactile pictures for blind people - Maria Nikerman](https://www.behance.net/gallery/46015991/Tactile-pictures-for-blind-people) </br>
 Attraverso un'analisi accurata del dipinto, la progettista risolve il problema della fruizione dell'opera, ragionando sulla forma e sulla profondità. Il dipinto viene quindi sintetizzato, estrapolandone le linee compositive; attraverso quest'ultime è stato realizzato un modello tridimensionale dell'opera. 
 
