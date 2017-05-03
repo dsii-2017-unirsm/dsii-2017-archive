@@ -28,7 +28,7 @@ If they were, and we could see them as well as we see the visible light, we coul
 ...the WiFi wavelength was longer and therefore visible to human eyes?
 Would we be as mobile-data- and internet-addicted as we are nowadays?
 
-***weblinks***
+---
 
 Timo Arnall - http://www.elasticspace.com
 
