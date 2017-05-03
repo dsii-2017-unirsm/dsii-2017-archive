@@ -1,6 +1,8 @@
 # Monument
 (Caleb Larsen, 2008)
 
+![Monument](http://i.imgur.com/wV2MAEq.jpg)
+
 ***what is***
 
 An art installation presented at the Peacock Visual Arts centre in Aberdeen, Scotland featuring an empty room and a box filled with yellow balls falling from the ceiling every time an article about someone being killed is published. 
@@ -21,3 +23,9 @@ Probably, the reason why we feel a sense of excitement in waiting for a new ball
 ***what if...***
 
 ...the installation featured a second box with green balls falling only when someone dies of natural causes?
+
+---
+
+Project Reference - http://caleblarsen.com/monument/
+
+Caleb Larsen - http://caleblarsen.com
