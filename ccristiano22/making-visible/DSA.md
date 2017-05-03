@@ -26,6 +26,12 @@ Mettendoli in difficoltà, provocando lo sforzo mentale che un dislessico deve c
 Un riferimento interessante è il lavoro del designer Daniel Britton, il quale ha provato attraverso la progettazione di un font chiamo Dyslexic Typeface di mettere le persone nelle stesse condizioni di difficoltà che un dislessico ha durante la lettura e la comprensione di un testo.
 L'ipotesi è quella di creare una editor di testi che interferisce con la digitazione, la griglia di testo per ricreare le condizioni che un qualsiasi dislessico prova durante la scrittura e la lettura di un testo. 
 
+## Concept ##
+L'obbiettivo di questo progetto è creare uno strumento/tool per insegnati e professori che vogliono rendersi conto di quali sono le difficoltà di un dislessico e come può apparire un testo per un dislessico in base alle sue caratteristiche. 
+Il tool consentirà agli insegnati di scrivere un testo per i propri studenti con strumenti in grado di visualizzare i testi in base al grado di difficolta dello studente affetto da DSA, potendo selezionare il grado di dislessia, disgrafia, disortografia e disturbo specifico della compitazione.
+Il testo mutera in base hai tipici errori di queste categorie di dislessia, la mutazione non dipenderà esclusivamente dal livello di dislessia ma anche in base al struttura del testo stesso (interlinea, tipo di font, grandezza del font, spaziatura tra le lettere di una stessa parola, colore).
+Attraverso questo tool si cerca di offrire uno stumento utile agli insegnati sia per la scrittura di un testo sia per comprendere le difficoltà di uno studente affetto da DSA. 
+
 ## Visualizzazione ##
 ![alt text](https://www.aiditalia.org/Media/Page/dislessia-difficoltà-di-lettura.png)
 
