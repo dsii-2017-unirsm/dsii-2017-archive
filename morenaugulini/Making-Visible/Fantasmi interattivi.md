@@ -228,7 +228,7 @@ anche semplicemente per ricordare un suo personale modo di dire, o cosa indossav
 
 ### *Analisi dell’esistente*
 - L’IBM ha iniziato a creare un bot personale che attraverso 
-l’acquisizione dei nostri dati potesse rispondere al posto nostro come se fossimo noi.[+](https://www.ibm.com/blogs/watson/2017/03/bot-yourself/)<br>
+l’acquisizione dei nostri dati potesse rispondere al posto nostro come se fossimo noi. [+](https://www.ibm.com/blogs/watson/2017/03/bot-yourself/)<br>
 
 ![gdocP5](http://i.imgur.com/Cx33a9O.jpg)<br>
 
