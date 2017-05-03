@@ -2,7 +2,7 @@
 # The flow towards Europe, 2015, Lucify
 
 ## What is?
-Is an interactive map that allows me to see the migratory flow in Europe from 2012 to 2015.
+E una mappa interattiva che permette di vedere lo spostamento dei migranti in Europa fino al 2012
 
 ## What does it mean?
 This project show how people moves to find best quality life.
