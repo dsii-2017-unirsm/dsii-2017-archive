@@ -29,4 +29,5 @@ If they were, and we could see them as well as we see the visible light, we coul
 Would we be as mobile-data- and internet-addicted as we are nowadays?
 
 [Timo Arnall](http://www.elasticspace.com)
+
 [Jørn Knutsen & Einar Sneve Martinussen](http://voyoslo.com)
