@@ -60,7 +60,7 @@ possono arrivare a fare cose pericolose, come intrufolarsi in altri computer (bo
 La storia dei bot viene fatta risalire  all’inizio degli anni Cinquanta, quando l’informatico inglese Alan Turing 
 teorizzò un test in grado capire se una macchina poteva imitare il comportamento umano: analizzando una conversazione 
 tra un individuo e un computer, la serie di scambi doveva essere tale da rendere impossibile stabilire chi dei due 
-fosse la macchina *(test di Turing)*. 
+fosse la macchina **(test di Turing)**. 
 Nel 1966 apparve il primo bot in grado di superare il test: il programma *ELIZA* simulava uno psicoterapista 
 e dava risposte in base a ciò che scriveva l’interlocutore sulla base di una serie di parole chiave. 
 Successivamente si lavorò per far interagire in modo “colloquiale” il bot con l’utente, 
@@ -113,7 +113,7 @@ i bot controllano che tutto funzioni bene e, in alcuni casi, traducono anche del
 Altri bot ancora vengono utilizzati per finalità di spam, per manipolare i click o i like sui social media o, 
 ancora, per lanciare attacchi informatici. 
 
-Ci sono, poi, decine di startup focalizzate sull’offerta di servizi commerciali attraverso chatbot.
+Ci sono, poi, decine di startup focalizzate sull’offerta di servizi commerciali attraverso **chatbot**.
 Uno degli utilizzi più apprezzati riguarda l'assistenza ai clienti. 
 Diverse banche (come Bank of America e Royal Bank of Scotland) stanno sperimentando bot in grado 
 di dialogare con i propri clienti e, soprattutto, di analizzare i dati finanziari per offrire consigli personalizzati. 
@@ -249,6 +249,13 @@ Ishiguro è noto per aver realizzato un clone di se stesso, un androide con pell
 in silicone e muscoli artificiali esattamente uguale a lui. [+](https://www.youtube.com/watch?v=5ajmy0_QlD0)<br>
 
 ![gdocP5](http://i.imgur.com/Y6mvUmv.jpg)<br>
+
+- Tobby Chat Bot è un Bot Italiano con cui è possibile interagire e parlare. [+](http://tobbychatbot.altervista.org/)<br>
+Qui sotto alcune domande fatte al Bot. 
+
+![gdocP5](http://i.imgur.com/lRnNDfa.png)<br>
+![gdocP5](http://i.imgur.com/PIGJ2FT.png)<br>
+![gdocP5](http://i.imgur.com/hzqiZ1w.png)<br>
 
 ## *Quesiti | Ipotesi*
 
