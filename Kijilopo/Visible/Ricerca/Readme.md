@@ -32,10 +32,43 @@ L'elaborato finale di questo progetto è un libro. Questa sceltaimpone una fruiz
 
 http://jamesbridle.com/works/a-ship-adrift
 
-![Foto_1](http://imgur.com/a/vobqI)
+![Foto_2](http://i.imgur.com/l4YSfxy.jpg)
 
 ## Analisi
 
 Con i dati presi dalla stazione metereologica di South Bank Centre di Londra, è riuscito a far "volare" una nave immaginare nel mondo vero. Il percorso è stato poi tracciato su goolge maps per un anno. Per spostarzi nello spazio venivano usati i dati della pressione, temperatura, pioggia e velocità del vento.
+
+
+# Waiting for Bárðarbunga - François Quévillon
+
+http://www.francois-quevillon.com/html/en/node/332
+
+![Foto_3](http://i.imgur.com/IJO3rbH.jpg)
+
+## Analisi
+
+
+# Constructed Land
+
+http://interaccess.org/exhibition/constructed-land
+https://vimeo.com/49187050
+
+![foto_4](http://i.imgur.com/3hX963V.jpg)
+
+## Analisi
+Questi artisti hanno raccolto più di 60,000 immagini provenienti dalla steffa webcam in Kimmirut dal 2010 al 2012. Questo enorme bacino di immagini è stato archiviato e utilizzato per generare immagini creative fruite in un allestimento multimediale. Lo scopo del progetto è indagare il ruolo della webcam come occhio sempre acceso e da la possibilità a tutti di vivere un luogo altrimenti inesplorabile.
+
+### What is?
+
+E una installazione multimediale dove l'immagine diventa la base per un progetto creativo più ampio. 
+
+### What does it mean?
+
+Un luogo remoto e solitario viene fotografato ogni giorno più volte al giorno per anni. Le immagini vengono raccolte, lavorate e servite al pubblico che le ammira non nella loro natura ma nella loro manipolazione. L'istallazione prevede anche postazioni in cui l'utente può intervenire per generare contenuti grafici unici. In un certo senzo si può intendere la webcam come un oggetto che osserva in maniera ossessiva un logo dove nessuno ci vivrebbe volentieri, personalmente percepisco della tensione emotiva tra questo progetto e il luogo remoto in questione come se fosse stato "usato".
+
+### How it work
+
+Con un bacino di immagini riproposte agli spettatori in varie salse, da contnuti multimediali a immagini stampate. Una postazione permette agli utenti di mischiare varie immagini in una sola proiettata in un monitor, la minipolazione avviene attraverso un device dall'aspetto analogico con valvole e rotelle.
+
 
 
