@@ -7,7 +7,6 @@ http://jedcarter.co.uk/blog/my-work-2/eyes-on-the-sky
 ## Analisi
 Questo è un progetto personale con lo scopo di creare un "almanacco" visivo di quello che è il cambiamento cromatico del cielo nel mondo. Collegano tra loro 64 Webcam di libero accesso che riprendono prevalentemente il cielo d'Europa in varie postazione, l'autore dopo averle sincronizzate e programmate è in grado di acquisire un'immagine complessiva a cadenza oraria regolare di quelle che sono le campiture del cielo in Europa. Queste immagini acquisite vengono poi tradotte in campiture di colore cosicche possiamo avere in un unica immagine una risultante di quello che è il cielo d'Europa. Il tutto poi è stato stampato e reso libro.
 
-                                                                  /
                                                                   
 ### What is?  
 
@@ -26,3 +25,17 @@ Il Problema principale sorge a cusa della diverità delle immagini ottenute, tut
 ### What if?
 
 L'elaborato finale di questo progetto è un libro. Questa sceltaimpone una fruizione datata del contenuto del progetto e il tutto non è esperibile in tempo reale. Mi chiedo che sapore avrebbe avuto questo progetto se fosse stato possibile fruirso in tempo reali su piattaforma web, potendo cosi vedere le macchie di colore cambiare lentamente la loro cromia . In caso di immagine troppo statica dare la possibilità all'utente attraverso una slidebar di scorrere indietro nel tempo e vedere il passato delle informazioni ottenute.
+
+/
+
+# A Ship Adrift - James Bridle
+
+http://jamesbridle.com/works/a-ship-adrift
+
+![Foto_1](http://imgur.com/a/vobqI)
+
+## Analisi
+
+Con i dati presi dalla stazione metereologica di South Bank Centre di Londra, è riuscito a far "volare" una nave immaginare nel mondo vero. Il percorso è stato poi tracciato su goolge maps per un anno. Per spostarzi nello spazio venivano usati i dati della pressione, temperatura, pioggia e velocità del vento.
+
+
