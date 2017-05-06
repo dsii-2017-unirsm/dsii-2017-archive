@@ -38,6 +38,7 @@ http://jamesbridle.com/works/a-ship-adrift
 
 Con i dati presi dalla stazione metereologica di South Bank Centre di Londra, è riuscito a far "volare" una nave immaginare nel mondo vero. Il percorso è stato poi tracciato su goolge maps per un anno. Per spostarzi nello spazio venivano usati i dati della pressione, temperatura, pioggia e velocità del vento.
 
+\
 
 # Waiting for Bárðarbunga - François Quévillon
 
