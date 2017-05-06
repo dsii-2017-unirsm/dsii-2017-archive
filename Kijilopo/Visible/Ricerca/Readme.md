@@ -70,5 +70,18 @@ Un luogo remoto e solitario viene fotografato ogni giorno più volte al giorno p
 
 Con un bacino di immagini riproposte agli spettatori in varie salse, da contnuti multimediali a immagini stampate. Una postazione permette agli utenti di mischiare varie immagini in una sola proiettata in un monitor, la minipolazione avviene attraverso un device dall'aspetto analogico con valvole e rotelle.
 
+\
+
+# Debug - Art made by insects
+
+https://vimeo.com/12645870
+
+![Foto_3](http://i.imgur.com/kovId1n.jpg)
+
+## Analisi
+
+Un insetto viene posto in una teca con una telecamera ingrado di tracciare l suo movimento nello spazio, questo movimento poi viene disegnato e tracciato in da un computer che produce stampe con il percorso dell'insetto fatto all'interno della teca. Gli artisti hanno messo nella teca degli ostacoli, riconoscibili come simboli e numeri. Il percorso degno inseti, prevalentemente sui bordi, va a tracciare i contorni di questi simbili posti nella teca.
+
+![Foto_3](http://i.imgur.com/iaBtbeA.jpg)
 
 
