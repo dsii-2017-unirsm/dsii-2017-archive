@@ -45,7 +45,7 @@ The selection of the particular rights in the CIRI Dataset does not imply that t
 
 *Freedom of Foreign Movement* This variable indicates citizens’ freedom to leave and return to their country.
 
-*Freedom of Domestic Movemtn* This variable indicates citizens’ freedom to travel within their own country.
+*Freedom of Domestic Movement* This variable indicates citizens’ freedom to travel within their own country.
 
 *Freedom of Speech* This variable indicates the extent to which freedoms of speech and press are affected by government censorship, including ownership of media outlets. Censorship is any form of restriction that is placed on freedom of the press, speech or expression.
 
