@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=ZlD-ZVoMoLo
 
+## OpenCV database
+
+https://github.com/bitcraftlab/opencv-webcam-processing
+
 
 ### Codice detenzione movimenti
 ```
