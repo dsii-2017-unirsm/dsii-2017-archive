@@ -29,7 +29,7 @@ The first phase of my research was about looking for reliable data regarding mis
 
 <sub>"**Are some rights more important than others?**" (Elaine Pearson and Mausi Segun for Human Rights Watch)</sub>
 
-***evaluating human rights' violations***
+***who violates what***
 
 The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset used the annual country reports from the US State Department and Amnesty International as its primary sources and was designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. It includes information about 202 countries, for the years 1981 to 2011. 
 Most of the CIRI indicators are ratings on a scale of 0-2 for their respect of human rights, as follows: 0 = frequent violations of this right; 1 = some violations of this right; 2 = no reported violations of this right.
