@@ -26,10 +26,15 @@ One way to reach this goal would be to simulate a situation where one or more sp
 The first phase of my research was about looking for reliable data regarding missing or denied human rights all over the world. The main issue I came upon was the enormous amount of different kind of existing violations. Therefore, I started researching what could go under the name of 'human rights abuse' and what could not. Of course, there is not a neat line between them, and there are different opinions on the matter. Soon, I came across the question "Are some rights more important than others?". An inspiring answer I found out was the one given by Mausi Segun, Nigerian Researcher at [Human Rights Watch](https://www.hrw.org).
 
 [![Mausi Segun, Human Rights Watch](http://i.imgur.com/smIb0xG.png)](https://www.youtube.com/watch?v=1KNLS1WZkZA "Are some rights more important than others?")
+<sub>Small text</sub>
 
-***CIRI***
+***governments evalutation***
 
-The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset is designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. The selection of the particular rights in the CIRI Dataset does not imply that these rights are considered to be more important than other human rights. Rather, these are the rights for which information are reliable and systematically available across time and space. It includes information about 202 countries, for the years 1981 to 2011.  
+The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset is designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. The selection of the particular rights in the CIRI Dataset does not imply that these rights are considered to be more important than other human rights. Rather, these are the rights for which information are reliable and systematically available across time and space. It includes information about 202 countries, for the years 1981 to 2011.
+
+***custom dataset***
+
+
 
 ***visual inspiration***
 
