@@ -36,15 +36,15 @@ Attraverso questo tool si cerca di offrire uno stumento utile agli insegnati sia
 ![alt text](https://www.aiditalia.org/Media/Page/dislessia-difficoltà-di-lettura.png)
 
 ## What is/Cosa è? ##
-Un softwere/plug-in che da la possibilità sia al dislessico che all'insegnate di comprendere al meglio i probelmi dati dalla DSA.
-Per il dislessico risultera una piattaforma un editor di testi, per l'insegnate mezzo per compredere le difficota dell' dislessico.
+Un softwere/plug-in che da la possibilità sia al dislessico che all'insegnate di comprendere al meglio i problemi dati dalla DSA.
+Per il dislessico risulterà una piattaforma un editor di testi, per l'insegnate mezzo per comprendere le difficoltà dell'dislessico.
 ## How it works/come funziona? ##
-In una fase iniziale (Monitoraggio) il softwere inviterà il dislessico a scrivere e un piccolo e breve testo memorizzando gli errori durante la battiutra. 
-Sucessivamente verrà data la possibilità all'utente dislessico di customizzare il proprio layout in modo da essere il più semplice e comprensibile alla scrittura e alla lettura (Customizazione).
-Il file prodotto potà essere salvato e condiviso (Condivisione) con l'insengate il quale oltre a ricevere il testo del avrà la possibilità di visualizzare gli errori tipici del dislessico e osservare quali sono le problematiche. (Debugging)
+In una fase iniziale (Monitoraggio) il softwere inviterà il dislessico a scrivere e un piccolo e breve testo memorizzando gli errori durante la battitura. 
+Successivamente verrà data la possibilità all'utente dislessico di customizzare il proprio layout in modo da essere il più semplice e comprensibile alla scrittura e alla lettura (Customizzazione).
+Il file prodotto potà essere salvato e condiviso (Condivisione) con l'insegnate il quale oltre a ricevere il testo del avrà la possibilità di visualizzare gli errori tipici del dislessico e osservare quali sono le problematiche. (Debugging)
 ## What does it mean/Cosa significa? ##
-Migliarare le piattaforme per le persone affette da dislessia e rendere visibile le difficolta di un dislessico, evidenziando le sue problemtiche specifiche e risolverle. 
-
+Un miglioramento delle piattaforme per i dislessici e per gli insegnanti.
+Una piattaforma che oltre a aiutare il dislessico, aiuta gli insegnanti a comprendere le necessità di un dislessico e visualizzare le sue difficolta , mostrando i problemi specifici del singolo individuo e risolvere i problemi nel dettaglio. 
 
 ## Dati ##
 in-put su keyboard
