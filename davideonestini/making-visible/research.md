@@ -29,11 +29,11 @@ The first phase of my research was about looking for reliable data regarding mis
 
 <sub>"**Are some rights more important than others?**" (Elaine Pearson and Mausi Segun for Human Rights Watch)</sub>
 
-__***governments evalutation***__
+__***evaluating human rights' violations***__
 
-The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset is designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. The selection of the particular rights in the CIRI Dataset does not imply that these rights are considered to be more important than other human rights. Rather, these are the rights for which information are reliable and systematically available across time and space. It includes information about 202 countries, for the years 1981 to 2011.
-
-
+The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset used the annual country reports from the US State Department and Amnesty International as its primary sources and was designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. It includes information about 202 countries, for the years 1981 to 2011. 
+Most of the CIRI indicators are ratings on a scale of 0-2 for their respect of human rights, as follows: 0 = frequent violations of this right; 1 = some violations of this right; 2 = no reported violations of this right.
+The selection of the particular rights in the CIRI Dataset does not imply that these rights are considered to be more important than other human rights. Rather, these are the rights for which information are reliable and systematically available across time and space. For the purpose of my project, I selected 10 of the rights rated by the CIRI Dataset.
 
 **Extrajudicial Killing** Extrajudicial killings are killings by government officials without due process of law. These killings may result from the deliberate, illegal, and excessive use of lethal force by the police, security forces, or other agents of the state whether against criminal suspects, detainees, prisoners, or others.
 
@@ -57,7 +57,9 @@ The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides an
 
 __***custom dataset***__
 
+Using parts of Version 2014.04.14 of the CIRI Dataset, I completed my own one, selecting only the ratings of the rights I chose and adding the centroids' coordinates of each country. [Here](https://docs.google.com/spreadsheets/d/1hsnSWgK8jHz0BzqtMcSEsTRxp33EVtvDSPcBvoAzpJU/edit?usp=sharing) you can find the online Google Sheet with the full dataset.
 
+![Imgur](http://i.imgur.com/xLEFA2p.png)
 
 __***visual inspiration***__
 
