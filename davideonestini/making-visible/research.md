@@ -27,11 +27,33 @@ The first phase of my research was about looking for reliable data regarding mis
 
 [![Mausi Segun, Human Rights Watch](http://i.imgur.com/smIb0xG.png)](https://www.youtube.com/watch?v=1KNLS1WZkZA "Are some rights more important than others?")
 
-<sub>"Are some rights more important than others?" Elaine Pearson and Mausi Segun @HumanRightsWatch</sub>
+<sub>"**Are some rights more important than others?**" (Elaine Pearson and Mausi Segun for Human Rights Watch)</sub>
 
 ***governments evalutation***
 
 The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset is designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. The selection of the particular rights in the CIRI Dataset does not imply that these rights are considered to be more important than other human rights. Rather, these are the rights for which information are reliable and systematically available across time and space. It includes information about 202 countries, for the years 1981 to 2011.
+
+
+
+**Extrajudicial Killing** Extrajudicial killings are killings by government officials without due process of law. These killings may result from the deliberate, illegal, and excessive use of lethal force by the police, security forces, or other agents of the state whether against criminal suspects, detainees, prisoners, or others.
+
+**Political Imprisonment** Political imprisonment refers to the incarceration of people by government officials because of: their speech; their non-violent opposition to government policies or leaders; their religious beliefs; their non-violent religious practices including proselytizing; or their membership in a group, including an ethnic or racial group.
+
+**Torture** Torture refers to the purposeful inflicting of extreme pain, whether mental or physical, by government officials or by private individuals at the instigation of government officials. This also includes deaths in custody due to negligence by government officials.
+
+**Freedom of Assembly and Association** It is an internationally recognized right of citizens to assemble freely and to associate with other persons in political parties, trade unions, cultural organizations, or other special-interest groups. This variable indicates the extent to which the freedoms of assembly and association are subject to actual governmental limitations or restrictions (as opposed to strictly legal protections).
+
+**Freedom of Foreign Movement** This variable indicates citizens’ freedom to leave and return to their country.
+
+**Freedom of Domestic Movemtn** This variable indicates citizens’ freedom to travel within their own country.
+
+**Freedom of Speech** This variable indicates the extent to which freedoms of speech and press are affected by government censorship, including ownership of media outlets. Censorship is any form of restriction that is placed on freedom of the press, speech or expression.
+
+**Electoral Self-Determination** This variable indicates to what extent citizens enjoy freedom of political choice and the legal right and ability in practice to change the laws and officials that govern them through free and fair elections.
+
+**Freedom of Religion** This variable indicates the extent to which the freedom of citizens to exercise and practice their religious beliefs is subject to actual government restrictions.
+
+**Worker's Rights** Workers should have freedom of association at their workplaces and the right to bargain collectively with their employers. This variable indicates the extent to which workers enjoy these and other internationally recognized rights at work, including a prohibition on the use of any form of forced or compulsory labor; a minimum age for the employment of children; and acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health.
 
 ***custom dataset***
 
