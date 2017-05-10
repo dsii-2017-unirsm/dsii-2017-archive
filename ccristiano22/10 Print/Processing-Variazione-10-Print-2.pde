@@ -8,9 +8,11 @@ int[] dimensioni = { 60, 60, 60 };
 int[] dimensioni2 = { 60, 60, 60 };
 
 void setup() {
-  size(1080, 720);
+  size(1080, 720, P3D);
   background(0);
   frameRate(60);
+  smooth();
+  pixelDensity(2);
   float i= random(4);
   D = dimensioni[int(i)];
   D1 = dimensioni2[int(i)];
@@ -18,7 +20,9 @@ void setup() {
 void draw () {
   matrice ();
   stampaMatrice ();
-  //quadrato3 ();
+  quadrato2();
+  //matrice1 ();
+  //stampaMatrice();
 }
 void matrice () {
   noFill();
@@ -26,7 +30,7 @@ void matrice () {
   rect(x, y, D, D);
 
   stroke(50);
-  strokeWeight(random(2, 4));
+  strokeWeight(random(1, 6));
  if (random(2) <= 1) {
     stroke(random(225), random(225), random(225));
     line(x, y, x+D, y+D);
@@ -59,7 +63,6 @@ if (x <= 0) {
     x =0;
     y = y+D;
     D1 = -D1;
-
   }
 if (y >= height) {
     background(random(225), random(225), random(225));
@@ -67,6 +70,34 @@ if (y >= height) {
     y=0;
   }
 }
+void quadrato2() {
+  noFill();
+  noStroke();
+  rect(x1, y1, D, D);
+
+  stroke(50);
+  strokeWeight(random(2, 4));
+  if (random(2) <= 1) {
+    stroke(random(225), random(225), random(225));
+    line(x1, y1, x1+D, y1+D);
+  } else {
+    stroke(random(225), random(225), random(225));
+    line(x1+D, y1, x1, y1+D);
+  }
+y1 = y1 - D;
+  if (y1 <= 0) {
+    y1 = (height);
+    x1 = x1+D;
+  }
+
+  if (x1 >= width ) {
+    background(random(255));
+    x1 = 0;
+    y1 = (height-D);
+  }
+}
+
+
 void keyPressed() {  // se premo a fermo il loop
   if (key == 'a') {   
     noLoop();
@@ -74,7 +105,7 @@ void keyPressed() {  // se premo a fermo il loop
 
   }
   if (key == 's') {  // se premo f lo fermo
-    saveFrame("variazione-######.png");     //salva il frame
+    saveFrame("variazione-######.png");     //salva il frame, "fai un screenshot della finestra"
 
   } else {
 
