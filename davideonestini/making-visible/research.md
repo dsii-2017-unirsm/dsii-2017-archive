@@ -27,6 +27,10 @@ The first phase of my research was about looking for reliable data regarding mis
 
 [![Mausi Segun, Human Rights Watch](http://i.imgur.com/smIb0xG.png)](https://www.youtube.com/watch?v=1KNLS1WZkZA "Are some rights more important than others?")
 
+***CIRI***
+
+The [CIRI Human Rights Data Project](http://www.humanrightsdata.com) provides annual standards-based information about government respect for a broad array of human rights in nearly every country in the world. Founded by David L. Cingranelli, David L. Richards, and K. Chad Clay, CIRI Dataset is designed for use by scholars and students who seek to test theories about the causes and consequences of human rights violations. The selection of the particular rights in the CIRI Dataset does not imply that these rights are considered to be more important than other human rights. Rather, these are the rights for which information are reliable and systematically available across time and space. It includes information about 202 countries, for the years 1981 to 2011.  
+
 ***visual inspiration***
 
 [Dencity](https://fathom.info/notebook/1981/) (Fathom Information Design, 2012)
