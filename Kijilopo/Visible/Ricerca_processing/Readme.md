@@ -103,10 +103,11 @@ void draw() {
     ballY-= rsp;
   }
   
-  ```
+
  
   updatePixels();
   noStroke();
   fill(0, 0, 255);
   ellipse(ballX, ballY, 20, 20);
 }
+  ```
