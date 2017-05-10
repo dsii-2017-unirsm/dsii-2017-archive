@@ -26,7 +26,8 @@ One way to reach this goal would be to simulate a situation where one or more sp
 The first phase of my research was about looking for reliable data regarding missing or denied human rights all over the world. The main issue I came upon was the enormous amount of different kind of existing violations. Therefore, I started researching what could go under the name of 'human rights abuse' and what could not. Of course, there is not a neat line between them, and there are different opinions on the matter. Soon, I came across the question "Are some rights more important than others?". An inspiring answer I found out was the one given by Mausi Segun, Nigerian Researcher at [Human Rights Watch](https://www.hrw.org).
 
 [![Mausi Segun, Human Rights Watch](http://i.imgur.com/smIb0xG.png)](https://www.youtube.com/watch?v=1KNLS1WZkZA "Are some rights more important than others?")
-<sub>Small text</sub>
+
+<sub>"Are some rights more important than others?" Elaine Pearson and Mausi Segun @HumanRightsWatch</sub>
 
 ***governments evalutation***
 
