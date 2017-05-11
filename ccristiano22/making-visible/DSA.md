@@ -32,8 +32,19 @@ Il tool consentirà agli insegnati di scrivere un testo per i propri studenti co
 Il testo mutera in base hai tipici errori di queste categorie di dislessia, la mutazione non dipenderà esclusivamente dal livello di dislessia ma anche in base al struttura del testo stesso (interlinea, tipo di font, grandezza del font, Kerning, colore).
 Attraverso questo tool si cerca di offrire uno stumento utile agli insegnati sia per la scrittura di un testo sia per comprendere le difficoltà di uno studente affetto da DSA. 
 
-## Riferimenti visivi ##
+## Riferimenti ##
 ![alt text](https://www.aiditalia.org/Media/Page/dislessia-difficoltà-di-lettura.png)
+
+## What is/Cosa è? ##
+Un softwere/plug-in che da la possibilità sia al dislessico che all'insegnate di comprendere al meglio i problemi dati dalla DSA.
+Per il dislessico risulterà una piattaforma un editor di testi, per l'insegnate mezzo per comprendere le difficoltà dell'dislessico.
+## How it works/come funziona? ##
+In una fase iniziale (Monitoraggio) il softwere inviterà il dislessico a scrivere e un piccolo e breve testo memorizzando gli errori durante la battitura. 
+Successivamente verrà data la possibilità all'utente dislessico di customizzare il proprio layout in modo da essere il più semplice e comprensibile alla scrittura e alla lettura (Customizzazione).
+Il file prodotto potà essere salvato e condiviso (Condivisione) con l'insegnate il quale oltre a ricevere il testo del avrà la possibilità di visualizzare gli errori tipici del dislessico e osservare quali sono le problematiche. (Debugging)
+## What does it mean/Cosa significa? ##
+Un miglioramento delle piattaforme per i dislessici e per gli insegnanti.
+Una piattaforma che oltre a aiutare il dislessico, aiuta gli insegnanti a comprendere le necessità di un dislessico e visualizzare le sue difficolta , mostrando i problemi specifici del singolo individuo e risolvere i problemi nel dettaglio. 
 
 ## Dati ##
 in-put su keyboard
@@ -118,9 +129,6 @@ Questo disturbo essendo legato al movimento può comportare difficolta linguisti
 ## Sketch ##
 ![alt text](http://i.imgur.com/i3UY7xh.jpg)
 ![alt text](http://i.imgur.com/CSJCuaT.jpg)
-
-
-
 
 ## Riferimenti ##
 https://www.aiditalia.org/it/la-dislessia
