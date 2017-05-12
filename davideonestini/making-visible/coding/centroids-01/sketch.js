@@ -40,19 +40,31 @@ function setup() {
   for (var i = 0; i < centroids.length; i++) {
     var data = centroids[i].split(/,/);
 
+    var country = data[0];
+    var lat = data[1];
+    var lon = data[2];
+    var year = data[3];
+    var kill = data[4];      // Extrajudicial Killing
+    var polpris = data[5];   // Political Imprisonment
+    var tort = data[6];      // Torture
+    var assn = data[7];      // Freedom of Assembly and Associaton
+    var formov = data[8];    // Freedom of Foreign Movement
+    var dommov = data[9];    // Freedom of Domestic Movement
+    var speech = data[10];   // Freedom of Speech
+    var elecsd = data[11];   // Electoral Self-Determination
+    var relfre = data[12];   // Freedom of Religion
+    var worker = data[13];   // Worker's Rights
+
     //console.log(data);
 
-    if (data[3] == "1981") {
-
-      var lat = data[1];
-      var lon = data[2];
+    if (year == "1981") {
 
       var x = mercX(lon) - cx;
       var y = mercY(lat) - cy;
 
       ellipse(x,y,10,10);
 
-      if (data[4] == "2") {
+      if (kill == "2") {
         fill(0,255,0,100);
       } else if (data[4] == "1") {
         fill(255,255,0,100);
