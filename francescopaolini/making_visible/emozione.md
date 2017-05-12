@@ -13,6 +13,7 @@ Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può 
 
 ### riferimenti progettuali  
 L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.  
+
 ![amygdala](http://i.imgur.com/N2stVDD.jpg)  
 ![amygdala](http://i.imgur.com/0zdlkQf.jpg)  
 ![amygdala](http://i.imgur.com/jZ4nQUx.jpg)  
