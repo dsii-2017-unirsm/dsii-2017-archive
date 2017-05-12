@@ -131,15 +131,15 @@ Questo disturbo essendo legato al movimento può comportare difficolta linguisti
 ![alt text](http://i.imgur.com/CSJCuaT.jpg)
 
 ## Riferimenti ##
-https://www.aiditalia.org/it/la-dislessia
-https://it.wikipedia.org/wiki/Dislessia
-http://danielbritton.info
-https://www.wired.it/lifestyle/design/2015/06/17/font-problemi-dislessia/
-http://dyslexicdesign.co.uk
-http://dyslexicdesign.co.uk/Tina-Crawford
-http://dyslexicdesign.co.uk/filter/Graphic-%26-digital-design/Tomas-Jefanovas
-http://www.dislessiavarese.it/i-movimenti-oculari-e-la-lettura.html
-http://www.pickeditor.com
-http://www.aiutodislessia.net/programmi-per-la-creazione-di-mappe-concettuali-2/
-http://www.francescacavaiani.it/2014/08/05/strumenti-compensativi-quali-e-perche/
-https://www.behance.net/gallery/51942013/Making-Sense-of-Dyslexia
+* https://www.aiditalia.org/it/la-dislessia
+* https://it.wikipedia.org/wiki/Dislessia
+* http://danielbritton.info
+* https://www.wired.it/lifestyle/design/2015/06/17/font-problemi-dislessia/
+* http://dyslexicdesign.co.uk
+* http://dyslexicdesign.co.uk/Tina-Crawford
+* http://dyslexicdesign.co.uk/filter/Graphic-%26-digital-design/Tomas-Jefanovas
+* http://www.dislessiavarese.it/i-movimenti-oculari-e-la-lettura.html
+* http://www.pickeditor.com
+* http://www.aiutodislessia.net/programmi-per-la-creazione-di-mappe-concettuali-2/
+* http://www.francescacavaiani.it/2014/08/05/strumenti-compensativi-quali-e-perche/
+* https://www.behance.net/gallery/51942013/Making-Sense-of-Dyslexia
