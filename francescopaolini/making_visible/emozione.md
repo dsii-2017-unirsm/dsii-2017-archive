@@ -51,5 +51,3 @@ Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
 
 ### domande per sviluppo ulteriore  
 Che suono ha l'emozione? Come si può comprendere, rendere tangibile? È possibile suonare/controllare l'emozione del mondo con un sintetizzatore o modulare, per creare suono/rumore?
-
-
