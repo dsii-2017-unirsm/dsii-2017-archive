@@ -1,6 +1,6 @@
 
 ## /e·mo·zió·ne/
-#### parole chiave — suono, emozione, ascolto, reazione, relazione
+#### parole chiave — suono, emozione, ascolto, reazione, relazione, tweet
 
 Portare fuori, smuovere, scuotere, agitare dal latino _emovère_ (_ex_ — fuori e _movere_ — muovere). Stato psichico affettivo e momentaneo che consiste nella reazione opposta dall'organismo a percezioni o rappresentazioni che ne turbano l'equilibrio.
 
@@ -18,18 +18,30 @@ L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/)
 ![amygdala](http://i.imgur.com/jZ4nQUx.jpg)  
   
 Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/) 
+
 ![Synesketch](http://i.imgur.com/JOcP0Gk.jpg)  
 —_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
 —_da sinistra a destra: crescendo d'intensità delle emozioni._
 
-jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning)  
+jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) 
+
 ![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
 
 jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)  
+
 ![just-landed-processing-twitter-metacarta-hidden-data](http://i.imgur.com/b4U7Pm7.png)  
 
 [Go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/) è un'estensione del browser che offusca i tuoi sentimenti/reazione su Facebook. Ogni volta che si fa clic su “Mi piace”, Go Rando sceglie a caso uno dei sei “reazioni” per voi.  
+
 ![go rando](http://i.imgur.com/p06mgzh.jpg)
+
+[Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
+
+![pulse](http://i.imgur.com/S5hmZ5L.jpg)
+
+Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/) mira a mettere in discussione/testare l'implicazione se il passato, il presente e il futuro della città potrebbero esistere nello stesso posto, stratificazione storie personali e storie locali della città in scala 1: 1.
+
+![Palimpsest](http://i.imgur.com/1T8L9AK.jpg)
 
 
 ### ipotesi di dati  
