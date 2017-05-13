@@ -38,7 +38,7 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 ![Synesketch](http://i.imgur.com/JOcP0Gk.jpg)  
 
-— Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/) mira a mettere in discussione/testare l'implicazione se il passato, il presente e il futuro della città potrebbero esistere nello stesso posto, stratificazione storie personali e storie locali della città in scala 1: 1.
+— Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/) mira a mettere in discussione/testare l'implicazione se il passato, il presente e il futuro della città potrebbero esistere nello stesso posto, stratificazione storie personali e storie locali della città in scala 1: 1. Creata alla Bartlett School of Architecture / Interactive Architecture, Palimpsest utilizza la scansione 3D e realtà virtuale per registrare gli spazi urbani e le comunità che li abitano.
 
 ![Palimpsest](http://i.imgur.com/1T8L9AK.jpg)
 
@@ -48,7 +48,7 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 — [Synesketch](http://krcadinac.com/synesketch/#about) (...da testare)  
 — [Twitter Emotion Grafici](https://github.com/dguttman/Twitter-Emotion-Graphs) mostra lo stato emotivo di Twitter in tempo reale.  
 — [TarsosDSP](https://github.com/JorenSix/TarsosDSP) è una libreria Java per l'elaborazione audio.  
-— [Amnon Dovuto](https://github.com/AmnonOwed) [+](https://vimeo.com/66585777)
+— [Amnon Dovuto](https://github.com/AmnonOwed) [+](https://vimeo.com/66585777)  
 — [Chromatik](http://chromatik.labs.exalead.com/#home) ricerca immagini per proporzione di colore e parole chiave, contenuti nei meta dati dell'immagine. Le immagini indicizzate sono ottenute da FlickR API, Chromatik approfitta dei metadati disponibili (posizione, tag, licenza) per migliorare la navigazione e la relativa ricerca.  
 — [Kaleidok](http://www.kaleidok.co/) esplora il riconoscimento vocale, recupero dei media e delle immagini che generano un contesto. Viene creato un caleidoscopio di diverse espressioni culturali accessibili. La piattaforma esplora e fa esplorare all'utente le connessioni tra il loro dialogo interno e il mondo esterno.  
 
@@ -56,7 +56,7 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 
 ### prototipazione fisica — _lasciar traccia_
-— [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
+— [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation dell'espressioni emotive, il progetto si riferisce al libro di Robert Plutchik — Psychoevolutionary Theory of Emotion, pubblicato nel 1980.  Il cono, come negli scritti di Plutchik, è la forma base di partenza che può allargarsi nelle 24 direzioni delle diverse emozioni. Ogni volta che un tag emozione, o un sinonimo di esso, si trova in un messaggio/blog, l'oggetto si trasforma in modo tale che il nuovo volume rappresenta un pezzo della condizione emotiva corrente degli utenti in rete.
 
 ![pulse](http://i.imgur.com/S5hmZ5L.jpg)  
 
