@@ -43,11 +43,12 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 ![Palimpsest](http://i.imgur.com/1T8L9AK.jpg)
 
 
-### algoritmo per la ricerca dati — _tweet_
+### algoritmo per la ricerca dati e code per la visualizzazione — 
 — [Temboo/twitter](https://temboo.com/library/Library/Twitter/)   
 — [Synesketch](http://krcadinac.com/synesketch/#about) (...da testare)  
 — [Twitter Emotion Grafici](https://github.com/dguttman/Twitter-Emotion-Graphs) mostra lo stato emotivo di Twitter in tempo reale.  
 — [TarsosDSP](https://github.com/JorenSix/TarsosDSP) è una libreria Java per l'elaborazione audio.  
+— [Amnon Dovuto](https://github.com/AmnonOwed) [+](https://vimeo.com/66585777)
 — [Chromatik](http://chromatik.labs.exalead.com/#home) ricerca immagini per proporzione di colore e parole chiave, contenuti nei meta dati dell'immagine. Le immagini indicizzate sono ottenute da FlickR API, Chromatik approfitta dei metadati disponibili (posizione, tag, licenza) per migliorare la navigazione e la relativa ricerca.  
 — [Kaleidok](http://www.kaleidok.co/) esplora il riconoscimento vocale, recupero dei media e delle immagini che generano un contesto. Viene creato un caleidoscopio di diverse espressioni culturali accessibili. La piattaforma esplora e fa esplorare all'utente le connessioni tra il loro dialogo interno e il mondo esterno.  
 
