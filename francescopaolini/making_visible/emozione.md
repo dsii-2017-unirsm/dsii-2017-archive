@@ -28,11 +28,11 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 —_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
 —_da sinistra a destra: crescendo d'intensità delle emozioni._
 
-jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione Twitter che mostra circa 11.000 tweets di 'buongiorno' nel corso di un periodo di 24 ore.
+jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione, collegato alla piattaforma di Twitter, che mostra circa 11.000 tweets di "buongiorno" nel corso di un periodo di 24 ore. I tweets visualizzati sono identificati tramite un color-coded: blocchi verdi sono i primi tweet, quelli arancioni sono intorno alle 9, rossi sono in tarda mattinata e blocchi neri sono "fuori dal tempo".
 
 ![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
 
-jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data)  
+jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data). È possibile estrarre informazioni di viaggio da flussi di Twitter pubbliche delle persone? Si, tramite un algoritmo che ricerca e analizza all'interno del tweet la frase "appena sbarcati in ...". L'idea è molto semplice: trovare i tweet che contengono questa frase, analizzare la posizione geografica dell'arrivo, insieme con alla posizione della propria abitazione elencata sul proprio profilo Twitter, e utilizzare questo per tracciare viaggio compiuto.
 
 ![just-landed-processing-twitter-metacarta-hidden-data](http://i.imgur.com/b4U7Pm7.png)  
 
