@@ -16,19 +16,19 @@ Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può 
   
   
 ### riferimenti progettuali  
-jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione, collegato alla piattaforma di Twitter, che mostra circa 11.000 tweets di "buongiorno" nel corso di un periodo di 24 ore. I tweets visualizzati sono identificati tramite un color-coded: blocchi verdi sono i primi tweet, quelli arancioni sono intorno alle 9, rossi sono in tarda mattinata e blocchi neri sono "fuori dal tempo".
+— [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione, collegato alla piattaforma di Twitter, che mostra circa 11.000 tweets di "buongiorno" nel corso di un periodo di 24 ore. I tweets visualizzati sono identificati tramite un color-coded: blocchi verdi sono i primi tweet, quelli arancioni sono intorno alle 9, rossi sono in tarda mattinata e blocchi neri sono "fuori dal tempo".
 
 ![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
 
-jer thorp — [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data). È possibile estrarre informazioni di viaggio da flussi di Twitter pubbliche delle persone? Si, tramite un algoritmo che ricerca e analizza all'interno del tweet la frase "appena sbarcati in ...". L'idea è molto semplice: trovare i tweet che contengono questa frase, analizzare la posizione geografica dell'arrivo, insieme con alla posizione della propria abitazione elencata sul proprio profilo Twitter, e utilizzare questo per tracciare viaggio compiuto.
+— [just landed](http://blog.blprnt.com/blog/blprnt/just-landed-processing-twitter-metacarta-hidden-data). È possibile estrarre informazioni di viaggio da flussi di Twitter pubbliche delle persone? Si, tramite un algoritmo che ricerca e analizza all'interno del tweet la frase "appena sbarcati in ...". L'idea è molto semplice: trovare i tweet che contengono questa frase, analizzare la posizione geografica dell'arrivo, insieme con alla posizione della propria abitazione elencata sul proprio profilo Twitter, e utilizzare questo per tracciare viaggio compiuto.
 
 ![just-landed-processing-twitter-metacarta-hidden-data](http://i.imgur.com/b4U7Pm7.png)  
 
-[Go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/) è un'estensione del browser che offusca i tuoi sentimenti/reazione su Facebook. Ogni volta che si fa clic su “Mi piace”, Go Rando sceglie a caso uno dei sei “reazioni” per voi.  
+— [Go rando](http://www.creativeapplications.net/news/go-rando-a-big-fu-to-facebook-sentiment-analysis/) è un'estensione del browser che offusca i tuoi sentimenti/reazione su Facebook. Ogni volta che si fa clic su “Mi piace”, Go Rando sceglie a caso uno dei sei “reazioni” per voi.  
 
 ![go rando](http://i.imgur.com/p06mgzh.jpg)
 
-L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.  
+— L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.  
 
 ![amygdala](http://i.imgur.com/N2stVDD.jpg)  
 ![amygdala](http://i.imgur.com/0zdlkQf.jpg)  
@@ -41,11 +41,11 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 —_da sinistra a destra: crescendo d'intensità delle emozioni._
 
 
-[Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
+— [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
 
 ![pulse](http://i.imgur.com/S5hmZ5L.jpg)
 
-Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/) mira a mettere in discussione/testare l'implicazione se il passato, il presente e il futuro della città potrebbero esistere nello stesso posto, stratificazione storie personali e storie locali della città in scala 1: 1.
+— Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/) mira a mettere in discussione/testare l'implicazione se il passato, il presente e il futuro della città potrebbero esistere nello stesso posto, stratificazione storie personali e storie locali della città in scala 1: 1.
 
 ![Palimpsest](http://i.imgur.com/1T8L9AK.jpg)
 
