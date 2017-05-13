@@ -34,26 +34,23 @@ Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può 
 ![amygdala](http://i.imgur.com/0zdlkQf.jpg)  
 ![amygdala](http://i.imgur.com/jZ4nQUx.jpg)  
   
-Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/) 
-—_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
-—_da sinistra a destra: crescendo d'intensità delle emozioni._  
+Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synesketch](http://krcadinac.com/synesketch/#about) è il primo software open-source libero del Web per il riconoscimento testuale emozione e visualizzazione artistica, progettato e sviluppato da [Uroš Krčadinac.](http://krcadinac.com/). Nell'immagine sottostante, dall'alto verso il basso, sono visualizzate le rappresentazioni della felicità, paura, sorpresa, disgusto, rabbia, tristezza. Mentre, da sinistra a destra, si può visualizzare il crescendo d'intensità delle emozioni rappresentate.
 
 ![Synesketch](http://i.imgur.com/JOcP0Gk.jpg)  
-
-— [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
-
-![pulse](http://i.imgur.com/S5hmZ5L.jpg)
 
 — Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest-collective-memory-through-virtual-reality/) mira a mettere in discussione/testare l'implicazione se il passato, il presente e il futuro della città potrebbero esistere nello stesso posto, stratificazione storie personali e storie locali della città in scala 1: 1.
 
 ![Palimpsest](http://i.imgur.com/1T8L9AK.jpg)
 
 
-### algoritmo per la ricerca dati
+### algoritmo per la ricerca dati — _tweet_
 temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
 Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
 
-### prototipazione fisica
+### prototipazione fisica — _lasciar traccia_
+— [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
+
+![pulse](http://i.imgur.com/S5hmZ5L.jpg)
 
 — [sonar](http://www.dwbowen.com/sonar-drawing-device)
 — [short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/)
