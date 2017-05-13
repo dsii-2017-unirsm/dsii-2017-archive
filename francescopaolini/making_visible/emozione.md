@@ -1,10 +1,13 @@
-
 ## /e·mo·zió·ne/
-#### parole chiave — suono, emozione, ascolto, reazione, relazione, tweet
+#### parole chiave — dati, memoria, luogo, traccia, livelli, suono, emozioni, relazione, tweet
 
 Portare fuori, smuovere, scuotere, agitare dal latino _emovère_ (_ex_ — fuori e _movere_ — muovere). Stato psichico affettivo e momentaneo che consiste nella reazione opposta dall'organismo a percezioni o rappresentazioni che ne turbano l'equilibrio.
 
-“..quando il pensiero e la percezione diventano movimento? […] Interagire col mondo non è mai un fatto neutro, anzi è sopratutto un fatto emotivo. Le cose non sono semplicemente guardadili o toccabili, ma sono pericoli o opportunità. Il mondo è un luogo fatto di attrazioni e di repulsioni.” — Guardare, pensare, progettare di Riccardo Falcinelli
+_“[…] quando il pensiero e la percezione diventano movimento? […] Interagire col mondo non è mai un fatto neutro, anzi è sopratutto un fatto emotivo. Le cose non sono semplicemente guardadili o toccabili, ma sono pericoli o opportunità. Il mondo è un luogo fatto di attrazioni e di repulsioni.” — Guardare, pensare, progettare di Riccardo Falcinelli_
+
+_"[…] dove la città è sia un recipiente ed un prodotto dell'attività umana […] una città parallela di intersezioni, la scoperta e la memoria sono un mezzo per vivere l'ambiente fisico di nuovo."_
+
+_"[…] il passato, il presente, il futuro della città potrebbero esistere nello stesso posto, stratificazione delle storie personali e locali della città in scala 1:1."_ 
 
 In un era digitale(o internet of things), dove siamo quotidianamente connessi alla reti e alle relative piattaforme di social network, sappiamo distinguere l'emozioni? Conosciamo, veramente, come sta la persona dall'altra parte della chat/post?. Ormai, contenuti all'interno di quel testo che postiamo, c'è tutta la nostra vita. I nostri bisogni, le nostre emozioni, le nostre esigenze primaria e non, quali sono? Come sono? Come sono mutate? C'è qualcuno che ascolta o legge i nostri bisogni?
 
