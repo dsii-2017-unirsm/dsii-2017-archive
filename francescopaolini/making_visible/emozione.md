@@ -9,12 +9,6 @@ _"[…] dove la città è sia un recipiente ed un prodotto dell'attività umana 
 
 _"Il passato, il presente, il futuro della città potrebbero esistere nello stesso posto, stratificazione delle storie personali e locali della città in scala 1:1."_ 
 
-In un era digitale(o internet of things), dove siamo quotidianamente connessi alla reti e alle relative piattaforme di social network, sappiamo distinguere l'emozioni? Conosciamo, veramente, come sta la persona dall'altra parte della chat/post?. Ormai, contenuti all'interno di quel testo che postiamo, c'è tutta la nostra vita. I nostri bisogni, le nostre emozioni, le nostre esigenze primaria e non, quali sono? Come sono? Come sono mutate? C'è qualcuno che ascolta o legge i nostri bisogni?
-
-Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo? _"Ascoltare ed interpretare i contenuti condivisi in rete dagli utenti, per generare un'opera audiovisa"_. Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post/stato. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale.
-Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi.
-  
-  
 ### riferimenti progettuali —
 — [Goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione, collegato alla piattaforma di Twitter, che mostra circa 11.000 tweets di "buongiorno" nel corso di un periodo di 24 ore. I tweets visualizzati sono identificati tramite un color-coded: blocchi verdi sono i primi tweet, quelli arancioni sono intorno alle 9, rossi sono in tarda mattinata e blocchi neri sono "fuori dal tempo".
 
@@ -67,3 +61,12 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 — [Short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/)  
 
 ![Short cuts](http://i.imgur.com/s94GFXR.jpg)
+
+### concept 
+_(...in progress)_
+La maggior parte dell'attività e delle relezioni umane avvengono attraverso la rete creando dei network
+
+L'architettura può essere anche un palinsesto: come le città e gli edifici vengono modificati e riutilizzati, le tracce delle loro vite precedenti rimangono visibili.
+
+Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo? _"Ascoltare ed interpretare i contenuti condivisi in rete dagli utenti, per generare un'opera audiovisa"_. Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post/stato. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale.
+Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi.
