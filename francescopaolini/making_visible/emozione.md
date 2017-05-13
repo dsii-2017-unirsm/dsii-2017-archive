@@ -15,7 +15,7 @@ Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la re
 Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi.
   
   
-### riferimenti progettuali  
+### riferimenti progettuali —
 — [Goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione, collegato alla piattaforma di Twitter, che mostra circa 11.000 tweets di "buongiorno" nel corso di un periodo di 24 ore. I tweets visualizzati sono identificati tramite un color-coded: blocchi verdi sono i primi tweet, quelli arancioni sono intorno alle 9, rossi sono in tarda mattinata e blocchi neri sono "fuori dal tempo".
 
 ![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
@@ -44,8 +44,15 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 
 ### algoritmo per la ricerca dati — _tweet_
-temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
-Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
+— [Temboo/twitter](https://temboo.com/library/Library/Twitter/)   
+— [Synesketch](http://krcadinac.com/synesketch/#about)  
+— [Twitter Emotion Grafici](https://github.com/dguttman/Twitter-Emotion-Graphs) mostra lo stato emotivo di Twitter in tempo reale.  
+— [TarsosDSP](https://github.com/JorenSix/TarsosDSP) è una libreria Java per l'elaborazione audio.  
+— [Chromatik](http://chromatik.labs.exalead.com/#home) ricerca immagini per proporzione di colore e parole chiave, contenuti nei meta dati dell'immagine. Le immagini indicizzate sono ottenute da FlickR API, Chromatik approfitta dei metadati disponibili (posizione, tag, licenza) per migliorare la navigazione e la relativa ricerca.  
+— [Kaleidok](http://www.kaleidok.co/) esplora il riconoscimento vocale, recupero dei media e delle immagini che generano un contesto. Viene creato un caleidoscopio di diverse espressioni culturali accessibili. La piattaforma esplora e fa esplorare all'utente le connessioni tra il loro dialogo interno e il mondo esterno.  
+
+![Kaleidok](http://i.imgur.com/CMgAmvE.jpg)
+
 
 ### prototipazione fisica — _lasciar traccia_
 — [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
