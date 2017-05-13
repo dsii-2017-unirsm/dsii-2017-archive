@@ -63,7 +63,6 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 ![sonar](http://i.imgur.com/G5qECVF.jpg)  
 
-
 — [Short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/)  
 
-<a href="https://vimeo.com/129666491">OTTO &ndash; Footnotes from the History of Two Cultures: Mitsuo Katsui</a> from <a href="https://vimeo.com/lehni">J&uuml;rg Lehni</a> on <a href="https://vimeo.com">Vimeo</a>
+![Short cuts](http://i.imgur.com/s94GFXR.jpg)
