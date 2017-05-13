@@ -45,7 +45,7 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 ### algoritmo per la ricerca dati — _tweet_
 — [Temboo/twitter](https://temboo.com/library/Library/Twitter/)   
-— [Synesketch](http://krcadinac.com/synesketch/#about)  
+— [Synesketch](http://krcadinac.com/synesketch/#about) (...da testare)  
 — [Twitter Emotion Grafici](https://github.com/dguttman/Twitter-Emotion-Graphs) mostra lo stato emotivo di Twitter in tempo reale.  
 — [TarsosDSP](https://github.com/JorenSix/TarsosDSP) è una libreria Java per l'elaborazione audio.  
 — [Chromatik](http://chromatik.labs.exalead.com/#home) ricerca immagini per proporzione di colore e parole chiave, contenuti nei meta dati dell'immagine. Le immagini indicizzate sono ottenute da FlickR API, Chromatik approfitta dei metadati disponibili (posizione, tag, licenza) per migliorare la navigazione e la relativa ricerca.  
@@ -57,7 +57,13 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 ### prototipazione fisica — _lasciar traccia_
 — [Pulse](http://www.markuskison.de/kinetic.html) è una live visualisation delle recenti espressioni emotive, il progetto si riferisce al libro fondamentale di Robert Plutchik — Psychoevolutionary Theory of Basic Emotions, pubblicato nel 1980.  
 
-![pulse](http://i.imgur.com/S5hmZ5L.jpg)
+![pulse](http://i.imgur.com/S5hmZ5L.jpg)  
 
-— [sonar](http://www.dwbowen.com/sonar-drawing-device)
-— [short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/)
+— [Sonar](http://www.dwbowen.com/sonar-drawing-device)  
+
+![sonar](http://i.imgur.com/G5qECVF.jpg)  
+
+
+— [Short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/)  
+
+<a href="https://vimeo.com/129666491">OTTO &ndash; Footnotes from the History of Two Cultures: Mitsuo Katsui</a> from <a href="https://vimeo.com/lehni">J&uuml;rg Lehni</a> on <a href="https://vimeo.com">Vimeo</a>
