@@ -7,13 +7,14 @@ _“[…] quando il pensiero e la percezione diventano movimento? […] Interagi
 
 _"[…] dove la città è sia un recipiente ed un prodotto dell'attività umana […] una città parallela di intersezioni, la scoperta e la memoria sono un mezzo per vivere l'ambiente fisico di nuovo."_
 
-_"[…] il passato, il presente, il futuro della città potrebbero esistere nello stesso posto, stratificazione delle storie personali e locali della città in scala 1:1."_ 
+_"Il passato, il presente, il futuro della città potrebbero esistere nello stesso posto, stratificazione delle storie personali e locali della città in scala 1:1."_ 
 
 In un era digitale(o internet of things), dove siamo quotidianamente connessi alla reti e alle relative piattaforme di social network, sappiamo distinguere l'emozioni? Conosciamo, veramente, come sta la persona dall'altra parte della chat/post?. Ormai, contenuti all'interno di quel testo che postiamo, c'è tutta la nostra vita. I nostri bisogni, le nostre emozioni, le nostre esigenze primaria e non, quali sono? Come sono? Come sono mutate? C'è qualcuno che ascolta o legge i nostri bisogni?
 
 Il progetto mira a creare una rappresentazione per l'ascolto, la visione e la relativa interazione col flusso dei nostri bisogni/emozioni/esigenze...quello che a volte pensiamo o sentiamo, possiamo toccarlo e definirlo? _"Ascoltare ed interpretare i contenuti condivisi in rete dagli utenti, per generare un'opera audiovisa"_. Tramite un algoritmo si potrebbe, in tempo reale, analizzare quelli che sono gli stati o i post creati su diverse piattaforme, quali facebook e twitter per esempio. Cercando di definire una metodologia(o criterio critico) con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del post/stato. Dividendo le categorie e definendo una gerarchia per creare una visualizzazione globale.
 Sul lato positivo, il Big Data(in questo caso l'emozione che condividiamo) può essere utilizzato in tempo reale per monitorare l'entità di un'epidemia o per impedire un crimine, migliorare la sicurezza di una città e di contribuire a salvaguardare la sensazione di spensieratezza a individui e gruppi.
-
+  
+  
 ### riferimenti progettuali  
 L'obiettivo del progetto [amygdala](http://fuseworks.it/it/project/amygdala-it/) (l'amigdala o corpo amigdaloideo, è una parte del cervello che gestisce le emozioni e in particolar modo la paura), è quello di rendere il flusso dei dati/emozioni visibile. In questo modo, lo studio [fuse](http://fuseworks.it/) spera di stimolare la riflessione sulla accessibilità di tali informazioni, considerando le opportunità e i rischi della rivoluzione digitale in cui viviamo. infinita di informazioni sulla nostra vita privata.  
 
@@ -27,7 +28,7 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 —_dall'alto verso il basso: felicità, paura, sorpresa, disgusto, rabbia, tristezza._  
 —_da sinistra a destra: crescendo d'intensità delle emozioni._
 
-jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) 
+jer thorp — [goodmornig](http://blog.blprnt.com/blog/blprnt/goodmorning) è uno strumento di visualizzazione Twitter che mostra circa 11.000 tweets di 'buongiorno' nel corso di un periodo di 24 ore.
 
 ![goodmornig](http://i.imgur.com/QjvWEuJ.jpg)  
 
@@ -48,9 +49,11 @@ Il progetto [Palimpsest](http://www.creativeapplications.net/unity-3d/palimpsest
 ![Palimpsest](http://i.imgur.com/1T8L9AK.jpg)
 
 
-### ipotesi di dati  
+### algoritmo per la ricerca dati
 temboo — [facebook](https://temboo.com/library/Library/Facebook/), [twitter](https://temboo.com/library/Library/Twitter/)  
 Uroš Krčadinac — [Synesketch](http://krcadinac.com/synesketch/#about)
 
-### domande per sviluppo ulteriore  
+### quesiti ed ipotesi 
 Che suono ha l'emozione? Come si può comprendere, rendere tangibile? È possibile suonare/controllare l'emozione del mondo con un sintetizzatore o modulare, per creare suono/rumore?
+
+### concept
