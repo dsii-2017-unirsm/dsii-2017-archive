@@ -64,6 +64,10 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 ![Short cuts](http://i.imgur.com/s94GFXR.jpg)
 
+— [Takahiro Yamaguchi](https://vimeo.com/yang02)  
+
+![Takahiro Yamaguchi](http://i.imgur.com/SgPbZwC.jpg)  
+
 ### concept 
 _(...in progress)_
 La maggior parte dell'attività e delle relazioni umane avvengono ormai attraverso la rete creando dei network digitali. Questa evoluzione crea una repentina involuzione del genere umano, che non pensa più all'altra persona, a quello che viene vissuto, a quello che viene detto, a dove si è, dove si è stati, chi c'è stato prima di noi e chi ci sarà dopo e cos'è rimasto soprattuto. _"L'architettura può essere anche un palinsesto?"_, la città e gli edifici vengono modificati e riutilizzati, le tracce delle loro vite precedenti rimangono visibili e invisibile a tutti coloro che passano nel tempo. Oltre alle modifiche/tracce puramente strutturali, legate all'architettura del luogo, vi sono anche quelle emotive intrinsecamente legate al luogo e al vissuto delle persone. Il progetto mira a creare una rappresentazione (una traccia) dei contenuti e delle emozioni (legate al luogo)condivisi in rete, tramite la piattaforma di twitter, per generare così la memoria di un luogo. Tramite un algoritmo si analizza in tempo reale, gli stati e i relativi contenuti emotivi creati su diverse piattaforme, in questo caso è stato scelto Twitter (potrebbe essere integrato anche Flickr tramite l'analisi di tag, immagini e meta—dati), cercando di definire una metodologia con il quale l'algotirmo analizza i testi o l'emoji contenuti all'interno del tweet, li divide in differenti categorie(precedentemente definite all'interno dell'algoritmo) e crea una gerarchia per una visualizzazione globale. Dopo aver creato questo archivio dei dati dell'emozioni del luogo, questo viene poi collegato ad un opera fisica, posizionata al centro della pizza o del luogo simbolo della città, che in relazione ai dati raccolti andrà a disegnare/tracciare sul pavimento o sulle strutture tramite un gesso bianco, la memoria del luogo...
