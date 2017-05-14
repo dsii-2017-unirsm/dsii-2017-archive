@@ -1,7 +1,9 @@
 ## /e·mo·zió·ne/
-#### parole chiave — dati, memoria, luogo, traccia, livelli, suono, emozioni, relazione, tweet
+#### parole chiave — dati, memoria, luogo, traccia, livelli, suono, emozione, relazione, tweet
 
 Portare fuori, smuovere, scuotere, agitare dal latino _emovère_ (_ex_ — fuori e _movere_ — muovere). Stato psichico affettivo e momentaneo che consiste nella reazione opposta dall'organismo a percezioni o rappresentazioni che ne turbano l'equilibrio.
+
+Memòria dal latino _memor—ŏris_— memore. In generale, la capacità, comune a molti organismi, di conservare traccia (segno lasciato nel terreno, su una superficie o in altro ambiente, da qualcosa che vi passa sopra o attraverso, che vi poggia con forza) più o meno completa e duratura degli stimoli esterni sperimentati e delle relative risposte. Con riferimento all’uomo (nel quale tale funzione raggiunge la più elevata organizzazione), il termine indica sia la capacità di ritenere traccia di informazioni relative a eventi, immagini, sensazioni, idee, ecc. di cui si sia avuto esperienza e di rievocarle quando lo stimolo originario sia cessato riconoscendole come stati di coscienza trascorsi, sia i contenuti stessi dell’esperienza in quanto sono rievocati, sia l’insieme dei meccanismi psicologici e neurofisiologici che permettono di registrare e successivamente di richiamare informazioni.
 
 _“[…] quando il pensiero e la percezione diventano movimento? […] Interagire col mondo non è mai un fatto neutro, anzi è sopratutto un fatto emotivo. Le cose non sono semplicemente guardadili o toccabili, ma sono pericoli o opportunità. Il mondo è un luogo fatto di attrazioni e di repulsioni.” — Guardare, pensare, progettare di Riccardo Falcinelli_
 
