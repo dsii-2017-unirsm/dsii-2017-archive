@@ -1,4 +1,6 @@
 // spaziatura
+import processing.pdf.*;
+boolean saveOneFrame = false;
 int spaziatura=10;
 
 int percentuale = 70;
@@ -113,6 +115,7 @@ void setup() {
 void draw() {
   background(#778C85);
   for (int i = 0; i != NUM; tboxes[i++].display());
+  TastoStampa();
 }
 
 void mouseClicked() {
@@ -172,8 +175,9 @@ class TextBox { // demands rectMode(CORNER)
   boolean isFocused;
   String txt = "  ";
 
-  String txtDSA = " ";
+  
   boolean DSA = false;
+  String txtDSA = " ";
 
   TextBox(int xx, int yy, int ww, int hh, int li, 
     color te, color ba, color bo, color se, int s_) {
@@ -308,3 +312,19 @@ class TextBox { // demands rectMode(CORNER)
     return isFocused = mouseX > x & mouseX < xw & mouseY > y & mouseY < yh;
   }
 }
+
+void TastoStampa() {  // se premo a fermo il loop
+  if ((mouseX > 40) && (mouseX < 80) &&
+    (mouseY > 20) && (mouseY < 80) && (mouseButton == LEFT)) {
+      beginRecord(PDF, "filename.pdf"); 
+      fill(255);
+  } else {
+    endRecord();
+    fill(0);
+  }
+  rect(20, 420, 40, 40);
+  text("Expot PDF", 20, 410);
+  
+}
+
+
