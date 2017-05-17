@@ -51,6 +51,7 @@ Attraverso un'analisi accurata del dipinto, la progettista risolve il problema d
 La volontà del progettista è quella di creare un'esperienza inedita per il pubblico di riferimento. Anche in questo caso si è ragionato sulla tridimensionalità, rendendo toccabili le opere d'arte. 
 
 ![Imgur](http://i.imgur.com/KpbTxSv.png)
+</br>
 
 **Percezione Aptica** </br>
 
