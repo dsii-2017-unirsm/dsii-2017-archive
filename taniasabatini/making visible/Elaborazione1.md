@@ -68,7 +68,8 @@ Questi dispositivi sono stati concepiti sulla base dell’ipotesi che l’intera
 
 **Ispirazioni e progetti correlati** </br>
 
-[Haptic-feedback shoes guide blind walkers](http://blog.ted.com/video-haptic-feedback-shoes-guide-blind-walkers/)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
+[Le Chal. Haptic-feedback shoes guide blind walkers](http://blog.ted.com/video-haptic-feedback-shoes-guide-blind-walkers/)</br> 
+Questo interessante progetto sfrutta una tecnologia GPS e una serie di feedback per guidare utenti non vedenti in spazi aperti. Ogni scarpa è dotata di circuiti elettronici e sensori in grado di fornire all'utente un feedback sul proprio movimento. Attraverso la vibrazione, le Chal sono in grado di notare ostacoli e di comunicare così, quando ruotare, sollevare i piedi o fermarsi. Esse inoltre utilizzano un'applicazione vocale che legge mappe GPS locali e pianifica percorsi. </br>
 
 ![Imgur](http://2.bp.blogspot.com/-Q1ImqAigAMs/VW2bsJcATAI/AAAAAAAAGcU/rSscA3lg-UQ/s1600/shoe-sideview.jpg)
 </br>
