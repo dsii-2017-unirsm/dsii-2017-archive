@@ -68,9 +68,9 @@ Questi dispositivi sono stati concepiti sulla base dell’ipotesi che l’intera
 
 **Ispirazioni e progetti correlati** </br>
 
-[Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
+[Haptic-feedback shoes guide blind walkers](http://blog.ted.com/video-haptic-feedback-shoes-guide-blind-walkers/)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
 
-![Imgur](http://i.imgur.com/ofD1JDQ.png)
+![Imgur](http://2.bp.blogspot.com/-Q1ImqAigAMs/VW2bsJcATAI/AAAAAAAAGcU/rSscA3lg-UQ/s1600/shoe-sideview.jpg)
 </br>
 </br>
 
