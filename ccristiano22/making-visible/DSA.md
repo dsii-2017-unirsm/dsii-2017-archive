@@ -143,3 +143,4 @@ Questo disturbo essendo legato al movimento può comportare difficolta linguisti
 * http://www.aiutodislessia.net/programmi-per-la-creazione-di-mappe-concettuali-2/
 * http://www.francescacavaiani.it/2014/08/05/strumenti-compensativi-quali-e-perche/
 * https://www.behance.net/gallery/51942013/Making-Sense-of-Dyslexia
+* http://studio.processingtogether.com/sp/pad/export/ro.9Zo$UbIWYZEDR/latest
