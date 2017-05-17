@@ -10,7 +10,7 @@ L’interfaccia consente anche di velocizzare la lettura della timeline e tramit
 “The flow towards Europe” attinge i dati pubblicati dall'Agenzia delle Nazioni Unite per i rifugiati (UNHCR), rielaborati in combinazione da React, D3.js and PIXI.js.
 
 ### What does it mean/Cosa significa? ###
-Questa visualizzazione attraverso una timeline, una mappa e dei punti in movimento su segmenti che collegano i paesi, permette di identificare l’evoluzione e il ritmo della crisi migratoria.
+La visualizzazione attraverso timeline, la mappa e i punti in movimento su segmenti che collegano i paesi, permette di identificare l’evoluzione e il ritmo della crisi migratoria.
 Aumentando la velocità della timeline si evidenzia ancor di più al quantità incontrollata di persone costrette ad abbandonare il proprio paese.
 
 ### What if/Cosa succede se? ###
