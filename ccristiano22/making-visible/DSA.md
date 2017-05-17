@@ -36,8 +36,8 @@ Attraverso questo tool si cerca di offrire uno stumento utile agli insegnati sia
 ![alt text](https://www.aiditalia.org/Media/Page/dislessia-difficoltà-di-lettura.png)
 
 ## What is/Cosa è? ##
-Un softwere/plug-in che da la possibilità sia al dislessico che all'insegnate di comprendere al meglio i problemi dati dalla DSA.
-Per il dislessico risulterà una piattaforma un editor di testi, per l'insegnate mezzo per comprendere le difficoltà dell'dislessico.
+Un softwere/plug-in che da la possibilità ai dislessico e agli insegnate di comprendere al meglio i problemi dati dalla DSA.
+Per un dislessico risulterà una piattaforma un editor di testi, per l'insegnate un mezzo di comprensione per le difficoltà dei dislessici.
 ## How it works/come funziona? ##
 In una fase iniziale (Monitoraggio) il softwere inviterà il dislessico a scrivere e un piccolo e breve testo memorizzando gli errori durante la battitura. 
 Successivamente verrà data la possibilità all'utente dislessico di customizzare il proprio layout in modo da essere il più semplice e comprensibile alla scrittura e alla lettura (Customizzazione).
