@@ -13,7 +13,7 @@ cioè scatti fotografici con lunghissimi tempi di esposizione, e il movimento de
 
 ### What does it mean/Cosa significa? ###
 Il progetto mostra un modo alternativo per descrivere una città, non più composta da muri, tetti, viali e giardini, ma da  flussi di onde elettromagnetiche.
-Visualizzare le reti WiFI, ci mostra come ogni giorno siamo attraversati da una grandissima quantità di onde elettromagnetiche e che la rete non termina dentro le mura di casa ma si propaga ben oltre.
+Immaterials Light painting WiFi, ci mostra come ogni giorno siamo attraversati da una grandissima quantità di onde elettromagnetiche e che la rete non termina dentro le mura di casa ma si propaga ben oltre.
 
 ### What if/Cosa succede se? ###
 Potrebbe essere interessante poter disporre di un dispositivo wearable, che ci permette di monitorare live 
