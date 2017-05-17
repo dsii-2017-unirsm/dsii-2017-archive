@@ -102,7 +102,8 @@ void setup() {
   ////// dimensioni e set up di base //////
   size(640, 480);
   frameRate(20);
-  smooth(2);
+  smooth();
+  pixelDensity(2);
 
   rectMode(CORNER);
   textAlign(LEFT);
@@ -113,7 +114,7 @@ void setup() {
 }
 
 void draw() {
-  background(#778C85);
+  background(#D1D9E8);
   for (int i = 0; i != NUM; tboxes[i++].display());
   TastoStampa();
 }
@@ -326,5 +327,4 @@ void TastoStampa() {  // se premo a fermo il loop
   text("Expot PDF", 20, 410);
   
 }
-
 
