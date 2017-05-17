@@ -54,6 +54,16 @@ La volontà del progettista è quella di creare un'esperienza inedita per il pub
 
 **Percezione Aptica** </br>
 
+Il termine “aptico” deriva dal greco “haptós” e significa “tangibile, percepibile” e dal verbo “haptetai” che si può tradurre con “toccare, capire”. La parola stessa dunque, racchiude in sé, il concetto alla base della percezione aptica. Essa infatti, deriva dalla combinazione di due aspetti fondamentali: la percezione tattile degli oggetti - da cui ricaviamo informazioni come la rugosità dei materiali - e la propriocezione, ovvero la capacità di percepire il proprio corpo nello spazio, senza necessariamente il supporto della vista. Grazie al tatto, si percepiscono le variazioni di temperature, le differenze tra le texture, la consistenza di un materiale, le vibrazioni e ovviamente il dolore. Mentre per gli altri sensi è possibile individuare un organo principale di riferimento, per il tatto la cosa non è così immediata. Nonostante la maggior parte degli stimoli tattili derivino dalle mani, l’organo principale che ci permette di sentire, è la pelle. Il non vedente in particolare, attraverso quest’ultima, può percepire in modo maggiormente dettagliato, le caratteristiche del materiale e tramite la posizione della mano rispetto all’oggetto può comprenderne le dimensioni. Il riconoscimento avviene tramite una procedura di esplorazione come ad esempio muovere le dita sulla superficie dell'oggetto oppure tenendo l'oggetto in mano.
+
+Sin dagli inizi del '900 sono state elaborate svariate teorie riguardo alla percezione. Tra le più influenti troviamo le ipotesi di James Gibson, psicologo statunitense che in “The senses considered as perceptual systems (1966)” fu tra i primi ad introdurre il concetto di “sistema aptico”, ovvero la sensibilità dell’individuo di comprendere il mondo esterno, tramite il proprio corpo, acquisendo informazioni su se stessi e sull’ambiente circostante. Intorno al 2007 inoltre, si è giunti a parlare di 7 sensi, aggiungendo ai 5 sensi consueti, anche la cinestesi (inerente ai movimenti del corpo) e l’equilibrio (che offre informazioni sulla posizione del corpo e sull’accelerazione).
+
+La percezione tattile comunque, è resa possibile da recettori – propriocettivi o cinestetici – sensibili alle variazioni delle posture del corpo. I recettori propriocettivi inviano impulsi, che attraverso il midollo spinale, giungono alle aree cerebrali deputate all’elaborazione delle informazioni sulla posizione e sul movimento. La percezione aptica permette quindi di comprendere ciò che tocchiamo, la realtà. Sin dagli inizi del ‘900, sono state formulate diverse teorie a riguardo. 
+Negli ultimi decenni, sono stati condotti studi sulle Interfacce aptiche, ovvero dispositivi in grado di ricevere sensazioni tattili in risposta ad una determinata azione, basti pensare ad un display in braille per non-vedenti. Tali interfacce rappresentano un ausilio fondamentale, in quei contesti in cui la sola visione non basta. Esistono numerosi settori in cui essere sono largamente utilizzate, come la robotica chirurgica, la realtà virtuale, la modellazione solidea o l’addestramento con operazioni simulate. 
+
+
+
+
 
 
 
