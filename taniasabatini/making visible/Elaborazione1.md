@@ -68,7 +68,7 @@ Questi dispositivi sono stati concepiti sulla base dell’ipotesi che l’intera
 
 **Ispirazioni e progetti correlati** </br>
 
-[Le Chal. Haptic-feedback shoes guide blind walkers](http://blog.ted.com/video-haptic-feedback-shoes-guide-blind-walkers/)</br> 
+[Le Chal. Haptic-feedback shoes guide blind walkers - Anthony Vipin Das](http://blog.ted.com/video-haptic-feedback-shoes-guide-blind-walkers/)</br> 
 Questo interessante progetto sfrutta una tecnologia GPS e una serie di feedback per guidare utenti non vedenti in spazi aperti. Ogni scarpa è dotata di circuiti elettronici e sensori in grado di fornire all'utente un feedback sul proprio movimento. Attraverso la vibrazione, le Chal sono in grado di notare ostacoli e di comunicare così, quando ruotare, sollevare i piedi o fermarsi. Esse inoltre utilizzano un'applicazione vocale che legge mappe GPS locali e pianifica percorsi. </br>
 
 ![Imgur](http://2.bp.blogspot.com/-Q1ImqAigAMs/VW2bsJcATAI/AAAAAAAAGcU/rSscA3lg-UQ/s1600/shoe-sideview.jpg)
