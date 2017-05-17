@@ -1,3 +1,3 @@
 _(...in progress)_
 
-[](http://www.kaleidok.co)
+[kaleidok](http://www.kaleidok.co)
