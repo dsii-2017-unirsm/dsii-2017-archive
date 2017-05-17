@@ -28,7 +28,7 @@ Ad esempio creando delle texture attraverso dei segni che rappresentino la quant
 
 2. Oppure si potrebbe concentrare l’attenzione sull’utilizzo di materiali diversi, che rappresentino un colore caldo o un colore freddo?
 
-**Ispirazioni e progetti correlati** </br>
+**Progetti correlati** </br>
 
 [Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
 
@@ -65,6 +65,17 @@ Negli ultimi decenni, sono stati condotti studi su Interfacce aptiche, ovvero di
 I device aptici sono dispositivi robotici pensati per interagire con un utente umano e hanno la funzione di indurre in quest’ultimo la percezione di forze relative, ad esempio, all’interazione con un oggetto. La progettazione di tali interfacce è strettamente legata alla conoscenza della percezione umana. 
 Attraverso una combinazione di algoritmi e di componenti hardware, le interfacce aptiche generano sensazioni superficiali sull'operatore.
 Questi dispositivi sono stati concepiti sulla base dell’ipotesi che l’interazione fisica con l’ambiente circostante consista nella percezione di forze il cui valore è funzione della posizione degli arti dell’operatore usati per esplorare l’ambiente.
+
+**Ispirazioni e progetti correlati** </br>
+
+[Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
+
+![Imgur](http://i.imgur.com/ofD1JDQ.png)
+</br>
+</br>
+
+
+
 
 
 
