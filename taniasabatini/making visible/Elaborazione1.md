@@ -75,6 +75,13 @@ Questo interessante progetto sfrutta una tecnologia GPS e una serie di feedback 
 </br>
 </br>
 
+[Wearworks - Keith Kirkland](https://www.engadget.com/2017/03/03/haptic-wristband-for-the-blind/)</br> 
+Questo interessante progetto sfrutta una tecnologia GPS e una serie di feedback per guidare utenti non vedenti in spazi aperti. Ogni scarpa è dotata di circuiti elettronici e sensori in grado di fornire all'utente un feedback sul proprio movimento. Attraverso la vibrazione, le Chal sono in grado di notare ostacoli e di comunicare così, quando ruotare, sollevare i piedi o fermarsi. Esse inoltre utilizzano un'applicazione vocale che legge mappe GPS locali e pianifica percorsi. </br>
+
+![Imgur](http://imgur.com/ZvsZ6Uj)
+</br>
+</br>
+
 
 
 
