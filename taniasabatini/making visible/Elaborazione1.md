@@ -83,6 +83,10 @@ Wearworks si collega ad unp smartphone, attraverso cui si accede alle mappe dell
 </br>
 </br>
 
+**Riflessioni sul progetto** </br>
+
+
+
 
 
 
