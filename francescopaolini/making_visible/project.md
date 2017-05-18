@@ -56,17 +56,17 @@ Il cuore del progetto è infatti un algoritmo di _Sentiment Analysis_ — [Synes
 
 ![pulse](http://i.imgur.com/S5hmZ5L.jpg)  
 
-— [Sonar](http://www.dwbowen.com/sonar-drawing-device)  
+— [Sonar](http://www.dwbowen.com/sonar-drawing-device), progetto del 2002, utilizza un rilevatore per definire la distanza, in uno spazio, tra le persone e gli oggetti al suo interno. Il dispositivo, in base alle informazioni acquisite dal sensore di distanza, tracciare con un pastello a cera nero una circonferenza più o bene lineare, a seconda degli input ricevuti. Questo rendere visibile l'attività che si svolge all'interno dello spazio.  
 
 ![sonar](http://i.imgur.com/G5qECVF.jpg)  
 
-— [Short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/)  
+— [Short cuts](http://www.creativeapplications.net/events/short-cuts-at-centrepasquart/) _“Entrambe le generazioni esaminano l'interdipendenza temporale e spaziale, nonché il rapporto tra informazione e realtà. La vita meccanica e digitale interno ad alcuni lavori produce del "ludico" e allo stesso tempo calcolato combinazioni di griglie e forme. Indipendentemente dal periodo in cui è stata fatta, la ripetizione, l'ordine, la combinazione e la variazione. Sulla base di queste caratteristiche un processo paragonabile ad un rinnovamento dell'arte concreta attraversa le opere contemporanee.”_ (Dalla dichiarazione curatoriale)
 
 ![Short cuts](http://i.imgur.com/s94GFXR.jpg)
 
-— [Takahiro Yamaguchi](https://vimeo.com/yang02)  
+— [Takahiro Yamaguchi](https://vimeo.com/yang02) e Kanno, tramite questo progetto, esplorano la relazione tra macchina e arte. È stato creato un dispositivo semovente su un carrello motorizzato, che spruzza line—work su un tratto di parete con un doppio pendolo. Estrapolando il dinamismo dei graffiti, il robot sfrutta i gesti caotiche del pendolo oscillante per creare colpi di vernice. La costruzione è costituita da un unico braccio snodato attaccato al fulcro del pendolo. Come il robot si sposta da un lato all'altro, il movimento oscillante del braccio viene amplificato, collegato poi ad un rapido rilascio della vernice dalla bomboletta spray.
 
-![Takahiro Yamaguchi](http://i.imgur.com/SgPbZwC.jpg)  
+![Takahiro Yamaguchi](http://i.imgur.com/R3x9gUV.jpg)  
 
 ### concept 
 _(...in progress)_
