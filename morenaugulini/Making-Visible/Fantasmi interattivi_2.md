@@ -107,7 +107,35 @@ Senza bisogno di loghi o icone si riesce comunque a capire cosa Ulo ha in mente 
 (es: quando la batteria è bassa Ulo è stanco)     
 Le espressioni oculari sono possibili grazie a schermi LCD rotondi.      
 
+****
+## CIMITERI INTERATTIVI     
 
+### *Cimitero Information System* [+](https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%9E%D7%99%D7%93%D7%A2_%D7%9C%D7%91%D7%99%D7%AA_%D7%A7%D7%91%D7%A8%D7%95%D7%AA)  
+![gdocP5](http://i.imgur.com/I2LdRKH.jpg)<br>
+Cimitero con sistema d'informazione progettato per permettere all'utente di avere maggiori informazioni 
+sul defunto e scoprire dove sono collocate le tombe nel cimitero.
+
+
+### *The September 11th Memorial* [+](http://nylcblog.blogspot.it/2011/09/september-11-memorial.html) 
+![gdocP5](http://i.imgur.com/sDdtUUQ.jpg)<br>
+
+Memoriale per i morti dell'undici Settembre.
+All'interno dello stabile ritratti fotografici delle 3.000 vittime formano un "Wall of Faces" 
+destinato a comunicare la scala delle perdite umane. Nelle vicinanze, tavoli interattivi 
+permetteranno ai visitatori di scoprire ulteriori informazioni su ogni persona, comprese 
+le fotografie supplementari, ricordi di famiglia, gli amici, i manufatti e la posizione dei singoli 
+nomi sulla piazza Memorial a New York.
+
+### *Prospect Hill Cemetery* [+](http://www.prweb.com/releases/2012/12/prweb10224088.htm) 
+![gdocP5](http://i.imgur.com/7TaMstO.jpg)<br>
+
+Questo "cimitero interattivo" è dedicato a tutti i soldati che hanno perso la vita in Iraq nel 2010.
+Grazie al suo sistema basterà il tocco di un dito sullo schermo, 
+per permettere ai visitatori di cercare i soldati per nome, stato, ramo di servizio, e la data della morte. 
+Un ulteriore tocco sui risultati di ricerca produrrà più foto e informazioni su ogni soldato.
+
+***
+    
 ## *Quesiti | Ipotesi*  
 
 Al giorno d'oggi molti oggetti sono collegati fra loro, ma quasi nessuno di loro è veramente collegato a noi.
@@ -129,3 +157,18 @@ dal punto di vista intellettivo e fisico.
 Un oggetto con il quale a distanza sia possibile interagire tramite il robot attraverso espressioni 
 visive o gesti che simulino quelli del corpo umano per far si che grazie al dispositivo 
 la distanza tra due utenti possa sembrare più corta.
+
+***
+
+## *AVANZAMENTO Quesiti | Ipotesi* 
+
+- Realizzazione di un TWITTER BOT 
+- Possibilità di creazione di un BOT personale che individui automaticamenticamente i nostri gusti e retweetti fotografie che ci rispecchiano, lasciando all'interno del web un ricordo di noi attraverso i nostri gusti.
+
+
+*riferimenti*  [+](http://https://twitter.com/archillect) 
+
+
+
+
+
