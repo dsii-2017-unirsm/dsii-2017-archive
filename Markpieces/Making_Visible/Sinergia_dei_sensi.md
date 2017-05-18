@@ -53,3 +53,36 @@ https://www.youtube.com/watch?v=2QzAl4HIXY8
 ![Imgur](http://i.imgur.com/oWigzd6.jpg)
 
 http://zimoun.net/
+
+
+#### SVILUPPO
+
+Considerazione del concerto/opera strumentale, in questo caso posso ipotizzare di interagire con la parte posteriore del palco con una retro-proiezione. Considerando che tutti i musicisti sono posizionati in una postazione fissa, poter interagire con la proiezione alle spalle visualizzando per ognuno di essi un “flusso di movimento del suono” legato alla loro posizione nel palco, tipologia di strumento utilizzato e frequenza sonora. La visualizzazione oltre ad essere collegata visivamente alla parte posteriore del palco tramite la retro-proiezione, è diversamente percepibile (con il senso del tatto) durante l’opera, attraverso la vibrazione di un “cannocchiale” collegato alla frequenza emessa dal suono catturato dai vari microfoni sul palco (come per la parte visuale). Creando una sinestesia tra i due sensi diversamente utilizzati “dall’ascoltare suono”.
+
+![Imgur](http://i.imgur.com/U6IZK5b.jpg)
+
+L’esperienza è composta principalmente da due elementi chiave, la visualizzazione (suono-visivo) e la percezione tattile (vibrazione-suono).
+
+**Visualizzazione:**
+
+Ispirazioni
+
+Video “Messa di voce” 
+
+![Imgur](http://i.imgur.com/7rgNptX.png)
+
+https://www.youtube.com/watch?v=1uSNcmb1xjU
+
+Video “Fantasia 2000” - minuto 53
+
+![Imgur](http://i.imgur.com/Zvwfjcn.png)
+
+https://www.youtube.com/watch?v=eAKpHFDYUc8&t=3294s
+
+work in progress…
+
+**Percezione tattile:**
+
+Vibrazione dell’elemento (binocolo) a seconda delle frequenze catturate dai microfoni.
+
+Vibrazione con intensità diverse a seconda della frequenza in punti specifici dell’elemento posizionati come le “postazioni” dei musicisti durante il concerto.
