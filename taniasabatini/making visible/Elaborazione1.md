@@ -85,6 +85,8 @@ Wearworks si collega ad unp smartphone, attraverso cui si accede alle mappe dell
 
 **Riflessioni sul progetto** </br>
 
+Una delle volontà principali del progetto, è stata sin dall’inizio quella di coinvolgere contemporaneamente più sensi, introducendo all’interno dell’esperienza, elementi che potessero essere letti, decodificati ed analizzati, anche dall’udito, dal tatto e potenzialmente anche dall’olfatto. Attraverso ragionamenti accurati si è iniziato però ad escludere uno dopo l’altro, gli stimoli che avrebbero potuto mediare in modo troppo preponderante la fruizione del quadro. Partendo dall’udito ad esempio, inizialmente si era valutata la possibilità di accompagnare l’esperienza tattile, attraverso una musica che corrispondesse al periodo storico del quadro, preso in esame. Si è scelto poi di abbandonare questa strada (almeno nella prima fase della fruizione del dipinto) per permettere all’utente di godere di un’esperienza totalmente personale. La musica, può suscitare emozioni inaspettate e soprattutto diverse in ognuno di noi. Per questo scegliere un brano musicale da “annettere” al quadro, avrebbe potuto mediare l’esperienza dell’utente. Stesso ragionamento vale per l’olfatto: inserire dei profumi all’interno del dipinto, avrebbe potuto influenzare l’esperienza. Come la musica del resto, anche le fragranze possono richiamare alla mente, emozioni e sensazioni differenti, facendo leva soprattutto sulle esperienze pregresse dell’utente.   
+
 
 
 
