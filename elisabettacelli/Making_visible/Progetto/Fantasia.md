@@ -24,6 +24,16 @@ Una banca dati di disegni dei bambini.
 
 ## Reference
 
+### Cubist Mirror
+
+![gdocP5](http://i.imgur.com/0hAC4f6.jpg)  
+
+Cubist Mirror è stata la prima istallazione che esegue un'applicazione openFrameworks che applica in continuo una variante in tempo reale della tecnica di trasferimento dello stile ad una fotocamera.
+Attraveso uno schermo LCD ed una fotacamera, l'utante poteva vedere la sua immagine modificata in tempo reale sttraverso lo stile di un quadro cubista.
+Questa istallazione è stata realizzata da Gene Kogan nel Maggio del 2016 presso The School for Poetic Computation a New York.
+
+[Gene Kogan - Cubist Mirror](https://github.com/genekogan/CubistMirror) 
+
 ### Prisma
 
 ![gdocP5](http://i.imgur.com/Oy3XFIr.jpg)  
@@ -60,3 +70,70 @@ Un'installazione interattiva che scambia La faccia del designe con quella degli 
 
 Il progetto, in mostra al negozio ottico Playn, è composta da una parete cinetica di 12 singoli specchi rettangolari e una telecamera che utilizza un algoritmo di face-tracking per rilevare le facce dei passanti. Quando una persona interagisce con l'installazione, la parete di specchi segue e riproduce la direzione di movimento della loro faccia.   
 [Inition](https://www.inition.co.uk/interactive-installations-inition-12-mirrors/)
+
+## Progetto
+
+Attraverso la raccolta dati di Algorithmia e l'uso del Deep Filter, che è un algoritmo che utilizza Deep Learning per creare filtri fotografici, ho iniziato a modificare delle mie immagini con i filtri predefiniti, ottendo dei risultati interessanti.
+
+![gdocP5](https://media.giphy.com/media/DqoElGFysmWxa/giphy.gif)   
+![gdocP5](https://media.giphy.com/media/nVGjUZgyhfdNm/giphy.gif)
+
+[Deep Filter](https://algorithmia.com/algorithms/deeplearning/DeepFilter)   
+[Reti neurali](https://harishnarayanan.org/writing/artistic-style-transfer/)
+
+Su Processing sto iniziado a capire come catturare il video della webcam per renderlo uno specchio.
+
+```
+
+import processing.video.*;
+
+Capture cam;
+
+void setup() {
+  size(640, 480);
+
+  String[] cameras = Capture.list();
+
+  if (cameras == null) {
+    println("Failed to retrieve the list of available cameras, will try the default...");
+    cam = new Capture(this, 640, 480);
+  } if (cameras.length == 0) {
+    println("There are no cameras available for capture.");
+    exit();
+  } else {
+    println("Available cameras:");
+    printArray(cameras);
+
+    // Capire se la camera funziona e stampare il risulatato nella console
+    
+    cam = new Capture(this, cameras[0]);
+    
+    
+    // inizio a prendere quello che vede la camera
+    cam.start();
+  }
+}
+
+void draw() {
+  if (cam.available() == true) {
+    cam.read();
+  }
+  // se la camera funziona allora esegui :
+  
+  
+ pushMatrix();
+translate(cam.width,0);
+scale(-1,1); 
+// mi serve per specchiare l'immagine
+
+image(cam,0,0);
+//riproduci la cam
+
+popMatrix();
+
+
+
+}
+```
+
+
