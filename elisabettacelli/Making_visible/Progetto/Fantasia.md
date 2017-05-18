@@ -81,7 +81,7 @@ Attraverso la raccolta dati di Algorithmia e l'uso del Deep Filter, che è un al
 [Deep Filter](https://algorithmia.com/algorithms/deeplearning/DeepFilter)   
 [Reti neurali](https://harishnarayanan.org/writing/artistic-style-transfer/)
 
-Su Processing sto iniziado a capire come caturare il video della webcam per renderlo uno specchio.
+Su Processing sto iniziado a capire come catturare il video della webcam per renderlo uno specchio.
 
 ```
 
