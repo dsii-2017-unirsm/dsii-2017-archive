@@ -2,6 +2,7 @@ _(...in progress)_
 
 [Eclipse](https://www.eclipse.org/) è un progetto originariamente creato da IBM nel novembre 2001. È una comunità per gli individui e le organizzazioni che desiderano collaborare su software open source. Eclipse è un editor multi-linguaggio e multipiattaforma. Esso viene utilizzato comunemente per la compilazione e l'esecuzione dei programmi Java, ha numerosi vantaggi nella relazione del programma: riconosce dove sono gli errori, individua le variabili non utilizzate, ha delle funzioni di debug, ecc... [download — eclipse](https://www.eclipse.org/downloads/)  
 
+Integrazione con le librerie di Processing. (prova1)    
 [Processing — tutorial](https://processing.org/tutorials/eclipse/)
 
 ```java
