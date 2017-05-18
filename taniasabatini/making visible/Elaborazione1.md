@@ -61,10 +61,9 @@ Sin dagli inizi del '900 sono state elaborate svariate teorie riguardo alla perc
 
 La percezione tattile comunque, è resa possibile da recettori – propriocettivi o cinestetici – sensibili alle variazioni delle posture del corpo. I recettori propriocettivi inviano impulsi, che attraverso il midollo spinale, giungono alle aree cerebrali deputate all’elaborazione delle informazioni sulla posizione e sul movimento. La percezione aptica permette quindi di comprendere ciò che tocchiamo, la realtà. 
 
-Negli ultimi decenni, sono stati condotti studi su Interfacce aptiche, ovvero dispositivi in grado di ricevere sensazioni tattili in risposta ad una determinata azione, basti pensare ad un display in braille per non-vedenti. Tali interfacce rappresentano un ausilio fondamentale, in quei contesti in cui la sola visione non basta. Esistono numerosi settori in cui essere sono largamente utilizzate, come la robotica chirurgica, la realtà virtuale, la modellazione solidea o l’addestramento con operazioni simulate. 
-I device aptici sono dispositivi robotici pensati per interagire con un utente umano e hanno la funzione di indurre in quest’ultimo la percezione di forze relative, ad esempio, all’interazione con un oggetto. La progettazione di tali interfacce è strettamente legata alla conoscenza della percezione umana. 
-Attraverso una combinazione di algoritmi e di componenti hardware, le interfacce aptiche generano sensazioni superficiali sull'operatore.
-Questi dispositivi sono stati concepiti sulla base dell’ipotesi che l’interazione fisica con l’ambiente circostante consista nella percezione di forze il cui valore è funzione della posizione degli arti dell’operatore usati per esplorare l’ambiente.
+Negli ultimi decenni, sono stati condotti studi su Interfacce aptiche, ovvero dispositivi in grado di trasmettere sensazioni tattili in risposta ad una determinata azione, basti pensare ad un display in braille per non-vedenti. Tali interfacce rappresentano un ausilio fondamentale, in quei contesti in cui la sola visione non basta. Esistono numerosi settori in cui essere sono largamente utilizzate, come la robotica chirurgica, la realtà virtuale, la modellazione solida o l’addestramento con operazioni simulate. 
+I device aptici sono dispositivi robotici pensati per interagire con un utente umano e hanno la funzione di indurre in quest’ultimo la percezione di forze relative, ad esempio, all’interazione con un oggetto. La progettazione di tali interfacce è strettamente legata alla conoscenza della percezione umana. Attraverso una combinazione di algoritmi e di componenti hardware, le interfacce aptiche generano sensazioni superficiali sull'operatore.
+
 
 **Ispirazioni e progetti correlati** </br>
 
