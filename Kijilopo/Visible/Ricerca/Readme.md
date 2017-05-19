@@ -48,6 +48,9 @@ http://www.francois-quevillon.com/html/en/node/332
 
 ## Analisi
 
+Metre si trovava in  Iceland l'artista era in attesa dell'eruzione di un vulcano per poter osservare da vicino il fenomeno. Quindi monitorava costantemente le stazione meteo nel pressi del vulcano e ha notato che il variare dei dati, spesso interpretati come catastrofici dei media tradiziani, non corrispondevano ad un visibile variare della zona. Per esempio un picco di C02 rilasciato dal vulcano era si rilevato dagli strumenti, ma a occhio nudo non era visibile alcuna differenza.
+L'artista quindi ha voluta accostare dei video del luogo in una parete, mentre nella parete accanto un monitor permette di visualizzare i dati metereolocigi del luogo nel video.
+
 
 # Constructed Land
 
