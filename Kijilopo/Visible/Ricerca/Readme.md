@@ -88,4 +88,34 @@ Un insetto viene posto in una teca con una telecamera ingrado di tracciare l suo
 
 ![Foto_3](http://i.imgur.com/iaBtbeA.jpg)
 
+\
+
+# Indirect Flights – Sprawling landscape of layered images
+
+http://indirect.flights/
+
+![Foto_3](http://i.imgur.com/NejFe44.jpg)
+
+## Analisi
+
+Questo artista ha voluto integrare i paesaggi di goolge maps con altre materie, forme e oggetti del monondo.
+
+
+\
+
+# Street Views Patchwork
+
+![Foto_3](http://i.imgur.com/vBQwDKL.jpg)
+
+http://www.julienlevesque.net/street-views-patchwork/
+http://www.julienlevesque.net/google/v3/view1.html
+
+## Analisi
+
+Questo progetto ha lo scopo di unire e collegare nella forma e nel contenuto tre diverse viste provenienti da Google Street view.
+
+
+
+
+
 
