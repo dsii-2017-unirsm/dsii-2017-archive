@@ -48,6 +48,9 @@ http://www.francois-quevillon.com/html/en/node/332
 
 ## Analisi
 
+Metre si trovava in  Iceland l'artista era in attesa dell'eruzione di un vulcano per poter osservare da vicino il fenomeno. Quindi monitorava costantemente le stazione meteo nel pressi del vulcano e ha notato che il variare dei dati, spesso interpretati come catastrofici dei media tradiziani, non corrispondevano ad un visibile variare della zona. Per esempio un picco di C02 rilasciato dal vulcano era si rilevato dagli strumenti, ma a occhio nudo non era visibile alcuna differenza.
+L'artista quindi ha voluta accostare dei video del luogo in una parete, mentre nella parete accanto un monitor permette di visualizzare i dati metereolocigi del luogo nel video.
+
 
 # Constructed Land
 
@@ -84,5 +87,35 @@ https://vimeo.com/12645870
 Un insetto viene posto in una teca con una telecamera ingrado di tracciare l suo movimento nello spazio, questo movimento poi viene disegnato e tracciato in da un computer che produce stampe con il percorso dell'insetto fatto all'interno della teca. Gli artisti hanno messo nella teca degli ostacoli, riconoscibili come simboli e numeri. Il percorso degno inseti, prevalentemente sui bordi, va a tracciare i contorni di questi simbili posti nella teca.
 
 ![Foto_3](http://i.imgur.com/iaBtbeA.jpg)
+
+\
+
+# Indirect Flights – Sprawling landscape of layered images
+
+http://indirect.flights/
+
+![Foto_3](http://i.imgur.com/NejFe44.jpg)
+
+## Analisi
+
+Questo artista ha voluto integrare i paesaggi di goolge maps con altre materie, forme e oggetti del monondo.
+
+
+\
+
+# Street Views Patchwork
+
+![Foto_3](http://i.imgur.com/vBQwDKL.jpg)
+
+http://www.julienlevesque.net/street-views-patchwork/
+http://www.julienlevesque.net/google/v3/view1.html
+
+## Analisi
+
+Questo progetto ha lo scopo di unire e collegare nella forma e nel contenuto tre diverse viste provenienti da Google Street view.
+
+
+
+
 
 
