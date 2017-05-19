@@ -1,6 +1,6 @@
 ## Art for blind people ## 
 
-**Concept**
+**Introduzione**
 
 La riflessione intorno al progetto nasce dalla volontà di raccontare delle storie capaci di creare un momento di partecipazione e di arricchimento per gli utenti coinvolti. Si è ragionato su quali tipologie di narrazioni potessero quindi prestarsi all’intento e parallelamente, a chi rivolgere il progetto. La scelta è ricaduta sul pubblico dei non-vedenti, con la volontà di offrire loro, un nuovo modo di fruire l’arte visiva, più precisamente i dipinti. 
 Mentre una statua, può essere “vista” e compresa tramite il tatto, un dipinto dispone di una serie di caratteristiche che i non-vedenti non sono in grado di cogliere appieno, basti pensare alle forme complesse, alle pennellate, ma soprattutto al colore. Se pensiamo ad un contesto come quello museale, in cui solitamente non vi è possibilità di toccare le opere, un utente cieco trovandosi privato del proprio “strumento” principale di percezione, non potrà fruire l’opera in maniera unica e personale, ma avrà sempre bisogno di un intermediario, che racconti ciò che vede – o meglio, ciò che riesce a cogliere - finendo per limitare ed influenzare l’esperienza del non-vedente. L’idea quindi è quella di fornire alla tipologia di utenti sopracitata, gli strumenti per poter percepire e “sentire” l’arte in modo inedito e libero da ostacoli: rendere visibile l’arte attraverso una traduzione dei dipinti in un “dizionario” comprensibile al non vedente, utilizzando forme tridimensionali, tratti e texture differenti, senza escludere il coinvolgimento degli altri sensi, come l’udito e l’olfatto. 
@@ -28,7 +28,7 @@ Ad esempio creando delle texture attraverso dei segni che rappresentino la quant
 
 2. Oppure si potrebbe concentrare l’attenzione sull’utilizzo di materiali diversi, che rappresentino un colore caldo o un colore freddo?
 
-**Ispirazioni e progetti correlati** </br>
+**Progetti correlati** </br>
 
 [Graphic for blinds: multisensory experiences - Silvia Borri](https://www.behance.net/gallery/13328463/Graphic-for-blinds-multisensory-experiences)</br> Il progetto si concetra sul rendere visibili principalmente i colori. Attingendo alla Storia della comunicazione visiva e all'arte, sono stati selelzionati alcuni elaborati e tradotti in un linguaggio vicino a quello dei non-vedenti. Il progetto riflette inoltre sulle forme e sull'utilizzo di diversi materiali per raccontare le caratteristiche emozionali dei colori.    </br>
 
@@ -51,6 +51,55 @@ Attraverso un'analisi accurata del dipinto, la progettista risolve il problema d
 La volontà del progettista è quella di creare un'esperienza inedita per il pubblico di riferimento. Anche in questo caso si è ragionato sulla tridimensionalità, rendendo toccabili le opere d'arte. 
 
 ![Imgur](http://i.imgur.com/KpbTxSv.png)
+</br>
+
+**Percezione Aptica** </br>
+
+Il termine “aptico” deriva dal greco “haptós” e significa “tangibile, percepibile” e dal verbo “haptetai” che si può tradurre con “toccare, capire”. La parola stessa dunque, racchiude in sé, il concetto alla base della percezione aptica. Essa infatti, deriva dalla combinazione di due aspetti fondamentali: la percezione tattile degli oggetti - da cui ricaviamo informazioni come la rugosità dei materiali - e la propriocezione, ovvero la capacità di percepire il proprio corpo nello spazio, senza necessariamente il supporto della vista. Grazie al tatto, si percepiscono le variazioni di temperature, le differenze tra le texture, la consistenza di un materiale, le vibrazioni e ovviamente il dolore. Mentre per gli altri sensi è possibile individuare un organo principale di riferimento, per il tatto la cosa non è così immediata. Nonostante la maggior parte degli stimoli tattili derivino dalle mani, l’organo principale che ci permette di sentire, è la pelle. Il non vedente in particolare, attraverso quest’ultima, può percepire in modo maggiormente dettagliato, le caratteristiche del materiale e tramite la posizione della mano rispetto all’oggetto può comprenderne le dimensioni. Il riconoscimento avviene tramite una procedura di esplorazione come ad esempio muovere le dita sulla superficie dell'oggetto oppure tenendo l'oggetto in mano.
+
+Sin dagli inizi del '900 sono state elaborate svariate teorie riguardo alla percezione. Tra le più influenti troviamo le ipotesi di James Gibson, psicologo statunitense che in “The senses considered as perceptual systems (1966)” fu tra i primi ad introdurre il concetto di “sistema aptico”, ovvero la sensibilità dell’individuo di comprendere il mondo esterno, tramite il proprio corpo, acquisendo informazioni su se stessi e sull’ambiente circostante. Intorno al 2007 inoltre, si è giunti a parlare di 7 sensi, aggiungendo ai 5 sensi consueti, anche la cinestesi (inerente ai movimenti del corpo) e l’equilibrio (che offre informazioni sulla posizione del corpo e sull’accelerazione).
+
+La percezione tattile comunque, è resa possibile da recettori – propriocettivi o cinestetici – sensibili alle variazioni delle posture del corpo. I recettori propriocettivi inviano impulsi, che attraverso il midollo spinale, giungono alle aree cerebrali deputate all’elaborazione delle informazioni sulla posizione e sul movimento. La percezione aptica permette quindi di comprendere ciò che tocchiamo, la realtà. 
+
+Negli ultimi decenni, sono stati condotti studi su Interfacce aptiche, ovvero dispositivi in grado di trasmettere sensazioni tattili in risposta ad una determinata azione, basti pensare ad un display in braille per non-vedenti. Tali interfacce rappresentano un ausilio fondamentale, in quei contesti in cui la sola visione non basta. Esistono numerosi settori in cui essere sono largamente utilizzate, come la robotica chirurgica, la realtà virtuale, la modellazione solida o l’addestramento con operazioni simulate. 
+I device aptici sono dispositivi robotici pensati per interagire con un utente umano e hanno la funzione di indurre in quest’ultimo la percezione di forze relative, ad esempio, all’interazione con un oggetto. La progettazione di tali interfacce è strettamente legata alla conoscenza della percezione umana. Attraverso una combinazione di algoritmi e di componenti hardware, le interfacce aptiche generano sensazioni superficiali sull'operatore.
+
+
+**Ispirazioni e progetti correlati** </br>
+
+[Le Chal. Haptic-feedback shoes guide blind walkers - Anthony Vipin Das](http://blog.ted.com/video-haptic-feedback-shoes-guide-blind-walkers/)</br> 
+Questo interessante progetto sfrutta una tecnologia GPS e una serie di feedback per guidare utenti non vedenti in spazi aperti. Ogni scarpa è dotata di circuiti elettronici e sensori in grado di fornire all'utente un feedback sul proprio movimento. Attraverso la vibrazione, le Chal sono in grado di notare ostacoli e di comunicare così, quando ruotare, sollevare i piedi o fermarsi. Esse inoltre utilizzano un'applicazione vocale che legge mappe GPS locali e pianifica percorsi. </br>
+
+![Imgur](http://2.bp.blogspot.com/-Q1ImqAigAMs/VW2bsJcATAI/AAAAAAAAGcU/rSscA3lg-UQ/s1600/shoe-sideview.jpg)
+</br>
+</br>
+
+[Wearworks - Keith Kirkland](https://www.engadget.com/2017/03/03/haptic-wristband-for-the-blind/)</br> 
+Wearworks si collega ad unp smartphone, attraverso cui si accede alle mappe della città. Il device inoltre sfrutta la vibrazione come feedback per guidare l'utente. Una volta pronunciata la destinazione, Wearworks crea un "muro virtuale": attraverso la vibrazione segnala quando la strada è sbagliata. 
+ </br>
+
+![Imgur](http://i.imgur.com/ZvsZ6Uj.jpg)
+</br>
+</br>
+
+**Riflessioni sul progetto** </br>
+
+Una delle volontà principali del progetto, è stata sin dall’inizio quella di coinvolgere contemporaneamente più sensi, introducendo all’interno dell’esperienza, elementi che potessero essere letti, decodificati ed analizzati, anche dall’udito, dal tatto e potenzialmente anche dall’olfatto. Attraverso ragionamenti accurati si è iniziato però ad escludere uno dopo l’altro, gli stimoli che avrebbero potuto mediare in modo troppo preponderante la fruizione del quadro. Partendo dall’udito ad esempio, inizialmente si era valutata la possibilità di accompagnare l’esperienza tattile, attraverso una musica che corrispondesse al periodo storico del quadro, preso in esame. Si è scelto poi di abbandonare questa strada (almeno nella prima fase della fruizione del dipinto) per permettere all’utente di godere di un’esperienza totalmente personale. La musica, può suscitare emozioni inaspettate e soprattutto diverse in ognuno di noi. Per questo scegliere un brano musicale da “annettere” al quadro, avrebbe potuto mediare l’esperienza dell’utente. Stesso ragionamento vale per l’olfatto: inserire dei profumi all’interno del dipinto, avrebbe potuto influenzare l’esperienza. Come la musica del resto, anche le fragranze possono richiamare alla mente, emozioni e sensazioni differenti, facendo leva soprattutto sulle esperienze pregresse dell’utente.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
