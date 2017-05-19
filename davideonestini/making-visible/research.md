@@ -70,3 +70,7 @@ Using parts of Version 2014.04.14 of the CIRI Dataset, I completed my own one, s
 [Stats of the Union](https://fathom.info/indicators/) (Fathom Information Design, 2011)
 
 ![Stats of the Union](https://fathom.info/uploads/2017/01/sotu-sg6.jpg)
+
+[FIFA Development Globe](https://vimeo.com/52923701) (Truth & Beauty, 2013)
+
+![FIFA Development Globe](https://goo.gl/01Gjm2)
