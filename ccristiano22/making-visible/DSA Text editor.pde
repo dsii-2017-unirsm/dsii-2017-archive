@@ -5,6 +5,7 @@ ControlP5 cp5;
 
 boolean record;
 int spaziatura=10;
+int fontSize=20;
 
 int percentuale = 50;
 int percentuale2 = 50;
@@ -119,7 +120,23 @@ void setup() {
     .setBackgroundColor(color(255, 80))
     .setBackgroundHeight(225)
     .setLabel("Lay Out Testo")
-    ;  
+    ;
+    cp5.addSlider("spaziatura")
+    .setPosition(20, 15)
+    .setSize(180, 9)
+    .setGroup(g2)
+    .setNumberOfTickMarks(20)
+    .setRange(0, 100)
+    .setLabel("spaziatura")
+    ;
+     cp5.addSlider("fontSize")
+    .setPosition(20, 40)
+    .setSize(180, 9)
+    .setGroup(g2)
+    .setNumberOfTickMarks(20)
+    .setRange(8, 50)
+    .setLabel("Font size")
+    ;
     
   cp5.addButton("bang")
     .setPosition(1350, 20)
@@ -258,7 +275,7 @@ void instantiateBoxes() {                                     // il testo DSA no
     0300 << 030, color(-1, 040), // textC, baseC
     color(-1, 0100), color(#FF00FF, 0200), 27); // bordC, slctC
 
-  tboxes[1] = new TextBox(                                   // qui scrivo il teso OK
+  tboxes[1] = new TextBox(                                    // qui scrivo il teso OK
     width>>3, height/2 + height/8, // x, y
     width - width/4, height - height/2 - height/4, // w, h
     600, // lim
@@ -277,7 +294,8 @@ class TextBox { // demands rectMode(CORNER)
 
 
   boolean DSA = false;
-  String txtDSA = " ";
+  String txtDSA = "  ";
+  
 
   TextBox(int xx, int yy, int ww, int hh, int li, 
     color te, color ba, color bo, color se, int s_) {
@@ -394,6 +412,7 @@ class TextBox { // demands rectMode(CORNER)
       }
 
       text(str(lettere[i]), 20+i*spaziatura, 50, w, h);
+      textSize(fontSize);
     }
   }
 
