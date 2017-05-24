@@ -118,3 +118,10 @@ void draw() {
 ## Video Tutorial 
 
 https://www.youtube.com/watch?v=WH31daSj4nc
+
+
+## public webcam
+
+https://github.com/sightmachine/SimpleCV/wiki/List-of-IP-Camera-Stream-URLs
+http://en.ipcams.ch/WebCam.aspx?nr=115&typ=real
+http://www.opentopia.com/webcam/16156?viewmode=livevideo
