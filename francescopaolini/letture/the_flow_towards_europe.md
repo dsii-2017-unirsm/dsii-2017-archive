@@ -1,7 +1,7 @@
 ## The flow towards Europe
 anno — 2015  
 design — [Lucify](https://www.lucify.com)  
-project — [the-flow-towards-europe](https://www.lucify.com/the-flow-towards-europe/)  
+project — [The flow towards europe](https://www.lucify.com/the-flow-towards-europe/)  
 
 articoli — [lucify](https://www.lucify.com/the-flow-towards-europe/), [lucify](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50), [github](https://github.com/lucified/lucify-refugees)  
 
