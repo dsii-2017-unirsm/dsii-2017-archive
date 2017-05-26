@@ -1,11 +1,11 @@
 ## Immaterials: light painting wifi
-anno — 2012<br>
+anno — 2012  
 luogo — Grunerlokka, Oslo (Norvegia)  
 design — [Timo Arnall](http://www.elasticspace.com/) and [Voyoslo Studio](http://voyoslo.com/)  
 
 video — [vimeo](https://vimeo.com/20412632)  
 articoli — [voyoslo](http://voyoslo.com/projects/immaterials-wifi-light-painting/), [designboom](http://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/), [wiley](http://onlinelibrary.wiley.com/store/10.1111/j.1740-9713.2013.00683.x/asset/j.1740-9713.2013.00683.x.pdf;jsessionid=59514BD3BCDAF3B661EE990359E0F7AE.f02t03?v=1&t=j0ze4a20&s=92fd4a1950509d60c8c44615119e6f814018c4f3), [yourban](http://www.yourban.no/2011/02/22/immaterials-light-painting-wifi/), [yourban](http://www.yourban.no/2011/03/07/making-immaterials-light-painting-wifi/)  
-progetti simili — [The Architecture of Radio](http://www.creativeapplications.net/js/three-js/the-architecture-of-radio-visualizing-the-invisible-architecture-of-networks/)  
+progetti simili — [The Architecture of Radio](http://www.creativeapplications.net/js/three-js/the-architecture-of-radio-visualizing-the-invisible-architecture-of-networks/), [Sonar](http://www.dwbowen.com/sonar-drawing-device), [Amygdala](http://fuseworks.it/it/project/amygdala-it/)  
 
 ![light painting wifi](http://i.imgur.com/v0kpJjq.jpg)
 
