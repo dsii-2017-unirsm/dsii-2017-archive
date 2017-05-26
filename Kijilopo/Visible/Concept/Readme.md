@@ -16,3 +16,10 @@ Osservando i contenuti delle webcam sotto analisi possiamo notare come non siano
 
 Queste considerazioni mi hanno costretto ad abbandonare la ricerca di un progetto vincolato al contenuto stesso della ripresa, ma di allargare la visone su un panorama più complessivo dove ogni singola webcam mi genera solo uno a più dati in senso lato. Osservando i dati sensibili per il mio progetto ho dedotto che il “luminosità” e il “movimento” estraibili dalla ripresa potevano essere  i  dati di maggiore interesse provenienti dalle webcam. 
 Se in Italia, per esempio, avessimo l’accesso a diverse webcam, ricavando da esse una sommatoria di movimento e di luminosità potremmo definire la vita del paese sotto esame.
+
+### I dati
+I dati provenienti dal sito precedentemente indicato sono protetti da diritti e quindi è impossiblie prendere i feed delle webcam.
+Altri siti utili possone essere:
+http://www.opentopia.com/webcam/16156?viewmode=livevideo
+http://www.webcamxp.com/publicipcams.aspx
+http://en.ipcams.ch/WebCam.aspx?nr=856
