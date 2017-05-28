@@ -2,24 +2,24 @@
 // 10 print porting to P5js
 // Made for DSII2017 lab @UniRSM
 
-var x = 0;
-var y = 0;
-var dimensioni = [ 20, 40, 80, 100 ];
-var D;
-var x1 = 10;
-var y1 = 10;
-var x3 = 10;
-var y3 = 10;
-var x4 = 10;
-var y4 = 10;
+float x = 0;
+float y = 0;
+int[] dimensioni = { 20, 40, 80, 100};
+int D;
+float x1 = 10;
+float y1 = 10;
+float x3 = 10;
+float y3 = 10;
+float x4 = 10;
+float y4 = 10;
 
-function setup() {
-  createCanvas(1310, 700);
+void setup() {
+  size(1310, 700);
   background(255);
   frameRate(60);
 
-  var i = int(random(4));
-D = dimensioni[i];
+float i = int(random(4));
+D = dimensioni[int(i)];
 
   y1 = (height-D);
   x3 = (width-D);
@@ -28,9 +28,9 @@ D = dimensioni[i];
 }
 
 
-function draw() {
+void  draw() {
 
-forma1();
+//forma1();
   forma2();
   forma3();
   forma4();
@@ -38,7 +38,7 @@ forma1();
 
 
 //------------------------------forma 1------------------------------//
-function forma1() {
+void  forma1() {
   fill(random(255,40));
   noStroke();
   rect(x, y, D, D);
@@ -55,7 +55,7 @@ function forma1() {
   }
 }
 //------------------------------forma 2------------------------------//
-function forma2() {
+void forma2() {
   fill(100, 40);
   noStroke();
 ellipse(x3, y3, D, D);
@@ -74,7 +74,7 @@ ellipse(x3, y3, D, D);
   }
 }
 //------------------------------forma 3------------------------------//
-function forma3() {
+void forma3() {
   fill(100, 40);
   noStroke();
   ellipse(x3, y3, D, D);
@@ -91,7 +91,7 @@ function forma3() {
   }
 }
 //------------------------------forma 4------------------------------//
-function forma4() {
+void forma4() {
   fill(random(255));
   noStroke();
 triangle(x4, y4+D, x4+D/2, y4, x4+D, y4+D);
@@ -112,7 +112,7 @@ triangle(x4, y4+D, x4+D/2, y4, x4+D, y4+D);
 
 
 // se premi "s" salva come immagine
-function keyTyped() {
+void keyPressed() {
 
   if (key == 'a') {
     noLoop();
