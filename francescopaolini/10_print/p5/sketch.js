@@ -15,8 +15,8 @@ var y4 = 10;
 
 function setup() {
   createCanvas(1310, 700);
-  background(255);
-  frameRate(60);
+  background(255); //sfondo bianco
+  frameRate(60); //60 frame a secondo
 
   var i = int(random(4));
 D = dimensioni[i];
@@ -27,15 +27,12 @@ D = dimensioni[i];
   x4 = (width-D);
 }
 
-
 function draw() {
-
-//  forma1();
+  forma1();
   forma2();
   forma3();
   forma4();
 }
-
 
 //------------------------------forma 1------------------------------//
 function forma1() {
@@ -49,7 +46,7 @@ function forma1() {
     y = y+D;
   }
   if (y >= height) {
-    background(random(255));
+    background(random(255)); //sfondo random ad un canale
     x=0;
     y=0;
   }
@@ -58,7 +55,7 @@ function forma1() {
 function forma2() {
   fill(100, 40);
   noStroke();
-ellipse(x3, y3, D, D);
+  ellipse(x3, y3, D, D);
 
 
   if (y1 <= 0) {
@@ -68,7 +65,7 @@ ellipse(x3, y3, D, D);
   y1 = y1 - D;
 
   if (x1 >= width ) {
-    background(255);
+    background(255); //sfondo random ad un canale
     x1 = 0;
     y1 = (height-D);
   }
@@ -110,22 +107,21 @@ triangle(x4, y4+D, x4+D/2, y4, x4+D, y4+D);
   }
 }
 
-
-// se premi "s" salva come immagine
+//------------------------------utilizzo tastiera------------------------------//
 function keyTyped() {
 
-  if (key == 'a') {
+  if (key == 'a') { // se premi "a" si blocca il loop
     noLoop();
   } else {
   }
-  if (key == 's') {  // se premo f lo fermo
-    saveFrame("variazione-######.png");     //salva il frame, "fai un screenshot della finestra"
+  if (key == 's') {  // se premi "s" fai uno screenshot del canvas
+    saveCanvas('variazione', 'png'); //viene salvato nella cartella download col nome "variazione.png"
   } else {
   }
-  if (key == 'd') { // se premo d riparte
+  if (key == 'd') { // se premi "d" riparte il loop
     loop();
   } else {
-  }if (key == 'q') { // se premo d riparte
+  }if (key == 'q') { // se premi "q" si pulisce il canvas
     background(255);
   }
 }
