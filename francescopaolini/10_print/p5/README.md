@@ -1,5 +1,4 @@
-### Forme — 10 print
-[launch/open](https://github.com/francescopaolini/archive/blob/master/francescopaolini/10_print/p5/index.html)
+# Forme | [launch/open](http://dsii-2017-unirsm/francescopaolini/10_print/p5)
 
-10 Print porting to P5js
-
+by francescopaolini © 2017 MIT License  
+DSII2017 Lab @UNIRSM [website](http://dsii-2017-unirsm)  
