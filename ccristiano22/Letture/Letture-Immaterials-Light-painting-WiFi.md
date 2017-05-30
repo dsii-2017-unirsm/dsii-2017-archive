@@ -42,7 +42,7 @@ Anno - 2014
 
 Design — Einar Sneve Martinussen, Jørn Knutsen & Timo Arnall
 
-Video - [Ghost in the Field](https://vimeo.com/97054557)
+Video - [Satellite Lamps](https://vimeo.com/97054557)
 
 
 
