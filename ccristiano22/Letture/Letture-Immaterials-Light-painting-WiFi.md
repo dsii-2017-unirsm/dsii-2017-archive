@@ -1,4 +1,10 @@
-# Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen #
+# Immaterials: Light painting WiFi #
+
+Anno - 2012
+
+Design — Timo Arnall,Jørn Knutsen and Einar Sneve Martinussen
+
+Video - [Immaterials: Light painting](https://vimeo.com/20412632)
 
 ### What is/Cosa è? ###
 “Immaterials Light painting WiFi” è la visualizzazione del paesaggio invisibile della città, creato dall’infrastrutture 
@@ -18,3 +24,25 @@ Immaterials Light painting WiFi, ci mostra come ogni giorno siamo attraversati d
 ### What if/Cosa succede se? ###
 Potrebbe essere interessante poter disporre di un dispositivo wearable, che ci permette di monitorare live 
 la quantità di tempo e la potenza delle onde elettromagnetiche a cui siamo sottoposti tutti i giorni.
+
+## Altri progetti ##
+
+Immaterials: Ghost in the Field
+
+Anno - 2009
+
+Design — Timo Arnall, Jack Schulze & Einar Sneve Martinussen
+
+Video - [Ghost in the Field](https://vimeo.com/7022707)
+
+
+Immaterials: Satellite Lamps
+
+Anno - 2014
+
+Design — Einar Sneve Martinussen, Jørn Knutsen & Timo Arnall
+
+Video - [Ghost in the Field](https://vimeo.com/97054557)
+
+
+
