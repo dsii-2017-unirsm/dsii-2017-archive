@@ -1,7 +1,9 @@
 # The flow towards Europe #
-
+![alt text](http://i.imgur.com/8m5PyFK.jpg)
 Anno - 2015
+
 Design - [Lucify](https://www.lucify.com)
+
 Progetto - [The flow towards Europe](https://www.lucify.com/the-flow-towards-europe/) 
 
 ### What is/Cosa è? ###
