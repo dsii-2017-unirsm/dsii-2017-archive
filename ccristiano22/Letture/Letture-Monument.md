@@ -1,4 +1,10 @@
-# Monument, 2006, Caleb Larsen #
+# Monument #
+
+Anno - 2006
+
+Design — [Caleb Larsen](http://caleblarsen.com)
+Progetto - [Monument](http://caleblarsen.com/monument/)
+
 
 ### What is/Cosa è? ###
 “Monument" è una installazione che rappresenta un monumento temporaneo per la commemorazione delle persone uccise in tempo reale.
@@ -16,3 +22,5 @@ La stanza bianca asettica assomiglia ad un cimitero, una stanza funebre, un obit
 Potrebbe essere interessante non avere un unico recipiente ed un unico colore ma più recipienti con un codice cromatico che consentisse la distinzione tra uomo, donna e bambino.
 Ciò ci consentirebbe di identificare in che quantità tra uomini donne e bambini vengono uccisi.
 In alternativa il codice cromatico potrebbe anche definire la tipologia di morte: assassinio, suicidio, morte naturale, eutanasia, morte accidentale o morte bianca.
+
+## Altri Progetti ##
