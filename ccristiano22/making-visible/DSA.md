@@ -26,8 +26,25 @@ Mettendoli in difficoltà, provocando lo sforzo mentale che un dislessico deve c
 Un riferimento interessante è il lavoro del designer Daniel Britton, il quale ha provato attraverso la progettazione di un font chiamo Dyslexic Typeface di mettere le persone nelle stesse condizioni di difficoltà che un dislessico ha durante la lettura e la comprensione di un testo.
 L'ipotesi è quella di creare una editor di testi che interferisce con la digitazione, la griglia di testo per ricreare le condizioni che un qualsiasi dislessico prova durante la scrittura e la lettura di un testo. 
 
-## Visualizzazione ##
+## Concept ##
+L'obbiettivo di questo progetto è creare uno strumento/tool per insegnati e professori che vogliono rendersi conto di quali sono le difficoltà di un dislessico e come può apparire un testo per un dislessico in base alle sue caratteristiche. 
+Il tool consentirà agli insegnati di scrivere un testo per i propri studenti con strumenti in grado di visualizzare i testi in base al grado di difficolta dello studente affetto da DSA, potendo selezionare il grado di dislessia, disgrafia, disortografia e disturbo specifico della compitazione.
+Il testo mutera in base hai tipici errori di queste categorie di dislessia, la mutazione non dipenderà esclusivamente dal livello di dislessia ma anche in base al struttura del testo stesso (interlinea, tipo di font, grandezza del font, Kerning, colore).
+Attraverso questo tool si cerca di offrire uno stumento utile agli insegnati sia per la scrittura di un testo sia per comprendere le difficoltà di uno studente affetto da DSA. 
+
+## Riferimenti ##
 ![alt text](https://www.aiditalia.org/Media/Page/dislessia-difficoltà-di-lettura.png)
+
+## What is/Cosa è? ##
+Un softwere/plug-in che da la possibilità ai dislessico e agli insegnate di comprendere al meglio i problemi dati dalla DSA.
+Per un dislessico risulterà una piattaforma un editor di testi, per l'insegnate un mezzo di comprensione per le difficoltà dei dislessici.
+## How it works/come funziona? ##
+In una fase iniziale (Monitoraggio) il softwere inviterà il dislessico a scrivere e un piccolo e breve testo memorizzando gli errori durante la battitura. 
+Successivamente verrà data la possibilità all'utente dislessico di customizzare il proprio layout in modo da essere il più semplice e comprensibile alla scrittura e alla lettura (Customizzazione).
+Il file prodotto potà essere salvato e condiviso (Condivisione) con l'insegnate il quale oltre a ricevere il testo del avrà la possibilità di visualizzare gli errori tipici del dislessico e osservare quali sono le problematiche. (Debugging)
+## What does it mean/Cosa significa? ##
+Un miglioramento delle piattaforme per i dislessici e per gli insegnanti.
+Una piattaforma che oltre a aiutare il dislessico, aiuta gli insegnanti a comprendere le necessità di un dislessico e visualizzare le sue difficolta , mostrando i problemi specifici del singolo individuo e risolvere i problemi nel dettaglio. 
 
 ## Dati ##
 in-put su keyboard
@@ -109,13 +126,21 @@ Compromissioni a livello procedurale e di calcolo (lettura, scrittura e incolonn
 Disturbo che riguarda l'attività motoria come il coordinazione e il movimento.
 Questo disturbo essendo legato al movimento può comportare difficolta linguistiche.
 
+## Sketch ##
+![alt text](http://i.imgur.com/i3UY7xh.jpg)
+![alt text](http://i.imgur.com/CSJCuaT.jpg)
 
 ## Riferimenti ##
-https://www.aiditalia.org/it/la-dislessia
-https://it.wikipedia.org/wiki/Dislessia
-http://danielbritton.info
-https://www.wired.it/lifestyle/design/2015/06/17/font-problemi-dislessia/
-http://dyslexicdesign.co.uk
-http://dyslexicdesign.co.uk/Tina-Crawford
-http://dyslexicdesign.co.uk/filter/Graphic-%26-digital-design/Tomas-Jefanovas
-http://www.dislessiavarese.it/i-movimenti-oculari-e-la-lettura.html
+* https://www.aiditalia.org/it/la-dislessia
+* https://it.wikipedia.org/wiki/Dislessia
+* http://danielbritton.info
+* https://www.wired.it/lifestyle/design/2015/06/17/font-problemi-dislessia/
+* http://dyslexicdesign.co.uk
+* http://dyslexicdesign.co.uk/Tina-Crawford
+* http://dyslexicdesign.co.uk/filter/Graphic-%26-digital-design/Tomas-Jefanovas
+* http://www.dislessiavarese.it/i-movimenti-oculari-e-la-lettura.html
+* http://www.pickeditor.com
+* http://www.aiutodislessia.net/programmi-per-la-creazione-di-mappe-concettuali-2/
+* http://www.francescacavaiani.it/2014/08/05/strumenti-compensativi-quali-e-perche/
+* https://www.behance.net/gallery/51942013/Making-Sense-of-Dyslexia
+* http://studio.processingtogether.com/sp/pad/export/ro.9Zo$UbIWYZEDR/latest

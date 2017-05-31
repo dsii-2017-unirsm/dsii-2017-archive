@@ -1,11 +1,12 @@
 ## Monument
-anno — 2006 <br>
-mostra — Peacock Visual Arts di Aberdeen, Scozia<br>
-design — [Caleb Larsen](http://caleblarsen.com/) <br>
+anno — 2006  
+luogo — Peacock Visual Arts di Aberdeen, Scozia  
+design — [Caleb Larsen](http://caleblarsen.com/)  
 
-articoli — [+](http://caleblarsen.com/monument/)
-[+](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/)
-[+](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)
+articoli — [caleblarsen](http://caleblarsen.com/monument/), [instintopoetico](https://instintopoetico.wordpress.com/2016/05/22/monument-caleb-larsen/), [siusoon](http://www.siusoon.net/dat/2008/10/08/inspiring-work-monument-if-it-bleeds-it-leads-2006-by-caleb-larsen/)  
+progetti simili — [Pulse](http://www.markuskison.de/kinetic.html)  
+
+![Monument](http://i.imgur.com/rYeQdTq.jpg)
 
 
 #### what’s —

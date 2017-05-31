@@ -1,6 +1,8 @@
 # The flow towards Europe
 (Lucify, 2015)
 
+![The flow towards Europe](https://dublin.sciencegallery.com/trauma/assets/img/exhibits/the-flow-towards-europe.jpg)
+
 ***what is***
 
 An open-source interactive and animated map showing the flow of asylym seekers from their countries of origin to Europe.
@@ -26,3 +28,9 @@ It means that we don't know how lucky we are.
 ***what if...***
 
 ...we could see giant white bubbles containing 25 people each travelling in the sky above our heads?
+
+---
+
+Project Reference - https://www.lucify.com/the-flow-towards-europe/
+
+Lucify - https://www.lucify.com
