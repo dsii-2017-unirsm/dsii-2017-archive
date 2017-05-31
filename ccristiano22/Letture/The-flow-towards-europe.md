@@ -1,4 +1,10 @@
-# The flow towards Europe, 2015, Lucify #
+# The flow towards Europe #
+![alt text](http://i.imgur.com/8m5PyFK.jpg)
+Anno - 2015
+
+Design - [Lucify](https://www.lucify.com)
+
+Progetto - [The flow towards Europe](https://www.lucify.com/the-flow-towards-europe/) 
 
 ### What is/Cosa è? ###
 “The flow towards Europe” é una mappa interattiva che riporta i dati inerenti ai flussi migratori dei richiedenti rifugio in Europa, tra il 2012 e 2016.
@@ -16,3 +22,6 @@ Aumentando la velocità della timeline si evidenzia ancor di più al quantità i
 ### What if/Cosa succede se? ###
 La timeline mostra un grafico semplificato della portata del flusso migratorio mostrando un profilo che descrive sinteticamente la portata del flusso, mostrando picchi e momenti di stasi.
 Potrebbe essere interessante poter includere all’interno della timeline una componete informativa, relativa alle cause che portano all’accelerazione improvvisa del flusso migratorio, ad esempio: un particolare evento, che a costretto una determinata popolazione alla fuga.
+
+
+## Altri Progetti ##
