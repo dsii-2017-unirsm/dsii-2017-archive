@@ -167,8 +167,3 @@ la distanza tra due utenti possa sembrare più corta.
 
 
 *riferimenti*  [+](http://https://twitter.com/archillect) 
-
-
-
-
-

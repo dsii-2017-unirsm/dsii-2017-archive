@@ -71,4 +71,3 @@ Installazione con ombrelli blu che rappresentano in maniera fisica il wifi prese
 •	*Sibling* [+](https://www.dezeen.com/2013/11/11/siblings-wifi-blocking-onoff-installation-creates-a-disconnected-cold-spot/)<br>
 ![gdocP5](http://i.imgur.com/17FeUOY.jpg)<br>
 Sibling è un progetto presentato all’ Università di Melbourne, caratterizzato da un recinto elettrificato che blocca i segnali elettromagnetici crea un “punto freddo” ovvero un punto dove il wifi non è percepibile.
-

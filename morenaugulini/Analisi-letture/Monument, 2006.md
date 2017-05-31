@@ -23,7 +23,6 @@ L’intero congegno richiama provocatoriamente l’attenzione sull’atteggiamen
 La scatola trasparente appesa al soffitto è in materiale acrilico e contiene circa 100.000 palline gialle di plastica del diametro di 6mm, sul genere di quelle utilizzate per le pistole ad aria compressa. 
 La scatola trasparente è cablata su un computer che utilizza un software personalizzato: un algoritmo analizza continuamente, tramite Google News, i titoli di oltre 4.500 articoli di cronaca nera in lingua inglese da tutto il mondo, alla ricerca di notizie di omicidi. Ogni volta che trova una notizia del genere, l’algoritmo rileva il numero delle persone uccise e lo mette a confronto con altri articoli, in modo da garantire la veridicità del numero estrapolato; una volta verificato il numero delle persone uccise, istruisce un meccanismo collegato alla scatola trasparente appesa al soffitto, che fa cadere un corrispondente numero di palline gialle. L’installazione dura circa 3/4 mesi e ogni mese vengono rilasciate in media circa 20 mila palline.
   
-
 ***      
 
 **What does it mean - cosa significa?**   
@@ -77,5 +76,3 @@ Una linea di luce laser è proiettata lungo un perimetro orizzontalmente. Sfere 
 •	*BMW Kinetic sculpture* [+](http://www.coolhunting.com/culture/bmw-kinetic-scu)<br>
 ![gdocP5](http://i.imgur.com/hFhPk3J.jpg)<br>
 Il progetto utilizza 714 sfere metalliche che sono sospese singolarmente su corde appena visibili, creando una massa amorfa apparentemente senza peso. Ogni palla si abbassa e si ritrae in modo indipendente consentendo di ricreare qualsiasi forma. L'installazione ricrea forme di modelli d’auto BMW e la loro evoluzione in 90 anni di storia. 
-
-

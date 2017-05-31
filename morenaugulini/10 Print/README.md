@@ -1,4 +1,3 @@
-
 # Variazione 10 print [launch / open]()
 
 by morenaugulini (https://github.com/morenaugulini) © 2017 MIT License  
