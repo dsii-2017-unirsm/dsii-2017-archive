@@ -4,4 +4,4 @@
 
 [download — synesketch](http://krcadinac.com/synesketch/#download)
 
-![01](http://i.imgur.com/7jniqFv.jpg)
+![01](http://i.imgur.com/E99WaE2.jpg)
