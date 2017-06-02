@@ -50,7 +50,7 @@ void draw() {
         // Where are we, pixel-wise?
         int x = i*cellSize;
         int y = j*cellSize;
-        int loc = (video.width - x - 1) + y*video.height; // Reversing x to mirror the image
+        int loc = (video.width - x - 1) + y*video.width; // Reversing x to mirror the image
 
         // Definire le componenti del colore del disegno
         float rd = red(disegno.pixels[loc]);
