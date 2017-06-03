@@ -24,7 +24,7 @@ Cosa succederebbe se l’infografica potesse fornirci una previsione sulla situa
 
 ## Progetti correlati
 
-+ **_See something or say something, Eric Fischer, 2011_** **_[+]https://www.flickr.com/photos/walkingsf/sets/72157627140310742/_**
++ **_See something or say something, Eric Fischer, 2011_** **_[+](https://www.flickr.com/photos/walkingsf/sets/72157627140310742/)_**
 
 ![Imgur](http://i.imgur.com/gF6Apz0.jpg)
 
