@@ -24,9 +24,9 @@ Cosa succederebbe se l’infografica potesse fornirci una previsione sulla situa
 
 ## Progetti correlati
 
-+ **_The Immaterials project - Ghost in the Field, by Jack Schulze, Einar Sneve Martinussen and Timo Arnall, 2010_** **_[+](https://vimeo.com/7022707)_**
++ **_See something or say something, Eric Fischer, 2011_** **_[+]https://www.flickr.com/photos/walkingsf/sets/72157627140310742/_**
 
-![Imgur](http://i.imgur.com/IHbdpeP.jpg)
+![Imgur](http://i.imgur.com/gF6Apz0.jpg)
 
 
 
