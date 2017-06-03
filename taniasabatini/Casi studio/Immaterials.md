@@ -4,7 +4,7 @@
 
 ![Imgur](http://i.imgur.com/kccJrGA.jpg)
 
-Referenze di progetto [+](https://vimeo.com/20412632)
+**_Referenze di progetto [+](https://vimeo.com/20412632)_**
 
 **Cos’è?**
 
