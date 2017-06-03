@@ -22,10 +22,10 @@ Oggi, un numero sempre maggiore di attività umane, sfrutta strumenti privi di m
 
 **What if..**
 
-Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori distintivi - l’utilizzo dei social network all’interno di spazi come abitazioni private ed imprese, nell’arco di una giornata? 
+Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori distintivi - l’utilizzo dei social network all’interno di spazi come abitazioni private ed imprese, nell’arco di una giornata? </br>
 
-***
-**Progetti correlati**
+
+## Progetti correlati
 
 **_Light Mapping Radiation_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
 
