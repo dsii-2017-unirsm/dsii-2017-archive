@@ -27,9 +27,13 @@ Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori
 
 ## Progetti correlati
 
-+ **_The Immaterials Project_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
++ **_Immaterials: Ghost in the Field, by Jack Schulze and Timo Arnall_** **_[+](https://vimeo.com/7022707)_**
 
 ![Imgur](http://i.imgur.com/IHbdpeP.jpg)
+
+A partire dal 2006, con il workshop "Touch" con BERG, dove siamo preoccupati per l'invisibilità della tecnologia RFID e l'effetto che abbiamo avuto sulla nostra capacità di progettare con esso. Lo abbiamo trovato straordinario che una tecnologia definita come una prossimità o un'interfaccia basata sul tocco sia stata così opaca in termini di materialità fisica, spaziale e gestuale. Come possiamo rendere visibili questi materiali come progettisti, in modo da poter avere conversazioni riflessive con loro?
+
+Abbiamo sviluppato Esperimenti nel campo di disegno come metodo di rivelazione, letteralmente disegno, della presenza fisica delle interazioni RFID. Abbiamo rivelato questi campi in un modo molto più ricco e multidimensionale utilizzando la fotografia, l'animazione e la pittura leggera nel film Immaterials: Ghost in the Field. </br>
 
 + **_Satellite Lamps, by Einar Sneve Martinussen, Jørn Knutsen, and Timo Arnall_** **_[+](http://kairos.technorhetoric.net/19.1/inventio/martinussen-et-al//)_**
 
