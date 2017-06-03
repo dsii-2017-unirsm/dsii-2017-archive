@@ -27,8 +27,10 @@ Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori
 
 ## Progetti correlati
 
-+ **_Light Mapping Radiation_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
++ **_Light Mapping Radiation, Greg McNevin, 2016_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
 
 ![Imgur](http://i.imgur.com/Rxdt6YH.jpg)
+
+
 
 
