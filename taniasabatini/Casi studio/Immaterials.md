@@ -36,10 +36,12 @@ _Immaterials_ si concentra principalmente su due progetti distinti ma correlati:
 L'RFID è tipicamente una tecnologia invisibile e poco compresa, i progettisti hanno quindi cercato di "comprendere meglio le tipologie di interazioni che possono essere instaurate con esso e le modalità con cui esso può essere utilizzato in modo efficace e giocoso all'interno dei prodotti fisici". Il progetto si è avvalso dell'utilizzo di un RFID, della fotografia a lunga esposizione e dell'animazione.
  </br>
 
-+ **_Satellite Lamps, by Einar Sneve Martinussen, Jørn Knutsen, and Timo Arnall_** **_[+](http://kairos.technorhetoric.net/19.1/inventio/martinussen-et-al//)_**
++ **_Satellite Lamps, by Einar Sneve Martinussen, Jørn Knutsen, and Timo Arnall, 2014_** **_[+](http://kairos.technorhetoric.net/19.1/inventio/martinussen-et-al//)_**
 
 ![Imgur](http://i.imgur.com/26d6D9A.jpg)
 
+Secondo i progettisti attualmente "la vita urbana si intreccia con le tecnologie digitali" dando forma ad un paesaggio urbano invisibile composto "da onde radio, dispositivi mobili, flussi di dati e segnali satellitari". Il GPS, insieme alle reti wireless, ad algoritmi e sensori, è tra i materiali tecnologici intangibili che dialogano con la maggioranza di dispositivi utilizzati oggi.
+_Satellite Lamps_ è un progetto che esplora e riflette sul sistema di posizionamento globale (GPS) e si pone come obiettivo quello di rendere visibile questa tecnologia e interpretare la sua influenza sulle nostre attività quotidiana.
 
 
 + **_Light Mapping Radiation, by Greg McNevin_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
