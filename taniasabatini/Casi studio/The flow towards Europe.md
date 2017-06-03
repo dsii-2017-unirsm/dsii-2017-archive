@@ -1,7 +1,7 @@
 # The flow towards Europe, 2015 #
 **_Lucify_**
 
-![Imgur](http://i.imgur.com/kccJrGA.jpg)
+![Imgur](http://i.imgur.com/YeTW7p7.jpg)
 
 **What is**
 
