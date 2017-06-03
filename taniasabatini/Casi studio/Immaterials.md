@@ -3,7 +3,7 @@
 
 ![Imgur](http://i.imgur.com/kccJrGA.jpg)
 
-[Maggiori informazioni](https://vimeo.com/20412632)
+Referenze di progetto [+](https://vimeo.com/20412632)
 
 **Cos’è?**
 
@@ -22,5 +22,8 @@ Attraverso le tecnologie, il progetto mira a comprendere il nostro modo di viver
 **Cosa succederebbe se?**
 
 Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori distintivi - l’utilizzo dei social network all’interno di spazi come abitazioni private ed imprese, nell’arco di una giornata? 
+
+***
+**Progetti correlati**
 
 
