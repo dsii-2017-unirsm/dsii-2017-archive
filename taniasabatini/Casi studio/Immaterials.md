@@ -17,8 +17,8 @@ Ognuna di esse è alta 4 metri ed è dotata di 80 led, disposti lungo tutta la l
 L’esperiemento è durato 3 settimane ed è stata utilizzata la fotografia time-lapse che ha permesso di mappare la zona Grünerløkka di Oslo e creare una rappresentazione fisica del comportamento delle reti wifi, sparse per la città.
 
 **What does it means** 
-Oggi, un numero sempre maggiore di attività lavorative e personali, necessitano di strumenti come la rete wifi.
-Attraverso le tecnologie, il progetto mira a comprendere il nostro modo di vivere oggi, all’interno della città. Ponendo l’attenzione sull’importanza della rete wifi, essi riflettono sull’esistenza urbana e di come le tecnologie influenzino le nostre attività e le nostre intere vite. 
+
+Oggi, un numero sempre maggiore di attività umane, sfrutta strumenti privi di matericità, liberi da "connessioni" fisiche, come la rete wifi. _Immaterials_ rende tangibile ciò che per natura è invisibile, aggiungendo al paesaggio umano qualla componente che altrimenti non potremmo osservare.  Attraverso le tecnologie, il progetto indaga sul nostro modo di vivere oggi all’interno della città, sottolineando come tali servizi, siano centrali nella nostra quotidianità. Ponendo l’attenzione sull’importanza della rete wifi, i progettisti riflettono sulle odierne modalità dell'esistenza urbana e di come le tecnologie influenzino le nostre attività e le nostre intere vite.
 
 **What if**
 
