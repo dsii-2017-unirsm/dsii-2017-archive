@@ -13,8 +13,8 @@ Un’installazione urbana che ha come obiettivo quello di donare matericità all
 **Come funziona?**
 
 La mappa di reti invisibili è composto da una serie di aste luminose.
-Ognuna di esse è alta 4 metri ed è dotata di 80 leds lungo tutta la lunghezza. I led reagiscono all’impulso della rete selezionata e rappresentano visivamente la quantità di rete disponibile in quella determinata zona, illuminandosi. 
-L’esperiemento è durato 3 settimane ed è stata utilizzata la fotografia time-lapse che ha permesso di mappare la zona Grünerløkka di Oslo e creare una rappresentazione fisica di come i diversi tipi di reti. 
+Ognuna di esse è alta 4 metri ed è dotata di 80 led lungo tutta la lunghezza. I led reagiscono all’impulso della rete selezionata e rappresentano visivamente la quantità di rete disponibile in quella determinata zona, illuminandosi. 
+L’esperiemento è durato 3 settimane ed è stata utilizzata la fotografia time-lapse che ha permesso di mappare la zona Grünerløkka di Oslo e creare una rappresentazione fisica del comportamento dei diversi livelli di reti, sparsi per la città.
 
 **Cosa significa?** 
 
