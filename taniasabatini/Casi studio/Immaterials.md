@@ -8,7 +8,7 @@
 
 **Cos’è?**
 
-Un’installazione urbana che ha come obiettivo quello di donare matericità all’invisibile paesaggio di reti WiFi che costellano la città di Oslo. È una rappresentazione fisica di come i diversi tipi di reti si comportano in ambienti specifici, nelle abitazioni, nelle aziende e così via. L’immaterialità della rete si mescola alla fisicità del panorama della città di Oslo, creando una commistione, una mappa del funzionamento delle reti WiFi nella città.  
+Un’installazione urbana che ha come obiettivo quello di donare matericità all’invisibile paesaggio di reti WiFi che costellano la città di Oslo. È una rappresentazione fisica di come i diversi tipi di reti si comportano in ambienti specifici, nelle abitazioni, nelle aziende e così via, misurandone la potenza del segnale, (RSSI- Receive Signal Strenght Indicator). L’immaterialità della rete si mescola alla fisicità del panorama della città di Oslo, creando una commistione, una mappa dinamica, in tempo reale, del funzionamento delle reti WiFi nella città.  
 
 **Come funziona?**
 
