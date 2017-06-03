@@ -44,7 +44,7 @@ Secondo i progettisti attualmente "la vita urbana si intreccia con le tecnologie
 _Satellite Lamps_ è un progetto che esplora e riflette sul sistema di posizionamento globale (GPS) e si pone come obiettivo quello di rendere visibile questa tecnologia e interpretare la sua influenza sulle nostre attività quotidiana.
 
 
-+ **_Light Mapping Radiation, by Greg McNevin_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
++ **_Light Mapping Radiation, by Greg McNevin, 2016_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
 
 ![Imgur](http://i.imgur.com/Rxdt6YH.jpg)
 
