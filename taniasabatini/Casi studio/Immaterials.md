@@ -1,5 +1,10 @@
 <h2> Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen </h2>
 
+
+![Imgur](http://i.imgur.com/kccJrGA.jpg)
+
+[Maggiori informazioni](https://vimeo.com/20412632)
+
 **Cos’è?**
 
 Un’installazione urbana che ha come obiettivo quello di donare matericità all’invisibile paesaggio di reti WiFi che costellano la città di Oslo. È una rappresentazione fisica di come i diversi tipi di reti si comportano in ambienti specifici, nelle abitazioni, nelle aziende e così via. L’immaterialità della rete si mescola alla fisicità del panorama della città di Oslo, creando una commistione, una mappa del funzionamento delle reti WiFi nella città.  
