@@ -27,9 +27,15 @@ Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori
 
 ## Progetti correlati
 
-+ **_Light Mapping Radiation, Greg McNevin, 2016_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
++ **_Light Mapping Radiation, Greg McNevin_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
 
 ![Imgur](http://i.imgur.com/Rxdt6YH.jpg)
+
+Il progetto nasce in collaborazione con Greenpeace, nel periodo subito successivo al disastro di Fukushima. La volontà era quella di mostrare l'impatto delle radiazioni sull'ambiente e sulle persone. Ispirandosi a _Immaterials_, _Light Mapping Radiation_ utilizza delle aste in metallo dotate di 64 led RGB, che rispondono ai livelli di radiazione dell'ambiente, illuminandosi. Pe rendere la misurazione maggiormente obiettiva, è stata implementata una scala di rischio, indicata dai colori Bianco / Arancione / Rosso, rispettivamente di 0,23uSv / h, sotto 1,0uSv / h e superiore a 1,0uSv / h. In altri termini, bianco indica livelli di radiazioni accettabili secondo gli standard internazionali, arancio, livelli elevati in cui è necessario prendere in considerazione misure di protezione e Rosso, per i luoghi in cui sono necessarie la decontaminazione e servizi sanitari speciali. Sono state mappate attraverso questa tecnica di light painting, le zone popolate di Fukushima e Chernobyl, per comprendere visivamente il rischio di esposizione. Il progetto si avvale inoltre di un Arduino e un Mini Monitor. Quest'ultimo emette un segnale analogico al secondo, che l'Arduino converte in digitale per attivare i Led. Anche in questo caso è stata utilizzata la fotografia in time-lapse, per 
+
+
+
+
 
 
 
