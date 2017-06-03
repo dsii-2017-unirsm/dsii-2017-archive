@@ -27,7 +27,17 @@ Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori
 
 ## Progetti correlati
 
-+ **_Light Mapping Radiation, Greg McNevin_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
++ **_The Immaterials Project_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
+
+![Imgur](http://i.imgur.com/IHbdpeP.jpg)
+
++ **_Satellite Lamps, by Einar Sneve Martinussen, Jørn Knutsen, and Timo Arnall_** **_[+](http://kairos.technorhetoric.net/19.1/inventio/martinussen-et-al//)_**
+
+![Imgur](http://i.imgur.com/26d6D9A.jpg)
+
+
+
++ **_Light Mapping Radiation, by Greg McNevin_** **_[+](http://aperturecomms.com.au/project/light-mapping-radiation/)_**
 
 ![Imgur](http://i.imgur.com/Rxdt6YH.jpg)
 
