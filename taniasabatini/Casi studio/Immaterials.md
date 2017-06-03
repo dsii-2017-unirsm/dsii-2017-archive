@@ -27,7 +27,7 @@ Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori
 
 ## Progetti correlati
 
-+ **_Immaterials: Ghost in the Field, by Jack Schulze and Timo Arnall_** **_[+](https://vimeo.com/7022707)_**
++ **_Immaterials: Ghost in the Field, by Jack Schulze, Einar Sneve Martinussen and Timo Arnall_** **_[+](https://vimeo.com/7022707)_**
 
 ![Imgur](http://i.imgur.com/IHbdpeP.jpg)
 
