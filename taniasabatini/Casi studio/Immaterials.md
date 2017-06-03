@@ -27,13 +27,14 @@ Cosa succederebbe se queste aste mostrassero - attraverso l’utilizzo di colori
 
 ## Progetti correlati
 
-+ **_Immaterials: Ghost in the Field, by Jack Schulze, Einar Sneve Martinussen and Timo Arnall_** **_[+](https://vimeo.com/7022707)_**
++ **_The Immaterials project - Ghost in the Field, by Jack Schulze, Einar Sneve Martinussen and Timo Arnall, 2010_** **_[+](https://vimeo.com/7022707)_**
 
 ![Imgur](http://i.imgur.com/IHbdpeP.jpg)
 
-A partire dal 2006, con il workshop "Touch" con BERG, dove siamo preoccupati per l'invisibilità della tecnologia RFID e l'effetto che abbiamo avuto sulla nostra capacità di progettare con esso. Lo abbiamo trovato straordinario che una tecnologia definita come una prossimità o un'interfaccia basata sul tocco sia stata così opaca in termini di materialità fisica, spaziale e gestuale. Come possiamo rendere visibili questi materiali come progettisti, in modo da poter avere conversazioni riflessive con loro?
-
-Abbiamo sviluppato Esperimenti nel campo di disegno come metodo di rivelazione, letteralmente disegno, della presenza fisica delle interazioni RFID. Abbiamo rivelato questi campi in un modo molto più ricco e multidimensionale utilizzando la fotografia, l'animazione e la pittura leggera nel film Immaterials: Ghost in the Field. </br>
+Il progetto è il frutto di un'iniziativa di ricerca nata nel 2006, dal team "Touch", che sviluppa applicazioni e servizi che consentono alle persone di interagire con oggetti e situazioni quotidiane attraverso il proprio smartphone.
+_Immaterials_ si concentra principalmente su due progetti distinti ma correlati: il primo indaga e riflette su sensori RFID e NFC e il secondo sulle reti Wifi, ponendo l'attenzione sulla visualizzazione di queste tecnologie invisibili che ci circondano.
+L'RFID è tipicamente una tecnologia invisibile e poco compresa, i progettisti hanno quindi cercato di "comprendere meglio le tipologie di interazioni che possono essere instaurate con esso e le modalità con cui esso può essere utilizzato in modo efficace e giocoso all'interno dei prodotti fisici". Il progetto si è avvalso dell'utilizzo di un RFID, della fotografia a lunga esposizione e dell'animazione.
+ </br>
 
 + **_Satellite Lamps, by Einar Sneve Martinussen, Jørn Knutsen, and Timo Arnall_** **_[+](http://kairos.technorhetoric.net/19.1/inventio/martinussen-et-al//)_**
 
