@@ -22,6 +22,12 @@ Dando “fisicità” a tale fenomeno è possibile comprenderne la portata in mo
 
 Cosa succederebbe se l’infografica potesse fornirci una previsione sulla situazione nei prossimi 10 anni? Se gli spostamenti continuassero ad aumentare in modo esponenziale, come si configurerebbero gli stati del mondo e in particolare quelli europei? 
 
+## Progetti correlati
+
++ **_The Immaterials project - Ghost in the Field, by Jack Schulze, Einar Sneve Martinussen and Timo Arnall, 2010_** **_[+](https://vimeo.com/7022707)_**
+
+![Imgur](http://i.imgur.com/IHbdpeP.jpg)
+
 
 
 
