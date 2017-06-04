@@ -11,7 +11,7 @@ Un’installazione artistica che mostra il numero di omicidi in tempo reale.
 
 **How it works**
 
-Attraverso l’utilizzo della programmazione, potenzialmente processing, vengono presi dalla rete ogni minuto, i titoli di notizie provenienti da 4.500 diverse fonti inglesi in tutto il mondo. Un algoritmo poi analizza i dati e controlla il dispositivo all’interno della mostra. Questo codice invia un input al contenitore, facendo cadere una piccola pallina gialla per ogni persona uccisa. Circa 20.000 palline cadono ogni mese e si accumulano sul pavimento della galleria durante il corso della mostra. 
+Attraverso l’utilizzo della programmazione (potenzialmente processing), ogni minuto vengono selezionati dal web, i titoli di notizie provenienti da 4.500 diverse fonti giornalistiche in lingua inglese, pubblicate in tutto il mondo. Nel momento in cui viene individuato un articolo riguardante un omicidio, un algoritmo dialoga con il dispositivo all’interno della mostra, contenente 100 mila palline gialle. Più precisamente questo codice invia un input al contenitore, che a sua volta, lascia cadere a terra "n" palline gialle, corrispondenti al numero di persone uccise in quella determinata notizia di cronaca. Circa 20.000 palline cadono ogni mese e si accumulano sul pavimento della galleria durante il corso della mostra. 
 
 **What does it mean** 
 
@@ -35,7 +35,5 @@ Prendendo in considerazione il tema dell’indifferenza, cosa succederebbe se le
 
 ![Imgur](http://i.imgur.com/DWJxLoq.jpg)
 
-+ **_Candy Carpets, Felix Gonzalez-Torres, 2013_** **_[+](http://www.emmakisiel.com/at-rest/)_**
 
-![Imgur](http://i.imgur.com/DWJxLoq.jpg)
 
