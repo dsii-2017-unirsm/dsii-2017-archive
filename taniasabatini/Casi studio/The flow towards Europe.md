@@ -28,6 +28,10 @@ Cosa succederebbe se l’infografica potesse fornirci una previsione sulla situa
 
 ![Imgur](http://i.imgur.com/gF6Apz0.jpg)
 
+Questo progetto possiede le stesse intenzioni del caso studio precedente, quello di mostrare in modo lampante e comprensibile, dei dati riguardanti la popolazioni, che altrimenti non potremmo vedere in modo così immediato. Le mappe realizzate da Eric FIscher, si concentrano sul visualizzare la geolicalizzazione dei tweet e le foto di Flickr sulla stessa mappa. I punti bli rappreswwntano appunto Twitter, mentre quelli arancioni Flickr, i punti bianchi invece indicano la persistenza di entrambi in un determinato territorio.  
+Interessante è notare come in certe zone prevalga l'utilizzo di uno o dell'altro, come a rispecchiare le preferenze degli utenti. 
+
+
 
 
 
