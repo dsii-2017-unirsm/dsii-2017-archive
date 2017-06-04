@@ -29,8 +29,6 @@ Prendendo in considerazione il tema dell’indifferenza, cosa succederebbe se le
 
 Il progetto è stato selezionato, poichè attraverso l'opera, l'artista riflette sui temi della morte e della violenza a cui assistiamo ogni giorno. _In the Eyes of Others_ è costituita da tre lampadari, composti da circa 9.000 ossa di gesso realizzate a mano. Con questa installazione, l'artista fa riferimento alle atrocità mostrate quotidianamente sugli schermi televisivi e sui giornali. L'immenso volume dei quotidiani accatastati nello spazio della galleria, sottolinea i violenti e tragici eventi che ogni giorno si verificano a causa della guerra. L'artista ragiona inoltre, su come l'uomo sia portato a vivere l'esperienza di una perdita, soprattuto in relazione alla propria sfera affettiva.   
 
-
-
 + **_No Man's Land, Christian Boltanski,  2010_** **_[+](https://vimeo.com/12121518)_**
 
 ![Imgur](http://i.imgur.com/F9xb0Zc.jpg)
@@ -40,6 +38,8 @@ L'Armory Park Avenue, si trasforma per mano dell'artista, in un simbolo di morte
 + **_At Rest, Emma Kisiel, 2011_** **_[+](http://www.emmakisiel.com/at-rest/)_**
 
 ![Imgur](http://i.imgur.com/DWJxLoq.jpg)
+
+Kiesel ha realizzato una serie di scatti fotografici, ragionando sulla paura umana di affrontare la morte e di guardare i defunti. Se da una parte "l'uomo ha un grande impatto sulla vita animale e naturale, le persone sono separate dalla fauna selvatica e le anime degli animali hanno poco valore" - secondo l'artista. Per riavvicinare gli spettatori al valore e all'importanza di queste creature spesso uccise dall'uomo, Kiesel costruisce un "altare" funerario nel punto preciso in cui l'animale ha perso la vita a causa dell'urto con un veicolo. Attraverso l'opera, l'artista restituisce loro una dignità, creando un'atmosfera sacra e carica di significati. 
 
 
 
