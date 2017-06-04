@@ -104,7 +104,7 @@ function stampaareaMatrice() {
   } else {
 
   }
-  if (key === 't') { // se premo "c" pulisco il background
+  if (key === 't') { // se premo "t" cambia la scala
   var i = int(random(3));
    D=scaladimensioni[i];
    D1=scaladimensioni[i];
