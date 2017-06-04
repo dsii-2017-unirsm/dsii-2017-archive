@@ -28,6 +28,9 @@ Cosa succederebbe se l’infografica potesse fornirci una previsione sulla situa
 
 ![Imgur](http://i.imgur.com/eb5YcvC.jpg)
 
+_Peoplemovin_ rende visualizzabili i flussi migratori sulla base dei dati forniti da "International Migrant Stock", risalenti al 2014.
+Il progetto si concentra quindi sul quantificare il numero di persone nate in un paese diverso da quello in cui vivono attualmente, comprendendo all'interno della visualizzazione, anche i rifugiati. L'infografica interattiva organizza i dati sottoforma di "slopegraph" utile a sottolineare le connessioni tra i paesi. Il grafico è suddiviso in due colonne, i paesi di provenienza a sinistra e quelli di destinazione sulla destra. Lo spessore delle linee che collega i paesi rappresenta la quantità di persone in movimento verso una determinata nazione.
+
 
 + **_See something or say something, Eric Fischer, 2011_** **_[+](https://www.flickr.com/photos/walkingsf/sets/72157627140310742/)_**
 
