@@ -33,5 +33,5 @@ Prendendo in considerazione il tema dell’indifferenza, cosa succederebbe se le
 
 + **_At Rest, Emma Kisiel, 2011_** **_[+](http://www.emmakisiel.com/at-rest/)_**
 
-![Imgur]([Imgur](http://i.imgur.com/DWJxLoq.jpg)
+![Imgur]([Imgur](http://i.imgur.com/DWJxLoq.jpg))
 
