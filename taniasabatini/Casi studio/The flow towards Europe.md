@@ -36,13 +36,14 @@ Il progetto si concentra quindi sul quantificare il numero di persone nate in un
 
 ![Imgur](http://i.imgur.com/gF6Apz0.jpg)
 
-Questo progetto possiede le stesse intenzioni del caso studio precedente, quello di mostrare in modo lampante e comprensibile, dei dati riguardanti la popolazioni, che altrimenti non potremmo vedere in modo così immediato. Le mappe realizzate da Eric Fischer, si concentrano sul visualizzare la geolicalizzazione dei tweet e le foto di Flickr sulla stessa mappa. I punti bli rappreswwntano appunto Twitter, mentre quelli arancioni Flickr, i punti bianchi invece indicano la persistenza di entrambi in un determinato territorio.  
-Interessante è notare come in certe zone prevalga l'utilizzo di uno o dell'altro, come a rispecchiare le preferenze degli utenti. 
+Le mappe realizzate da Eric Fischer, si concentrano sul visualizzare contemporaneamente, la geolicalizzazione dei tweet e le foto di Flickr su una mappa dell'America. I punti blu rappresentano Twitter, mentre quelli arancioni Flickr, i punti bianchi invece indicano la presenza di condivisioni provenienti da entrambi i social, in un determinato territorio. Interessante è notare come in certe zone prevalga l'utilizzo di uno o dell'altro, come a rispecchiare le preferenze degli utenti. Questo progetto è stato selezionato, poichè la visualizzazione progettata da Fischer, permette di comprendere in modo intuitivo i dati forniti e di confrontarli tra loro rapidamente. 
 
 
 + **_FiveThirtyEight's "Gun Deaths in America" project, Ben Casselman, 2014_** **_[+](https://fivethirtyeight.com/features/gun-deaths/)_** **_[+](https://github.com/fivethirtyeight/guns-data)_**
 
 ![Imgur](http://i.imgur.com/US34HYY.png)
+
+
 
 
 
