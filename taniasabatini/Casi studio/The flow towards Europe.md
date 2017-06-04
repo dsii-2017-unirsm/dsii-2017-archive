@@ -43,6 +43,12 @@ Le mappe realizzate da Eric Fischer, si concentrano sul visualizzare contemporan
 
 ![Imgur](http://i.imgur.com/US34HYY.png)
 
+Il progetto mostra il numero vittime di armi da fuoco, avvenute negli ultimi anni in America. Si stima infatti che le persone morte in scontri a fuoco o a causa di colpi partiti accidentalmente, siano circa 33.000 ogni anno. 
+I dati in questa infografica interattiva, provengono principalmente dai database dei centri di controllo e prevenzione delle malattie di tutti gli stati e dal distretto di Columbia ed è considerata la stima più completa delle morti per armi da fuoco. 
+_Gun Deaths in America_ riesce a mostrare in modo semplice e al tempo stesso agghiacciante i dati raccolti, sottolineando la portata del fenomeno e la necessità di trovare soluzioni politiche adeguate, in grado di far fronte al problema. 
+
+
+
 
 
 
