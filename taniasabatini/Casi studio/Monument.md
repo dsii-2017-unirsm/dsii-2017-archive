@@ -35,3 +35,7 @@ Prendendo in considerazione il tema dell’indifferenza, cosa succederebbe se le
 
 ![Imgur](http://i.imgur.com/DWJxLoq.jpg)
 
++ **_Candy Carpets, Felix Gonzalez-Torres, 2013_** **_[+](http://www.emmakisiel.com/at-rest/)_**
+
+![Imgur](http://i.imgur.com/DWJxLoq.jpg)
+
