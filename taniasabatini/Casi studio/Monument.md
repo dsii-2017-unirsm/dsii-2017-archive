@@ -23,7 +23,11 @@ Inoltre probabilmente Larsen ragiona sull’indifferenza verso il prossimo, cara
 Prendendo in considerazione il tema dell’indifferenza, cosa succederebbe se le palline rappresentassero il numero di condivisioni di notizie legate alle morti causate dalle guerre? Quanti utenti condividerebbero mostrando dell’interesse per queste notizie, nonostante siano notizie distanti dalla nostra quotidianità?
 
 ## Progetti correlati
-+ **_The Immaterials project - Ghost in the Field, by Jack Schulze, Einar Sneve Martinussen and Timo Arnall, 2010_** **_[+](https://vimeo.com/7022707)_**
++ **_In the Eyes of Others, Jodie Carey, 2009_** **_[+](http://jodiecarey.com/in-the-eyes-of-others/)_**
 
-![Imgur](http://i.imgur.com/IHbdpeP.jpg)
+![Imgur](http://i.imgur.com/KdikcxO.jpg)
+
++ **_No Man's Land, Christian Boltanski,  2010_** **_[+](https://vimeo.com/12121518)_**
+
+![Imgur](http://i.imgur.com/F9xb0Zc.jpg)
 
