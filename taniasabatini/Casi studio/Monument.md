@@ -7,7 +7,7 @@
 
 **What is**
 
-Un’installazione artistica che mostra il numero di omicidi in tempo reale. 
+Un’installazione artistica che mostra il numero di omicidi in tempo reale, rappresentando le morti, attraverso una serie di palline gialle. 
 
 **How it works**
 
@@ -26,6 +26,10 @@ Prendendo in considerazione il tema dell’indifferenza, cosa succederebbe se le
 + **_In the Eyes of Others, Jodie Carey, 2009_** **_[+](http://jodiecarey.com/in-the-eyes-of-others/)_**
 
 ![Imgur](http://i.imgur.com/KdikcxO.jpg)
+
+Il progetto è stato selezionato, poichè attraverso l'opera, l'artista riflette sui temi della morte e della violenza a cui assistiamo ogni giorno. _In the Eyes of Others_ è costituita da tre lampadari, composti da circa 9.000 ossa di gesso realizzate a mano. Con questa installazione, l'artista fa riferimento alle atrocità mostrate quotidianamente sugli schermi televisivi e sui giornali. L'immenso volume dei quotidiani accatastati nello spazio della galleria, sottolinea i violenti e tragici eventi che ogni giorno si verificano a causa della guerra. L'artista ragiona inoltre, su come l'uomo sia portato a vivere l'esperienza di una perdita, soprattuto in relazione alla propria sfera affettiva.   
+
+
 
 + **_No Man's Land, Christian Boltanski,  2010_** **_[+](https://vimeo.com/12121518)_**
 
