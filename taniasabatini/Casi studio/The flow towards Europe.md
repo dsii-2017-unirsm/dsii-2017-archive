@@ -28,8 +28,16 @@ Cosa succederebbe se l’infografica potesse fornirci una previsione sulla situa
 
 ![Imgur](http://i.imgur.com/gF6Apz0.jpg)
 
-Questo progetto possiede le stesse intenzioni del caso studio precedente, quello di mostrare in modo lampante e comprensibile, dei dati riguardanti la popolazioni, che altrimenti non potremmo vedere in modo così immediato. Le mappe realizzate da Eric FIscher, si concentrano sul visualizzare la geolicalizzazione dei tweet e le foto di Flickr sulla stessa mappa. I punti bli rappreswwntano appunto Twitter, mentre quelli arancioni Flickr, i punti bianchi invece indicano la persistenza di entrambi in un determinato territorio.  
+Questo progetto possiede le stesse intenzioni del caso studio precedente, quello di mostrare in modo lampante e comprensibile, dei dati riguardanti la popolazioni, che altrimenti non potremmo vedere in modo così immediato. Le mappe realizzate da Eric Fischer, si concentrano sul visualizzare la geolicalizzazione dei tweet e le foto di Flickr sulla stessa mappa. I punti bli rappreswwntano appunto Twitter, mentre quelli arancioni Flickr, i punti bianchi invece indicano la persistenza di entrambi in un determinato territorio.  
 Interessante è notare come in certe zone prevalga l'utilizzo di uno o dell'altro, come a rispecchiare le preferenze degli utenti. 
+
++ **_See something or say something, Eric Fischer, 2011_** **_[+](https://www.flickr.com/photos/walkingsf/sets/72157627140310742/)_**
+
+![Imgur](http://i.imgur.com/gF6Apz0.jpg)
+
++ **_FiveThirtyEight's Gun Deaths in America project, Ben Casselman, 2014_** **_[+](https://fivethirtyeight.com/features/gun-deaths/)_** **_[+](https://github.com/fivethirtyeight/guns-data)_**
+
+![Imgur](http://i.imgur.com/US34HYY.png)
 
 
 
