@@ -35,6 +35,8 @@ Il progetto è stato selezionato, poichè attraverso l'opera, l'artista riflette
 
 ![Imgur](http://i.imgur.com/F9xb0Zc.jpg)
 
+L'Armory Park Avenue, si trasforma per mano dell'artista, in un simbolo di morte, sopravvivenza ed esperienza umana. Il centro dell'installazione, si individua in un enorme tumulo di abbigliamento alto 25 metri, che per Boltanski rappresenta il corpo umano. A brevissimi intervalli di tempo, un'enorme gru - che simboleggia Dio -  si muove nello spazio, con i suoi artigli cattura un mucchio casuale di vestiti e lo rilascia sulla montagna, per aumentarne il volume. In questa opera, gli abiti rappresentano persone morte, non esiste identità, ma un gruppo indistinto di anime. Tutta l'installazione è accompagnata da un ritmo incessante di battiti cardiaci. Dietro l'opera, si estende una parete di 66 metri di lunghezza e 12 metri di profondità fatta da 3000 confezioni di biscotti impilati, a occludere le vedute dell'uscita. 
+
 + **_At Rest, Emma Kisiel, 2011_** **_[+](http://www.emmakisiel.com/at-rest/)_**
 
 ![Imgur](http://i.imgur.com/DWJxLoq.jpg)
