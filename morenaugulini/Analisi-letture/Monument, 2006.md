@@ -62,7 +62,7 @@ e storici cittadini francesi. Centinaia di ritratti in bianco e nero raccolti ne
  Il Memoriale per gli ebrei assassinati d'Europa, è un memoriale situato nel quartiere Mitte di Berlino, progettato dall'architetto Peter Eisenman, assieme all'ingegnere Buro Happold, per commemorare le vittime della Shoah. Il Memoriale è composto da un campo di 2.711 stele.
 
 
-•	*Maurizio Mochetti, Palle, 1988* [+](https://www.dezeen.com/2013/11/11/siblings-wifi-blocking-onoff-installation-creates-a-disconnected-cold-spot/)<br>
+•	*Maurizio Mochetti, Palle, 1988* [+](http://www.mauriziomochetti.it/portfolio/palle/)<br>
 ![gdocP5](http://i.imgur.com/ZPiLi0N.jpg)<br>
 Una linea di luce laser è proiettata lungo un perimetro orizzontalmente. Sfere di diverse dimensioni sono disposte su di un piano all’interno dell’area perimetrale e intercettano la luce frammentando la proiezione della linea di luce laser.
 
