@@ -16,10 +16,11 @@ Spaziatura_tra_lettere.pde
 
 Inserisci testo da txt:
 caricatesto.pde
+list.txt
 
 Problemi
 1-In fase di scrittura si presenta l'errore NegativeArraySizeException che appare qunado vengono digitate 3 lettere
 uguali una accanto all'altra.
 
-2- Ho provato ad aggiungere una stringa che da la possibilità di poter aggiungere un testo TXT ma non sono riuscito a farlo funzionare, in qunanto viene stampato solo nella console.  riferimento (caricatesto.pde)
+2- Ho provato ad aggiungere una stringa che da la possibilità di poter aggiungere un testo TXT ma non sono riuscito a farlo funzionare, in qunanto viene stampato solo nella console. (caricatesto.pde + list.txt)
 
