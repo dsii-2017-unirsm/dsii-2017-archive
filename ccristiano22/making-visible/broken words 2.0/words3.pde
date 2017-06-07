@@ -31,21 +31,21 @@ void setup() {
   pixelDensity(displayDensity());
   textSize(FS);
 
-  setupGUI();
 
   tbox = new TextBox(                                  
-    width>>3, height/2 + height/8, // x, y
-    width - width/4, height - height/2 - height/4, // w, h
+    width>>2, height/2 + height/8, // x, y
+    width - width/3, height - height/2 - height/4, // w, h
     600, // lim
     0300 << 030, color(-1, 0200), // textC, baseC
     color(-1, 0100), color(#FFFF00, 0200), 30);      // bordC, slctC
 
   tbox.isFocused = true;
+    setupGUI();
 }
 
 
 void draw() {
-  background(125);
+  background(150);
   if (record == true){
   stampa();
   }
