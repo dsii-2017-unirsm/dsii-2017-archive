@@ -2,6 +2,7 @@ public void bang() {
   record = true;
   println("stampa foglio");
 }
+
 void stampa() {
   if (record == true) {
     beginRecord(PDF, "DSA.pdf");
