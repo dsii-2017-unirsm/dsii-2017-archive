@@ -1,6 +1,7 @@
 Avanzamento codice DSA
 
-Il file è stato aggiornato aggiungendo gli slider relativi alla dislessia e al layout (font size e interlinea).
+Il file è stato aggiornato aggiungendo gli slider relativi alla dislessia e al layout (font size e inter linea).
+Il file nominato Spaziatura_tra_lettere è una prova fatta dal codice che mi avevi suggerito non è ancora stato inserito nel codice words3.
 
 Problemi
 1-In fase di scrittura si presenta l'errore NegativeArraySizeException che appare qunado vengono digitate 3 lettere
