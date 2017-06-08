@@ -1,4 +1,13 @@
-// Project "photoCOLLAGE" by Zach Spitulski, UCLA Version 0.3
+// Inspirational Ghost demo by MorenaUgulini 
+// original concept by MorenaUgulini 
+
+// 2017 © Daniele @Fupete and the course DSII2017 @UniRSM  
+// https://github.com/morenaugulini — github.com/dsii-2017-unirsm
+// Educational purposes, MIT License, 2017, San Marino
+
+// --- 
+
+// Credits to Zach Spitulski, UCLA Version 0.3, "photoCOLLAGE"
 
 
 PImage[] images = new PImage[6];
