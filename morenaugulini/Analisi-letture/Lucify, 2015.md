@@ -83,6 +83,6 @@ La luminosità di un paese corrisponde al suo totale di migrazione negli Stati U
 La mappa mostra l'immigrazione stimata (afflussi) per origine e paese di destinazione tra il 2010 e il 2015.
 I cerchi blu rappresentano i flussi di immigranti in entrata, mentre i cerchi rossi rappresentano i deflussi di emigrati. Ogni punto giallo rappresenta 1.000 persone. Se viene passato il mouse sopra un cerchio è possibile vedere gli spostamenti migratori totali di quel paese tra il 2010 e il 2015. Se si clicca su un cerchio (o si preme due volte sul cellulare) è possibile visualizzare i flussi di emigranti all’interno ed esterno di quel paese.
 
-•	*Installazione con salvagente - Ai Weiwei* [+](http://metrocosm.com/global-immigration-map/)
-![gdocP5](http://i.imgur.com/k3u9XHt.jpg)<br>
+•	*Installazione con salvagente - Ai Weiwei* [+](http://www.ansa.it/sito/notizie/mondo/europa/2016/02/13/ai-weiwei-installazione-con-salvagente_71e4d82c-01a5-49fb-a5fc-beb3bc9ae546.html)
+![gdocP5](http://i.imgur.com/YaLxPGd.jpg)<br>
 Migliaia di giubbotti di salvataggio utilizzati dai migranti tratti in salvo nell'isola greca di Lesbo: così l'artista cinese Ai Weiwei ha reso omaggio ai profughi che rischiano la vita ogni giorno per arrivare in Europa in un'installazione realizzata a Berlino. I giubbotti arancioni - 14mila in tutto - sono stati avvolti intorno alle colonne della Konzerthaus (sala concerti) nella capitale tedesca. 
