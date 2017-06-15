@@ -39,7 +39,7 @@ Lucify - https://www.lucify.com
 
 ***[Radio Garden](http://radio.garden) ([Studio Puckey](http://puckey.studio) & [Moniker](https://studiomoniker.com), 2016)***
 
-![Radio Garden](http://www.creativeapplications.net/wp-content/uploads/2016/12/radio_garden_01-800x500.jpg)
+![Radio Garden](http://www.creativeapplications.net/wp-content/uploads/2016/12/radio_garden_01.jpg)
 
 
 ***[The Refugee Project](http://www.therefugeeproject.org) ([Hyperakt](http://hyperakt.com) & [Ekene Ijeoma](http://ekeneijeoma.com), 2016)***
