@@ -35,4 +35,4 @@ Caleb Larsen - http://caleblarsen.com
 
 ***[Artificial Killing Machine](http://www.polygonfuture.com/artificial-killing-machine) ([Jonathan Fletcher Moore](http://www.polygonfuture.com), 2015)***
 
-![Artificial Killing Machine](hhttp://payload337.cargocollective.com/1/11/353003/9051954/artificial_killing_machine_0002.jpg)
+![Artificial Killing Machine](http://payload337.cargocollective.com/1/11/353003/9051954/artificial_killing_machine_0002.jpg)
