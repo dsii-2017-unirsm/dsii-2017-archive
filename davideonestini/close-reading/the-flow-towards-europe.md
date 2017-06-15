@@ -37,11 +37,11 @@ Lucify - https://www.lucify.com
 
 ## Related projects
 
-***[Radio Garden ([Studio Puckey](http://puckey.studio) & [Moniker](https://studiomoniker.com), 2016)](http://radio.garden)***
+***[Radio Garden](http://radio.garden) ([Studio Puckey](http://puckey.studio) & [Moniker](https://studiomoniker.com), 2016)***
 
 ![Radio Garden](http://www.creativeapplications.net/wp-content/uploads/2016/12/radio_garden_01-800x500.jpg)
 
 
-***[The Refugee Project ([Hyperakt](http://hyperakt.com) & [Ekene Ijeoma](hhttp://ekeneijeoma.com), 2016)](http://www.therefugeeproject.org)***
+***[The Refugee Project](http://www.therefugeeproject.org) ([Hyperakt](http://hyperakt.com) & [Ekene Ijeoma](hhttp://ekeneijeoma.com), 2016)***
 
 ![The Refugee Project](https://s-media-cache-ak0.pinimg.com/originals/4b/68/80/4b6880f47f53efea12358cf5ff6e2269.jpg)
