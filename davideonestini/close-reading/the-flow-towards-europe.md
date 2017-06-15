@@ -37,7 +37,7 @@ Lucify - https://www.lucify.com
 
 ## Related projects
 
-***Radio Garden***
+***[Radio Garden](http://radio.garden)***
 
 ![Radio Garden](http://www.creativeapplications.net/wp-content/uploads/2016/12/radio_garden_01-800x500.jpg)
 
