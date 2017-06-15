@@ -39,6 +39,8 @@ Lucify - https://www.lucify.com
 
 ***Radio Garden***
 
+![Radio Garden](http://www.creativeapplications.net/wp-content/uploads/2016/12/radio_garden_01-800x500.jpg)
+
 (Studio Puckey & Moniker, 2016)
 
 Radio Garden is a research project that places radio research within contemporary discussions about migration, cultural identities, encounters and memories by generating new knowledge about the meaning of radio and listening in the age of globalisation and digitisation.
