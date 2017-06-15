@@ -42,3 +42,8 @@ Jørn Knutsen & Einar Sneve Martinussen - http://voyoslo.com
 ***[The Architecture of Radio](http://www.architectureofradio.com) ([Richard Vijgen](http://www.richardvijgen.nl), 2015)***
 
 ![The Architecture of Radio](https://fsmedia.imgix.net/2b/0b/0d/f7/ba72/413b/b561/5551cf70e765/the-architecture-of-radio-app-shows-more-activity-when-pointed-at-wifi-routers.png)
+
+
+***[A City is not a Computer](https://placesjournal.org/article/a-city-is-not-a-computer/) ([Shannon Mattern](http://www.wordsinspace.net/shannon/), 2017)***
+
+![A City is not a Computer](http://www.creativeapplications.net/wp-content/uploads/2017/02/mattern-06-computer.jpg)
