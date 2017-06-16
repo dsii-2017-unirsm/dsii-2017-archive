@@ -29,3 +29,10 @@ Probably, the reason why we feel a sense of excitement in waiting for a new ball
 Project Reference - http://caleblarsen.com/monument/
 
 Caleb Larsen - http://caleblarsen.com
+
+
+## Related projects
+
+***[Artificial Killing Machine](http://www.polygonfuture.com/artificial-killing-machine) ([Jonathan Fletcher Moore](http://www.polygonfuture.com), 2015)***
+
+![Artificial Killing Machine](http://payload337.cargocollective.com/1/11/353003/9051954/artificial_killing_machine_0002.jpg)
