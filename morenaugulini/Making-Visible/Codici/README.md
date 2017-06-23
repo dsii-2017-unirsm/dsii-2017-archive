@@ -1,5 +1,5 @@
 
 
-__codice per la creazione del propio Inspirational bot__
+__codice per la creazione di Inspirational bot__
 
 -- work in progress --
