@@ -1,11 +1,15 @@
-## IMMATERIALS: Lights painting WiFi </br> Timo Arnall, Jorn Knutsen, Einar Sneve Martinussen </br> 2012 </br>
+## IMMATERIALS: Lights painting WiFi##
+**_Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen, 2012_**
 
-<h6> What is? </h6>
-<p> Immaterials è un progetto che tramite l’utilizzo di varie tecniche mostra i segnali WiFi che attraversano lo spazio cosa 
-che all’occhio umano non sarebbe possibile fare.  </p>
+![Imgur](http://i.imgur.com/kccJrGA.jpg)
 
-<h6> What does it mean?  </h6>
-<p> Mostrare come lavora e come si propaga il WiFi nello spazio. </p>
+[(+)](https://vimeo.com/20412632)
+
+** What is? **
+È un'istallazione urbana che visualizza lo strato di onde (wifi) in cui è immersa la città di Oslo. _Immaterials_ mostra il punto di collisione tra paesaggio materiale e paesaggio immateriale. Ciò che ne consegue è il comportamento della rete in relazione ai luoghi che attraversa: abitazioni, scuole, aziende ecc. In base alla potenza del segnale rilevato (RSSI- Receive Signal Strenght Indicator), si ottiene una mappa dinamica, in tempo reale, del funzionamento delle reti WiFi nella città.
+
+** What does it means?  **
+Mostrare come lavora e come si propaga il WiFi nello spazio.
 
 <h6> How it works?  </h6>
 <p> Dei rilevatori di segnale WiFi sono collegati a delle luci poste su un sostegno. Quando il rilevatore di onde attraversa 
