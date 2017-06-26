@@ -1,4 +1,4 @@
-## MONUMENT ##
+## MONUMENT (If it bleeds it leads) ##
 **_Caleb Larsen, 2006_**
 
 ![Imgur](http://i.imgur.com/uA9nTGX.jpg)
@@ -16,24 +16,22 @@ Sul lavoro di Larsen si potrebbe fare una lettura a pi霉 livelli: ragiona sull鈥
 
 **How it works?**
 
-Un dispositivo traduce dati provenienti da un database di siti giornalistici con notizie di omicidi. Per ogni 
-omicidio il dispositivo fa cadere una pallina sul pavimento.
+Il computer pesca, con un software dedicato, notizie di omicidi provenienti da un database di fonti giornalistiche in lingua inglese da tutto il mondo. L'algoritmo analizza il dato e il dispositivo ogni minuto spara una pallina a terra per ogni persona morta per omicidio.
 
 **What if?**
 
-Toccare delle tematiche delicate attraverso la trasposizione con oggetti fisici ci fa intendere la grandezza 
-fisica del fenomeno in questione.
+Toccare delle tematiche delicate attraverso la trasposizione con oggetti fisici di comune utilizzo, ci fa intendere la grandezza fisica del fenomeno in questione. Le questioni sollevate da questo progetto sono: la rilevanza che diamo a fatti di cronaca gravi; se il modo con cui siamo abituati a fruire le notizie sia davvero quello giusto o se c'猫 bisogno di una riorganizzazione dei mezzi che le veicolano o ancora ripensare ad un altro modo in cui le notizie importanti non finiscano nel mare di informazione che sembra essere diventata la rete.
 
 ### Reference ##
 
-**_路LED Light Painting_** </br>
-**Scott-Bott, 2011** </br>
-[link](http://scott-bot.com/led-light-painting/)
+**_路Oil_** </br>
+**Tyler Adams, 2006** </br>
+[link](http://classic.rhizome.org/portfolios/artwork/46119/)
 
-**_路Invisible Forces_** </br>
-**Anthony DeVincenzi, 2010** </br>
-[link](http://cargocollective.com/thinkwithdesign/INVISIBLE-FORCES)
+**_路No Man's Land_** </br>
+**Christian Boltanski, 2010** </br>
+[link](https://vimeo.com/12121518)
 
-**_路Making Future Magic_** </br>
-**BERG, 2010** </br>
-[link](http://berglondon.com/projects/magic/)
+**_路The Source_** </br>
+**Greyworld, 2015** </br>
+[link](http://greyworld.org/archives/31)
