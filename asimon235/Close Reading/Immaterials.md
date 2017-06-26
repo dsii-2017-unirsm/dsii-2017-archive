@@ -24,7 +24,7 @@ L’esperimento è durato 3 settimane ed è stata utilizzata la fotografia time-
 Progetti di scala urbanistica come in questo caso potrebbero servire per la rivalutazione di certi spazi rispetto a 
 ad altri per via di certe condizioni che l’uomo con i suoi sensi non riesce a percepire. Ispirazioni di questo tipo possono essere collocate all'interno di progetti in cui tecnologie invisibili e complesse possono essere contestualizzate e comunicate attraverso la visualizzazione.
 
-### Reference ##
+### Related Projects ##
 
 **_·LED Light Painting_** </br>
 **Scott-Bott, 2011** </br>
