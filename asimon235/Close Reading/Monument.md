@@ -22,7 +22,7 @@ Il computer pesca, con un software dedicato, notizie di omicidi provenienti da u
 
 Toccare delle tematiche delicate attraverso la trasposizione con oggetti fisici di comune utilizzo, ci fa intendere la grandezza fisica del fenomeno in questione. Le questioni sollevate da questo progetto sono: la rilevanza che diamo a fatti di cronaca gravi; se il modo con cui siamo abituati a fruire le notizie sia davvero quello giusto o se c'è bisogno di una riorganizzazione dei mezzi che le veicolano o ancora ripensare ad un altro modo in cui le notizie importanti non finiscano nel mare di informazione che sembra essere diventata la rete.
 
-### Reference ##
+### Related Projects ##
 
 **_·Oil_** </br>
 **Tyler Adams, 2006** </br>
