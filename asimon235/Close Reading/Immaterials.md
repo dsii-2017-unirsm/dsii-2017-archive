@@ -11,7 +11,7 @@
 
 **What does it means?**
 
-Attraverso la visualizzazione, sono state palesate alcune delle qualità delle reti WiFi e sono state confutabili come fenomeni spaziali tangibili. Questo processo di rendere i fenomeni materiali attraverso la visualizzazione mostra come le strutture digitali e gli ambienti fisici sono in relazione col paesaggio urbano.
+Attraverso la visualizzazione, sono state esplorate alcune delle qualità delle reti WiFi e sono state studiate come fenomeni spaziali tangibili. Il processo di rendere questi fenomeni "presenti" attraverso la visualizzazione mostra come le strutture digitali e gli ambienti fisici sono in relazione col paesaggio urbano.
 
 **How it works?**
 
@@ -23,3 +23,22 @@ L’esperimento è durato 3 settimane ed è stata utilizzata la fotografia time-
 
 Progetti di scala urbanistica come in questo caso potrebbero servire per la rivalutazione di certi spazi rispetto a 
 ad altri per via di certe condizioni che l’uomo con i suoi sensi non riesce a percepire. Ispirazioni di questo tipo possono essere collocate all'interno di progetti in cui tecnologie invisibili e complesse possono essere contestualizzate e comunicate attraverso la visualizzazione.
+
+### Reference ##
+
+**_·LED Light Painting_** </br>
+**Scott-Bott, 2011** </br>
+[link](http://scott-bot.com/led-light-painting/)
+
+**_·Invisible Forces_** </br>
+**Anthony DeVincenzi, 2010** </br>
+[link](http://cargocollective.com/thinkwithdesign/INVISIBLE-FORCES)
+
+**_·Making Future Magic_** </br>
+**BERG, 2010** </br>
+[link](http://berglondon.com/projects/magic/)
+
+
+
+
+
