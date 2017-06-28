@@ -7,12 +7,14 @@
 
 
 import processing.pdf.*;
+import controlP5.*;
+ControlP5 cp5;
 
 float circleRadius = 0;
 float fadeOutTime = 10000;
 float x = 1;
 float y = 1;
-
+int colore = 100;
 ArrayList <PVector> points = new ArrayList <PVector> ();
 
 
@@ -27,6 +29,9 @@ float threshold = 50;
 float diffMedio = 0;
 
 void setup() {
+  cp5 = new ControlP5(this);
+  color(0);
+  cp5.addSlider("colore").setPosition(10,10).setRange(0,255).setValue(100).setWidth(255).setHeight(15).setColorValue(color(0, 0, 0)).setColorBackground(color(156, 158, 159)).setColorValue(color(0, 0, 0)).setColorForeground(color(255));
   //frameRate(1);
   size(640, 480);
   beginRecord(PDF, "everything.pdf");
@@ -99,7 +104,8 @@ void draw() {
       float transparency = map(timeAlive, 0, fadeOutTime, 255, 0);
       fill(0, 0, 0, transparency);
       //ellipse(p.x, p.y, circleRadius, circleRadius);
-      stroke(240, 40, 220, transparency);
+      colorMode(HSB);
+      stroke(colore, 255, 255, transparency);
       strokeWeight(1);
       line(p.x, p.y, pPrima.x, pPrima.y);
       noFill();
