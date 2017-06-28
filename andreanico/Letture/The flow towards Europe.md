@@ -4,6 +4,8 @@ Anno | 2015<br>
 Designers | [Lucify](https://www.lucify.com) in collaborazione con [Ville Saarinen](https://blog.lucify.com/@vsaarinen) <br>
 Articoli | [+](https://www.lucify.com/the-flow-towards-europe/)
            [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50)
+           
+ ![FlowTE](https://i.ytimg.com/vi/_TtBscARRzo/maxresdefault.jpg)
 
 ### What’s?
 Una mappa interattiva contenente le informazioni relative al numero di richiedenti asilo nei paesi appartenenti all’Unione Europea.
@@ -24,49 +26,17 @@ La stessa Lucify evidenzia alcune “lacune” presenti nella rappresentazione d
 Sarebbe interessante offrire ai fruitori di questa infografica delle ulteriori informazioni come il sesso e l’età dei migranti e la motivazione per la quale avviene l’espatrio. Questo potrebbe servire ad individuare e prevenire alcuni trend negativi attuando politiche differenti.
 
 ## Related project
-### Minimum Monument
+### #Safe passage
 
-Anno | 2005<br>
-Designer | [Nele Azevedo](https://www.neleazevedo.com.br/)<br>
-Video | [+](https://vimeo.com/17558001)<br>
-Articoli | [+](http://www.silkeborgbad.dk/en/exhibitions/future-exhibitions/minimum-monument.html) 
-[+](http://www.arch2o.com/the-minimum-monument-project-nele-azevedo/) 
-[+](http://publicinstallationart.altervista.org/minimum-monument-nele-azevedo/) 
+Anno | 2016<br>
+Designer | [Ai Weiwei](http://aiweiwei.com/)<br>
+Video | [+](http://edition.cnn.com/videos/world/2016/02/15/germany-weiwei-art-life-jackets-pkg-shubert.cnn)<br>
+Articoli | [+](http://edition.cnn.com/2016/02/14/arts/ai-weiwei-berlin-life-jackets/index.html) 
+[+](hhttp://www.thisiscolossal.com/2016/02/ai-weiwei-konzerthaus-refugee-life-vests/) 
+[+](https://theculturetrip.com/europe/germany/articles/ai-weiwei-covers-berlins-konzerthaus-in-refugee-life-jackets/) 
 
-![Minimum monument](http://publicinstallationart.altervista.org/wp-content/uploads/2015/12/min2.jpg)
+![life jacket](http://i.cdn-vita.it/blobs/variants/7/9/f/a/79fa5b39-b236-42df-8fc6-00d7e148ee20_large.jpg?_636294143532975143)
 
-Realizzata dall'artista brasiliana Nele Azevedo, _"Minimum Monument"_ pone l'accento sul ruolo della scultura all'interno delle città contemporanee.
-Un intervento urbano di natura impermanente che, oltre a modificare l'aspetto e la funzione dello spazio che lo accoglie, sottolinea come la scultura – nel suo celebrare personaggi ed eroi del passato – si dimentichi del tutto dell'uomo comune, vero protagonista di ogni città.
-Centinaia di omini di ghiaccio divenuti per gli ambientalisti di tutto il mondo un simbolo nella lotta al cambiamento climatico, anche se quest'opera d'arte si presta a varie letture.<br>
-_"Il problema della scomparsa smuove la gente… e per la nostra cultura è fondamentale capire che siamo mortali”_<br>
-Nele Azevedo
-
-### Nantes Triptych
-
-Anno | 1992<br>
-Luogo | Tate Gallery, London (U.K.)<br>
-Designers | [Bill Viola](http://www.billviola.com/)<br>
-Video | [+](https://www.youtube.com/watch?v=vz312dtUP5s)<br>
-Articoli | [+](https://www.artfund.org/supporting-museums/art-weve-helped-buy/artwork/5383/nantes-triptych-bill-viola) 
-[+](http://atkjoel.blogspot.com/2010/03/bill-viola-video-artist-heaven-and.html) 
-
-![NantesP](http://www.artribune.com/wp-content/uploads/2012/11/08.-Bill-Viola-Nantes-Triptych-1992-Photo-Kira-Perov.jpg)
+Ai Weiwei ha realizzato un'installazione sulle cinque colonne della facciata del _Konzerthaus_ di Berlino, una raccolta di 14.000 giubbotti di salvataggio appartenenti ai rifugiati sbarcati sull'isola greca di Lesbo (Grecia), dopo aver battuto il Mar Mediterraneo dalla Turchia. L'installazione di un arancione brillante, vuole richiamare l'attenzione sulle centinaia di rifugiati che cercano di raggiungere l'Europa ogni giorno. Anche se migliaia di giacche di salvataggio possono essere viste a Berlino, altre migliaia rimangono sulle rive dell'isola greca, indicando il numero di rifugiati che hanno attraversato l'isola. I salvagente, solitamente di cattiva qualità, vengono fabbricati nelle industrie tessili in Turchia e i trafficanti li vendono a prezzo alto ai migranti prima di cominciare la traversata.
 
 
-Nel _"Triptych di Nantes"_, Bill Viola mostra tre diversi video in un'installazione che si concentra sulla vita e sulla morte. Il primo video riguarda la nascita di un bambino. È uno sguardo intimo nella bellezza della nascita e della vita. Questo concetto viene sovrastato da un video relativo alla morte. Il girato vede la madre dell'artista sul letto di morte, nei suoi ultimi momenti di vita. Era stata colpita da una malattia terminale e alla fine si affogò. In un documentario intitolato _"L'occhio del cuore",_ Bill Viola parla della morte di sua madre e della sua decisione di filmare questa esperienza profonda e intima. Dice che la ripresa della madre nel processo di morte è stata emotivamente la più difficile esperienza che ha dovuto affrontare. La malattia di sua madre lo mandò in dolore per 5 mesi in cui si rifiutò di affrontare qualsiasi altra opera. Il terzo video dell'installazione è collocato tra la nascita e la morte. Questo video descrive un uomo nudo che galleggia sott'acqua, metafora che lega i due concetti (la vita e la morte).
-Il titolo _"Nantes Triptych"_ si riferisce allo stile in cui visualizza il lavoro. Il trittico è stato utilizzato in molte opere rinascimentali e sono tre immagini affiancate, il centro è il fuoco. Questi tre video insieme fanno un pezzo su tre aspetti contrastanti della vita.
-
-### Jsut code
-
-Anno | 2010<br>
-Luogo | Hong Kong<br>
-Designers | [Winnie Soon](http://siusoon.net/home/) and [Helen Pritchard](http://www.gold.ac.uk/sociology/staff/pritchard-helen/)<br>
-Video | [+](https://vimeo.com/90781011)<br>
-Articoli | [+](http://arts.au.dk/en/news-and-events/news/show/artikel/there-are-always-research-elements-in-my-artworks/) 
-[+](http://www.gold.ac.uk/news/jsut-code/) 
-
-![jsut code](http://www.gold.ac.uk/media/images-by-section/about-us/news/JsutCode1.jpg)
-
-Questa installazione invita i partecipanti a decodificare i testi elettronici scritti e letti da umani e non umani.
-Partendo dalla ricerca su _Twitter_ dei messaggi contenenti le parole "vita" e "morte", Soon e Pritchard hanno poi creato archivi anonimi per ogni parola e hanno trasformato i messaggi in muri enormi di codici QR da leggere dai visitatori attraverso i lettori dal telefono.
-L'installazione viene aggiornata in modo continuo in relazione ai nuovi tweet scritti. Una macchina traduce poi il testo in codice QR, il quale sarà poi decodificato dagli utenti.
