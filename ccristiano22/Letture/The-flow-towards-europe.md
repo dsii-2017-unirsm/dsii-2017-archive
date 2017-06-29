@@ -26,12 +26,12 @@ Potrebbe essere interessante poter includere all’interno della timeline una co
 
 ### International Migration Flows ###
 
-![alt text]()
-Anno - 2015
+![alt text](http://i.imgur.com/eUlq9mV.jpg)
+Anno - 2011
 
 Design - [Steven Vertovec](http://www.mmg.mpg.de/departments/socio-cultural-diversity/scientific-staff/prof-dr-steven-vertovec/)
 
 Progetto - [The flow towards Europe](http://flow.mmg.mpg.de)
 
-Visualizzatore
+Visualizzatore grafico dati per lo studio della diversità religiosa e etnica
 
