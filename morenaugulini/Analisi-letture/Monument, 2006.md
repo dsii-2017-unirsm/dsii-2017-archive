@@ -10,8 +10,8 @@ Il congegno a cui fa capo cerca automaticamente i titoli delle principali notizi
 L’opera, realizzata nel 2006, pone lo spettatore - ignaro del suo significato - al centro di una stanza priva di segnali o spiegazioni, sul cui soffitto è appeso un cubo trasparente pieno di minuscole palline gialle che, a cadenza imprecisata, cadono a terra. 
 Le palline gialle rappresentano le vittime di omicidi, ma i visitatori lo apprendono solo in un secondo momento, inizialmente attratti dall’aspetto apparentemente ludico del congegno. Le piccole sfere, staccandosi dalla scatola rotolano a terra, rappresentando non solo l’evento criminoso in sé, ma anche la “notizia” della morte. 
 Appreso trattarsi di vittime di omicidi, agli occhi degli spettatori le palline perdono il loro significato ludico per acquistarne uno etico: le palline cadono a terra con preoccupante frequenza, in mille direzioni diverse e con traiettorie prive di senso, come gli eventi criminosi che rappresentano. 
-Questa installazione permette di constatare in tempo reale il numero degli omicidi commessi in base alle notizie estrapolate dal congegno a cui fa capo, ma – su piano concettuale – rappresenta un “monumento” alla memoria dei caduti della violenza priva di senso. 
-La caduta continua delle palline gialle rende l’installazione un’opera dinamica che consacra le vittime di omicidi, le quali dopo essere tristemente assurte ai titoli di cronaca nera, tornano – nell’indifferenza generale - al loro uniforme anonimato.  
+Questa installazione permette di constatare in tempo reale il numero degli omicidi commessi in base alle notizie estrapolate dal congegno a cui fa capo, ma - su piano concettuale - rappresenta un “monumento” alla memoria dei caduti della violenza priva di senso. 
+La caduta continua delle palline gialle rende l’installazione un’opera dinamica che consacra le vittime di omicidi, le quali dopo essere tristemente assurte ai titoli di cronaca nera, tornano - nell’indifferenza generale - al loro uniforme anonimato.  
 La caduta a terra delle palline si configura inizialmente come un gioco fino a quando il fruitore non ne scopre il terribile reale significato. Da questo punto di vista l'installazione non ha un’immediatezza comunicativa, in quanto obbliga il fruitore a compiere uno sforzo intellettivo per coglierne il senso effettivo.
 L’intero congegno richiama provocatoriamente l’attenzione sull’atteggiamento di comune rassegnazione o addirittura di indifferenza della società contemporanea difronte all’inarrestabile susseguirsi delle notizie di cronaca nera riguardanti l’uccisione di persone.
  
@@ -53,8 +53,8 @@ Cosa succederebbe, infine, se venisse data, prima dell’accesso del visitatore,
      
 •	*Au Panthéon  JR* [+](http://www.jr-art.net/projects/inside-out-au-pantheon)<br>
 ![gdocP5](http://i.imgur.com/fck1fyo.jpg)<br>
-L'artista francese JR termina la sua installazione “Au Panthéon” al Panthéon di Parigi, un tempio laico che contiene i resti di illustri
-e storici cittadini francesi. Centinaia di ritratti in bianco e nero raccolti nel mese di marzo installati formando un collage che ricopre pavimento e parte del soffitto del tempio. 
+L'artista francese JR crea la sua installazione “Au Panthéon” al Panthéon di Parigi, un tempio laico che contiene i resti di illustri
+e storici cittadini francesi. Centinaia di ritratti in bianco e nero raccolti ed installati formano un collage che ricopre pavimento e parte del soffitto del tempio. 
     
  
 •	*Memoriale per gli ebrei assassinati d'Europa* [+](https://it.wikipedia.org/wiki/Memoriale_per_gli_ebrei_assassinati_d%27Europa)<br> 
@@ -64,13 +64,13 @@ e storici cittadini francesi. Centinaia di ritratti in bianco e nero raccolti ne
 
 •	*Maurizio Mochetti, Palle, 1988* [+](http://www.mauriziomochetti.it/portfolio/palle/)<br>
 ![gdocP5](http://i.imgur.com/ZPiLi0N.jpg)<br>
-Una linea di luce laser è proiettata lungo un perimetro orizzontalmente. Sfere di diverse dimensioni sono disposte su di un piano all’interno dell’area perimetrale e intercettano la luce frammentando la proiezione della linea di luce laser.
+Una linea di luce laser è proiettata lungo un perimetro orizzontalmente. Sfere di diverse dimensioni sono disposte su un piano all’interno dell’area perimetrale e intercettano la luce frammentando la proiezione della linea.
 
 
 
 •	*Installazione cinetica al World Expo Shanghai nel 2010 in China.* [+](http://www.notcot.org/post/34651/Video-of-FTSIs-Ball-Grid-Array-kinetic-installation-in-/)<br>
 ![gdocP5](http://i.imgur.com/GfPpGwJ.jpg)<br>
-Una linea di luce laser è proiettata lungo un perimetro orizzontalmente. Sfere di diverse dimensioni sono disposte su di un piano all’interno dell’area perimetrale e intercettano la luce frammentando la proiezione della linea di luce laser.
+
 
 
 •	*BMW Kinetic sculpture* [+](http://www.coolhunting.com/culture/bmw-kinetic-scu)<br>
