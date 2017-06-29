@@ -52,14 +52,13 @@ Design — Stan's Cafe
 Progetto - [Stats with Rice](http://www.stanscafe.co.uk/project-of-all-the-people.html)
 
 I designer del gruppo Stan's Cafe dal 2004 stanno cercando di creare dei "data landscapes" ovvero dei pesaggio creati attraverso dei dati.
-Stats with Rice rappresenta un progetto "errante" che attraversa varie città, sfruttando il riso come unita per rappresentare dati.
-Ogni grano di riso rappresenta una persona, esso poi viene acumolato in cumoli, i quali possono rappresentare diferenti tipologie di dato:
-
-* le popolazioni di città e città
-* il numero di medici, il numero di soldati
-* il numero di persone nate ogni giorno, il numero che muore
-* tutte le persone che hanno camminato sulla luna
-* morti nell'olocausto
+Stats with Rice rappresenta un progetto "errante" che visita diverse città, che sfruttando il riso come unita per la rappresentazione di dati.
+Ogni grano di riso rappresenta una persona, essi poi viengono ammassati in cumoli, i quali possono rappresentare diferenti tipologie di dato:
+* Le popolazioni di città e città
+* Il numero di medici, il numero di soldati
+* Il numero di persone nate ogni giorno e il numero di persone che muore
+* Tutte le persone che hanno camminato sulla luna
+* I morti durante l'olocausto
 
 Stats with Rice non rappresenta solo una modalità per la rappresentazione di dati o un paesaggio creato da dati, ma un monumento che testimonia la mole e il volume di un evento, quantificati attraverso i cumoli di riso.
 
