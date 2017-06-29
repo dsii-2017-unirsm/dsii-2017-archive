@@ -33,5 +33,5 @@ Design - [Steven Vertovec](http://www.mmg.mpg.de/departments/socio-cultural-dive
 
 Progetto - [International Migration Flows](http://flow.mmg.mpg.de)
 
-Visualizzatore grafico dati per lo studio dei flussi di micrazione
+Visualizzatore grafico dati per lo studio dei flussi di migrazione
 
