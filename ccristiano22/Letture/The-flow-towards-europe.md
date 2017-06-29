@@ -33,8 +33,7 @@ Design - [Steven Vertovec](http://www.mmg.mpg.de/departments/socio-cultural-dive
 
 Progetto - [International Migration Flows](http://flow.mmg.mpg.de)
 
-International Migration Flows è un visualizzatore grafico per lo studio dei flussi migratori nel mondo.
-L'obbiettivo del porgetto è creare una visualizazzione interattiva per esplorare e studiare i flussi migratori nel mondo, attraverso la selezione di un paese e verificare i flussi da esso verso altri paesi dal 1970 al 2007. 
+International Migration Flows è un visualizzatore grafico interattivo per esplorare e studiare i flussi migratori nel mondo dal 1970 al 2007.
 
 ### Mapping the World's Immigration Flows, Country-by-Country ###
 
@@ -44,8 +43,7 @@ Anno - 2016
 Progetto - [](http://metrocosm.com/global-immigration-map/)
 
 Questa mappa mostra l'immigrazione netta stimata per paese di origine e destinazione tra il 2010 e il 2015.
-Cerchi blu rappresentano la migrazione netta positiva (più afflussi)mentre i cerchi rossi la migrazione netta negativa (più deflussi).
-I punti gialli rappresentano la migrazione di 1000 persone.
+Cerchi blu rappresentano la migrazione netta positiva (più afflussi)mentre i cerchi rossi la migrazione netta negativa (più deflussi). I punti gialli rappresentano la migrazione di 1000 persone.
 Spostndo il mouse su i cerchi si visualizza la migrazione totale netta di per paese.
 Facendo clic su un cerchio si visualizzaranno solo i flussi migratori dentro e fuori quel paese.
 
