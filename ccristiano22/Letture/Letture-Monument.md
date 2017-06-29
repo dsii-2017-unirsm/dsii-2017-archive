@@ -27,3 +27,12 @@ Ciò ci consentirebbe di identificare in che quantità tra uomini donne e bambin
 In alternativa il codice cromatico potrebbe anche definire la tipologia di morte: assassinio, suicidio, morte naturale, eutanasia, morte accidentale o morte bianca.
 
 ## Altri Progetti ##
+### Mount Fear: Elevation Map of Crime Rates ###
+
+![alt text]()
+
+Anno - 2003 
+
+Design — Abigail Reynolds
+
+Progetto - [Mount Fear](http://www.abigailreynolds.com/works/44/mount-fear-east-london/#)
