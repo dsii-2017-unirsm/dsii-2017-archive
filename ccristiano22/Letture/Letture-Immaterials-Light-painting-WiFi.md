@@ -1,5 +1,7 @@
 # Immaterials: Light painting WiFi #
 
+http://i.imgur.com/WBk8VGZ.jpg
+
 Anno - 2012
 
 Design — Timo Arnall,Jørn Knutsen and Einar Sneve Martinussen
