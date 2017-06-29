@@ -1,8 +1,6 @@
 # Immaterials: Light painting WiFi #
 
 ![alt text](http://i.imgur.com/WBk8VGZ.jpg)
-![alt text](http://i.imgur.com/eDqQD1C.jpg)
-![alt text]()
 
 Anno - 2012
 
@@ -33,6 +31,8 @@ la quantità di tempo e la potenza delle onde elettromagnetiche a cui siamo sott
 
 #### Immaterials: Ghost in the Field ####
 
+![alt text](http://i.imgur.com/eDqQD1C.jpg)
+
 Anno - 2009 
 
 Design — Timo Arnall, Jack Schulze & Einar Sneve Martinussen 
@@ -41,6 +41,8 @@ Video - [Ghost in the Field](https://vimeo.com/7022707)
 
 
 #### Immaterials: Satellite Lamps ####
+
+![alt text](http://i.imgur.com/Hob3UNR.jpg)
 
 Anno - 2014
 
