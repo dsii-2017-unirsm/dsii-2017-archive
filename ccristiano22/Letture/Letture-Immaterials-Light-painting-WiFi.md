@@ -54,7 +54,8 @@ Video - [Satellite Lamps](https://vimeo.com/97054557)
 
 Satellite Lamps è un progetto che rivela una delle più significative infrastrutture tecnologiche contemporanee, il Global Positioning System (GPS). 
 Attraverso delle lampade posizionate in vari punti della città, si vuole esplorare le realtà culturali e materiali della tecnologia GPS e sviluppare nuove idee per la progettazione.
-Le lampade si illuminano in base alla qualità del segnale GPS ricevuto dai satelliti, la variazione di luce viene caturata da una macchina fotografica attraverso un timelapse, i fotogrammi successivamente andranno a comporre il video del porgetto.
+Le lampade si illuminano in base alla qualità del segnale GPS ricevuto dai satelliti, la variazione di luce viene caturata  attraverso timelapse.
+Il timelapse utilizzato per il video, mostra la variazione del segnale e come questo cambia in base alla qualità e alla presenza di satelliti intorno a noi.
 
 
 
