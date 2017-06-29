@@ -23,3 +23,15 @@ Aumentando la velocità della timeline si evidenzia ancor di più al quantità i
 La timeline mostra un grafico semplificato della portata del flusso migratorio mostrando un profilo che descrive sinteticamente la portata del flusso, mostrando picchi e momenti di stasi.
 Potrebbe essere interessante poter includere all’interno della timeline una componete informativa, relativa alle cause che portano all’accelerazione improvvisa del flusso migratorio, ad esempio: un particolare evento, che a costretto una determinata popolazione alla fuga.
 
+
+### International Migration Flows ###
+
+![alt text]()
+Anno - 2015
+
+Design - [Steven Vertovec](http://www.mmg.mpg.de/departments/socio-cultural-diversity/scientific-staff/prof-dr-steven-vertovec/)
+
+Progetto - [The flow towards Europe](http://flow.mmg.mpg.de)
+
+Visualizzatore
+
