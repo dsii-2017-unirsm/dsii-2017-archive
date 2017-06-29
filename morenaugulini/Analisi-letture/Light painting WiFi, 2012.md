@@ -52,8 +52,8 @@ A quel punto (che ci auguriamo non debba arrivare mai) la mappatura della zona d
      
 •	*Digital ethereal* [+](http://www.digitalethereal.com/)
 ![gdocP5](http://i.imgur.com/pzf7sUu.jpg)<br>
-Con Digital ethereal Il progettista Luis Hernan ha deciso di catturare il segnale invisibile del Wi-Fi, 
-utilizzando una combinazione creativa di fotografia a lunga esposizione e un app Android. 
+Con Digital ethereal il progettista Luis Hernan ha deciso di catturare il segnale invisibile del Wi-Fi, 
+utilizzando una combinazione creativa di fotografia a lunga esposizione e un'app Android. 
     
 
 •	*Wi-Fi e suono* [+](https://creators.vice.com/it/article/this-man-can-hear-wi-fi)
@@ -64,10 +64,10 @@ di sentire i segnali Wi-Fi.
 
 •	*Blue Umbrellas* [+](http://designtaxi.com/news/361590/In-London-A-Giant-WiFi-Providing-Canopy-Made-Of-500-Blue-Umbrellas/)<br> 
 ![gdocP5](http://i.imgur.com/Zub7gon.jpg)<br>
-Installazione con ombrelli blu che rappresentano in maniera fisica il wifi presente nel centro commerciale.
+Installazione con ombrelli blu i quali rappresentano in maniera fisica il wifi presente nel centro commerciale.
 
 
 
 •	*Sibling* [+](https://www.dezeen.com/2013/11/11/siblings-wifi-blocking-onoff-installation-creates-a-disconnected-cold-spot/)<br>
 ![gdocP5](http://i.imgur.com/17FeUOY.jpg)<br>
-Sibling è un progetto presentato all’ Università di Melbourne, caratterizzato da un recinto elettrificato che blocca i segnali elettromagnetici crea un “punto freddo” ovvero un punto dove il wifi non è percepibile.
+Sibling è un progetto presentato all’Università di Melbourne, caratterizzato da un recinto elettrificato che blocca i segnali elettromagnetici creando un “punto freddo” ovvero un punto dove il wifi non è percepibile.
