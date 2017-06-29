@@ -29,7 +29,7 @@ la quantità di tempo e la potenza delle onde elettromagnetiche a cui siamo sott
 
 ## Altri progetti ##
 
-#### Immaterials: Ghost in the Field ####
+### Immaterials: Ghost in the Field ###
 
 ![alt text](http://i.imgur.com/eDqQD1C.jpg)
 
@@ -40,7 +40,7 @@ Design — Timo Arnall, Jack Schulze & Einar Sneve Martinussen
 Video - [Ghost in the Field](https://vimeo.com/7022707)
 
 
-#### Immaterials: Satellite Lamps ####
+### Immaterials: Satellite Lamps ###
 
 ![alt text](http://i.imgur.com/Hob3UNR.jpg)
 
