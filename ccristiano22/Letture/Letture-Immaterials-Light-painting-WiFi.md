@@ -1,6 +1,6 @@
 # Immaterials: Light painting WiFi #
 
-http://i.imgur.com/WBk8VGZ.jpg
+![alt text](http://i.imgur.com/WBk8VGZ.jpg)
 
 Anno - 2012
 
