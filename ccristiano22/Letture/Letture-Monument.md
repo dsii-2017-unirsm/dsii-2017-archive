@@ -1,8 +1,8 @@
 # Monument #
 
-Anno - 2006
-
 ![alt text](http://i0.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_03.jpg)
+
+Anno - 2006
 
 Design — [Caleb Larsen](http://caleblarsen.com)
 
