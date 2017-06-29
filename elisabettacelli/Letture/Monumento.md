@@ -1,17 +1,21 @@
-# Monumento 2006, Caleb Larsen
+# Monumento, Caleb Larsen, 2006
 
-## Cosa è
+![gdocP5](http://i.imgur.com/8ruPUY7.jpg)   
+![gdocP5](http://i.imgur.com/1TkFdm4.jpg)   
+[+](http://caleblarsen.com/monument/)   
 
-È un’istallazione composta da un cubo di plastica al cui interno si trovano delle palline gialle, che mostra gli omicidi commessi in tutto il mondo.
+## What is
 
-## Come funziona
+È un’istallazione d’arte composta da una scatola in acrilico trasparente posta sul soffitto che contiene 100.000 palline di plastica gialle che , attraverso un meccanismo cadono a terra
 
-Questa istallazione analizza diversi titoli di differenti fonti ricercando tutti le personoe che sono state uccise, ad ogni persona trovata l’istallazione lascia cadere una pallina.
+## What does it mean
 
-## Cosa significa
+Ogni pallina significa la vita di una persona, una pallina caduta rappresenta una persona deceduta. Nella sua semplicità risulta essere un’istallazione di forte impatto. Non a caso le vittime sono rappresentate come palline cadute, ogni e il pavimento diventa così un cimitero e gli utenti che usufruiscono di questa istallazione camminano intorno alle vittime.
 
-Ogni pallina significa la vita di una persona, una pallina caduta rappresenta una persona deceduta. Nella sua semplicità risulta essere un’istallazione di forte impatto.
+## How it works
 
-## E se
+Attraverso un algoritmo che analizza le testate dei giornali online, analizzando prevalentemente le notizie riguardanti gli omicidi, il meccanismo lascia cadere tante palline quante la vittime riportate nell’articolo.
+
+## What if
 
 Se l’istallazione fosse più chiara l’utente potrebbe capire immediatamente tuto il ragionamento importante del progetto, così invece si ritrova in una stanza di “caduti” vedendo però solo una marea di palline sul pavimento.
