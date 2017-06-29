@@ -10,52 +10,57 @@
 // Credits to Zach Spitulski, UCLA Version 0.3, "photoCOLLAGE"
 
 
+
 PImage[] images = new PImage[6];
 int caso;
 int dove;
 
-//int N = 10;// numero immagini all'interno delle cartelle
+//int N = 10; // numero immagini all'interno delle cartelle
 
 
 void setup() {
 
-  String[] dirdata = new String[3];
+  String[] dirdata = new String[3];   //righe= cartelle 
   dirdata[0] = "data1";
   dirdata[1] = "data2";
   dirdata[2] = "data3";  
 
 
-String pathGlobal = dataPath("");
-println(pathGlobal);
+String pathGlobal = dataPath(""); //percorso globale per entrare nella cartella data
+println(pathGlobal); //mi stampa il percorso per arrivare alla cartella data
 
-String[][] filedata = new String[dirdata.length][]; //due array
+String[][] filedata = new String[dirdata.length][]; //array multidimensionali/ matrice - tabella ordinata di elementi 
 
-if ( !doesFolderExist(pathGlobal) ) {
+if ( !doesFolderExist(pathGlobal) ) { //!(logica NOT)in processing il punto esclamativo è la negazione
 println ("non esiste la cartella data");
 exit();
       
 } else {
 
-  for (int i = 0; i < dirdata.length; i++) {    
+  for (int i = 0; i < dirdata.length; i++) {  //mi prende una cartella per volta (dirdata)   
 //println ("Esiste la cartella " + dirdata[i]);
 
 
-File dir = new File( pathGlobal + "/" + dirdata[i]);
-//println ("dir " + dir + "\n");
+File dir = new File( pathGlobal + "/" + dirdata[i]); 
+//crea un nuovo file con il percorso globale/il nome della cartella data1 - ecc a seconda del ciclo
+
+//println ("dir " + dir + "\n");  //\n serve nel print per andare a capo
       
 File[] namesFiles = dir.listFiles();
+
 if (namesFiles == null) { // < non ci sono file nella cartella
 println("no file found"); 
 exit();
       
 } else {
-filedata[i] = new String[namesFiles.length];
+
+filedata[i] = new String[namesFiles.length]; //colonna cartella + nome cartella = nuova stringa con i nomi dei file
 for (int j = 0; j < namesFiles.length; j++) {
     
 //if (fileIsOK(namesFiles[j].getAbsolutePath() )) { // se è un tipo di file png o jpg
         
-String filename = namesFiles[j].getAbsolutePath(); // trova il nome e path
-filedata[i][j] = filename;
+String filename = namesFiles[j].getAbsolutePath(); // trova il nome e path 
+filedata[i][j] = filename; //colonna cartella
           
 //println(filedata[i][j]);
         
@@ -134,8 +139,8 @@ void scegliDue(String[] dir, int idA, int idB, String[] seiImgs ) {
   while (dado1 == dado2) { // < quindi se è uscito lo stesso numero, la stessa faccia del dado... continuiamo ad estrarre finché non è diverso! :-)
     dado2 = (int)random(dir.length);
   }
-  //seiImgs[idB] = dir[(int)random(dir.length)]; // < lo mettiamo nel posto idB del nostro array ! ci va dado2 non un altro random, poichè non siamo sicuri che sia diverso da dado1
-  seiImgs[idB] = dir[dado2];
+  //seiImgs[idB] = dir[(int)random(dir.length)]; // < lo mettiamo nel posto idB del nostro array !!!! ci va dado2 non un altro random, poichè non siamo sicuri che sia diverso da dado1
+    seiImgs[idB] = dir[dado2];
 }
 
 
@@ -143,11 +148,11 @@ boolean doesFolderExist(String strPath) { // < è VERO se esiste la cartella
   File folderPath = new File (strPath);
   boolean Buffer = folderPath.exists();
   folderPath = null; 
-  return ( Buffer );
+  return ( Buffer ); //buffer può esistere o non esistere / vero o falso
 }
 
 /*
-boolean fileIsOK (String name) { // < è vero se è un file PNG o JPG
+boolean fileIsOK (String name) { // < è vero se è un file PNG
 
   if (name==null) { 
     return false; // not ok
