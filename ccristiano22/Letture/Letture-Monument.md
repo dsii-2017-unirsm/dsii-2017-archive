@@ -2,7 +2,7 @@
 
 Anno - 2006
 
-http://i0.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_03.jpg
+![alt text](http://i0.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_03.jpg)
 
 Design — [Caleb Larsen](http://caleblarsen.com)
 
