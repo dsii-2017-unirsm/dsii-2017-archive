@@ -33,7 +33,8 @@ Design - [Steven Vertovec](http://www.mmg.mpg.de/departments/socio-cultural-dive
 
 Progetto - [International Migration Flows](http://flow.mmg.mpg.de)
 
-Visualizzatore grafico dati per lo studio dei flussi di migrazione
+International Migration Flows è un visualizzatore grafico per lo studio dei flussi migratori nel mondo.
+L'obbiettivo del porgetto è creare una visualizazzione interattiva per esplorare e studiare i flussi migratori nel mondo, attraverso la selezione di un paese e verificare i flussi da esso verso altri paesi dal 1970 al 2007. 
 
 ### Mapping the World's Immigration Flows, Country-by-Country ###
 
