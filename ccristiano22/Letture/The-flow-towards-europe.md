@@ -31,7 +31,7 @@ Anno - 2011
 
 Design - [Steven Vertovec](http://www.mmg.mpg.de/departments/socio-cultural-diversity/scientific-staff/prof-dr-steven-vertovec/)
 
-Progetto - [The flow towards Europe](http://flow.mmg.mpg.de)
+Progetto - [International Migration Flows](http://flow.mmg.mpg.de)
 
-Visualizzatore grafico dati per lo studio della diversità religiosa e etnica
+Visualizzatore grafico dati per lo studio dei flussi di micrazione
 
