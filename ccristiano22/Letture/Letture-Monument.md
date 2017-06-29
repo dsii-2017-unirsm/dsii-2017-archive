@@ -29,10 +29,14 @@ In alternativa il codice cromatico potrebbe anche definire la tipologia di morte
 ## Altri Progetti ##
 ### Mount Fear: Elevation Map of Crime Rates ###
 
-![alt text]()
+![alt text](http://i.imgur.com/rv359e1.jpg)
 
 Anno - 2003 
 
 Design — Abigail Reynolds
 
 Progetto - [Mount Fear](http://www.abigailreynolds.com/works/44/mount-fear-east-london/#)
+
+Una mappa 3D della porzione Est di Londra, in cui viene rappresentato il tasso di crimini violenti tra il 2002 e il 2003.
+L'elevazione dei della mappa rappresenta i punti con il tasso di criminalità più elevato.
+Mount Fear rappresenta un monumento scolpito dalla violenza, ma anche il paesaggio nascosto di London Est.
