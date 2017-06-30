@@ -55,8 +55,8 @@ boolean font2 = false;
 boolean font3 = false;
 
 void setup() {
-  //fullScreen();
-  size(1024, 800);
+  fullScreen();
+  //size(1024, 800);
   pixelDensity(displayDensity());
 
 //carica testo
