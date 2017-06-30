@@ -1,3 +1,3 @@
-## 10PRINT ##
+## 10_PRINT ##
 
-Variazioni e sketch dell'algoritmo 10PRINT su Processing
+Variazioni e sketch dell'algoritmo 10PRINT su Processing e P5.js

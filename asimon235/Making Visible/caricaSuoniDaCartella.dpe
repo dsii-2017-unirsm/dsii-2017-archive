@@ -1,0 +1,64 @@
+// funzione ispirata al lavoro di jabelone per la discussione su
+// https://forum.processing.org/two/discussion/1883/how-to-make-minim-play-a-list-of-songs
+
+void caricaSuoniDaCartella() {
+  // FUNZIONE PER CARICARE TUTTI I FILE AUDIO DELLA CARTELLA NELL'ARRAYLIST player
+  // carica dalla cartella "data/"
+  String pathGlobal = dataPath("");
+  if ( !doesFolderExist(pathGlobal) ) { // < se non esiste la cartella esce
+    folderDoesExist=false;
+    println ("non esiste la cartella data/");
+    exit();
+  } else {                               // se invece esiste
+    println ("folder Exists");
+    folderDoesExist=true;
+  }
+  if (folderDoesExist) { // < carica tutti i file audio nell'arrayList player
+    File dir = new File( pathGlobal );
+    println ("dir "+dir+"\n"); 
+    File[] namesFiles = dir.listFiles();
+    if (namesFiles==null) { // < non ci sono file nella cartella
+      println("no file found - ###############++++++++"); 
+      exit();
+    } else {
+      for (int i = 0; i < namesFiles.length; i++) { // CARICALI TUTTI se audio...
+        if (fileIsOK(namesFiles[i].getAbsolutePath() )) { // se è un tipo di file audio
+          String nameFile = namesFiles[i].getAbsolutePath(); // trova il nome e
+          player.add(minim.loadFile(nameFile)); // < carica il file audio
+          // OCCHIO CHE CARICA IN ORDINE ALFABETICO I FILE... consiglio di nominare i file 
+          // 00_.., 01_.., ... in modo da ordinare per bene.
+        } 
+        else
+        {
+          println ("skipped "+namesFiles[i]); // < non è un file audio quindi saltato
+        } 
+      } 
+    }
+  }
+}
+
+boolean doesFolderExist(String strPath) { // < è VERO se esiste la cartella
+  File folderPath=new File (strPath);
+  boolean Buffer = folderPath.exists();
+  folderPath = null; 
+  return ( Buffer );
+} 
+
+boolean fileIsOK (String name) { // < è vero se è un fie audio...
+  // AudioPlayer: playback of WAV, AIFF, AU, SND, and MP3 files.
+  if (name==null) { 
+    return false; // not ok
+  }
+  name=trim(name);
+  if (name.equals("")) return false;  
+  if (name.substring (  name.length()-4 ).equals (".MP3")  ) return true; 
+  if (name.substring (  name.length()-4 ).equals (".mp3")  ) return true; 
+  if (name.substring (  name.length()-4 ).equals (".WAV")  ) return true;
+  if (name.substring (  name.length()-4 ).equals (".wav")  ) return true;
+  if (name.substring (  name.length()-5 ).equals (".aiff") ) return true;
+  if (name.substring (  name.length()-3 ).equals (".au")   ) return true;
+  if (name.substring (  name.length()-4 ).equals (".SND")  ) return true;
+  if (name.substring (  name.length()-4 ).equals (".snd")  ) return true;
+  // when no extension matched:   
+  return false; // not ok
+} // func 
