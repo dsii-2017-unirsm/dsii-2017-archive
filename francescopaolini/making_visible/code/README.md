@@ -1,3 +1,7 @@
 _(...in progress)_  
 
-sperimentazione sul codice
+synesketch
+kaleidok
+eclipse
+
+sperimentazione
