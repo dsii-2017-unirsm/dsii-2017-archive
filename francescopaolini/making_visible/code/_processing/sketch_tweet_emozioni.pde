@@ -1,6 +1,7 @@
-// Demo for educational purpose, course DSII 2016 @ UniRSM
-// Mod by @Fupete for @MCSotgiu project, MIT License 2016
-// Based on official search_twitter_new demo by Temboo
+// Demo for educational purpose, course DSII 2017 @ UniRSM
+// @francescopaolini, MIT License 2016
+// Based on official search_twitter_new demo by Temboo 
+// and Mod by @Fupete for @MCSotgiu project
 // 
 // Built Using Temboo 
 // Originally based off of Temboo Examples at:
