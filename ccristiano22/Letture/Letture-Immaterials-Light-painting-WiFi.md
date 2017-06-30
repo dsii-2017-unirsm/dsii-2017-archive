@@ -1,5 +1,7 @@
 # Immaterials: Light painting WiFi #
 
+![alt text](http://i.imgur.com/WBk8VGZ.jpg)
+
 Anno - 2012
 
 Design — Timo Arnall,Jørn Knutsen and Einar Sneve Martinussen
@@ -27,7 +29,9 @@ la quantità di tempo e la potenza delle onde elettromagnetiche a cui siamo sott
 
 ## Altri progetti ##
 
-#### Immaterials: Ghost in the Field ####
+### Immaterials: Ghost in the Field ###
+
+![alt text](http://i.imgur.com/eDqQD1C.jpg)
 
 Anno - 2009 
 
@@ -35,14 +39,24 @@ Design — Timo Arnall, Jack Schulze & Einar Sneve Martinussen
 
 Video - [Ghost in the Field](https://vimeo.com/7022707)
 
+Ghost in the Field è un progetto che esplora le qualità spaziali RFID, visualizzate attraverso una sonda composta da un sensore RFID e un led. La sonda RFID si illumina quando entra nel raggio d'azione dell'attuatore RFID, mentre una macchina fotografica, impostata con un lunghissimo tempo di esposizione cattura la luce del led disegnando il raggio d'azione.
 
-#### Immaterials: Satellite Lamps ####
+
+### Immaterials: Satellite Lamps ###
+
+![alt text](http://i.imgur.com/Hob3UNR.jpg)
 
 Anno - 2014
 
 Design — Einar Sneve Martinussen, Jørn Knutsen & Timo Arnall
 
 Video - [Satellite Lamps](https://vimeo.com/97054557)
+
+Satellite Lamps è un progetto che rivela una delle più significative infrastrutture tecnologiche contemporanee, il Global Positioning System (GPS). 
+Attraverso delle lampade posizionate in vari punti della città, si vuole esplorare le realtà culturali e materiali della tecnologia GPS e sviluppare nuove idee per la progettazione.
+Le lampade si illuminano in base alla qualità del segnale GPS ricevuto dai satelliti, la variazione di luce viene caturata  attraverso timelapse.
+Il timelapse utilizzato per il video, mostra la variazione del segnale e come questo cambia in base alla qualità e alla presenza di satelliti intorno a noi.
+
 
 
 

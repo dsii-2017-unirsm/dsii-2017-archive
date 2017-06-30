@@ -1,5 +1,7 @@
 # Monument #
 
+![alt text](http://i0.wp.com/caleblarsen.com/wordpress/wp-content/uploads/2013/01/CalebLarsen_03.jpg)
+
 Anno - 2006
 
 Design — [Caleb Larsen](http://caleblarsen.com)
@@ -25,3 +27,39 @@ Ciò ci consentirebbe di identificare in che quantità tra uomini donne e bambin
 In alternativa il codice cromatico potrebbe anche definire la tipologia di morte: assassinio, suicidio, morte naturale, eutanasia, morte accidentale o morte bianca.
 
 ## Altri Progetti ##
+### Mount Fear: Elevation Map of Crime Rates ###
+
+![alt text](http://i.imgur.com/rv359e1.jpg)
+
+Anno - 2003 
+
+Design — Abigail Reynolds
+
+Progetto - [Mount Fear](http://www.abigailreynolds.com/works/44/mount-fear-east-london/#)
+
+Una mappa 3D della porzione Est di Londra, in cui viene rappresentato il tasso di crimini violenti tra il 2002 e il 2003.
+L'elevazione della mappa è ottenuta attraverso la statificazione del cartone, che in base al tasso di criminalita determinano la sua altezza.
+Mount Fear rappresenta un monumento scolpito dalla violenza, ma anche il paesaggio nascosto di Londra Est.
+
+### Of All the People in All the World: Stats with Rice ###
+
+![alt text](http://i.imgur.com/r8y1j29.jpg)
+
+Anno - 2004 
+
+Design — Stan's Cafe
+
+Progetto - [Stats with Rice](http://www.stanscafe.co.uk/project-of-all-the-people.html)
+
+I designer del gruppo Stan's Cafe dal 2004 stanno cercando di creare dei "data landscapes" ovvero dei pesaggio creati attraverso dei dati.
+Stats with Rice rappresenta un progetto "errante" che visita diverse città, che sfruttando il riso come unita per la rappresentazione di dati.
+Ogni grano di riso rappresenta una persona, essi poi viengono ammassati in cumoli, i quali possono rappresentare diferenti tipologie di dato:
+* Le popolazioni di città e città
+* Il numero di medici, il numero di soldati
+* Il numero di persone nate ogni giorno e il numero di persone che muore
+* Tutte le persone che hanno camminato sulla luna
+* I morti durante l'olocausto
+
+Stats with Rice non rappresenta solo una modalità per la rappresentazione di dati o un paesaggio creato da dati, ma un monumento che testimonia la mole e il volume di un evento, quantificati attraverso i cumoli di riso.
+
+
